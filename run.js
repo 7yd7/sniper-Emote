@@ -18,7 +18,8 @@ const EXISTING_FILE = "EmoteSniper.json";
 const THUMBNAIL_API =
     "https://thumbnails.roblox.com/v1/assets?assetIds={id}&size=420x420&format=Png&isCircular=false";
 
-const CONCURRENT_REQUESTS = 1;
+const CONCURRENT_REQUESTS = 5;
+const BATCH_DELAY = 2000; 
 
 function log(message) {
     console.log(`[${new Date().toISOString()}] ${message}`);
@@ -104,12 +105,16 @@ async function checkMultipleAssets(assetIds) {
             log(`Checked ${Math.min(i + CONCURRENT_REQUESTS, assetIds.length)}/${assetIds.length} assets`);
         } catch (error) {
             log(`Batch failed, retrying individually...`);
-            // إعادة محاولة فردية للعناصر الفاشلة
             for (const id of batch) {
                 if (!results.has(id)) {
                     results.set(id, await checkAssetValidity(id));
                 }
             }
+        }
+
+        // انتظر بين كل دفعة والثانية (إلا إذا وصل للنهاية)
+        if (i + CONCURRENT_REQUESTS < assetIds.length) {
+            await new Promise(resolve => setTimeout(resolve, BATCH_DELAY));
         }
     }
     
