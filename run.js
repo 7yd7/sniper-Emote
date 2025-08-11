@@ -18,7 +18,7 @@ const EXISTING_FILE = "EmoteSniper.json";
 const THUMBNAIL_API =
     "https://thumbnails.roblox.com/v1/assets?assetIds={id}&size=420x420&format=Png&isCircular=false";
 
-const CONCURRENT_REQUESTS = 5;
+const CONCURRENT_REQUESTS = 1;
 
 function log(message) {
     console.log(`[${new Date().toISOString()}] ${message}`);
