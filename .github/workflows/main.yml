@@ -9,12 +9,17 @@ jobs:
   run-script:
     runs-on: ubuntu-latest
     timeout-minutes: 30 
+    
+    permissions:
+      contents: write
+      actions: read
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -27,7 +32,7 @@ jobs:
       - name: Run Emote Sniper Script
         run: |
           echo "Starting EmoteSniper update..."
-          node run.js
+          node run-once.js
           echo "Script execution completed"
         timeout-minutes: 25
 
@@ -45,11 +50,11 @@ jobs:
       - name: Commit and Push Changes
         if: steps.check-changes.outputs.changes == 'true'
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git add EmoteSniper.json
           git commit -m "🤖 Auto update EmoteSniper data - $(date '+%Y-%m-%d %H:%M:%S UTC')"
-          git push
+          git push origin ${{ github.ref_name }}
 
       - name: Update Summary
         if: always()
