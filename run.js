@@ -37,7 +37,9 @@ function loadExistingData() {
 }
 
 async function makeRequest(url, timeout = 10000) {
+    let attempt = 0;
     while (true) {
+        attempt++;
         try {
             return await new Promise((resolve, reject) => {
                 const timer = setTimeout(() => reject(new Error("Timeout")), timeout);
@@ -66,6 +68,9 @@ async function makeRequest(url, timeout = 10000) {
                 });
             });
         } catch (error) {
+            if (attempt % 10 === 0) {
+                log(`Request failing ${attempt} times: ${error.message}`);
+            }
             await new Promise(resolve => setTimeout(resolve, 200));
         }
     }
@@ -87,6 +92,7 @@ async function checkAssetValidity(assetId) {
 
 async function checkMultipleAssets(assetIds) {
     const results = new Map();
+    log(`Checking ${assetIds.length} assets...`);
     
     for (let i = 0; i < assetIds.length; i += CONCURRENT_REQUESTS) {
         const batch = assetIds.slice(i, i + CONCURRENT_REQUESTS);
@@ -95,7 +101,9 @@ async function checkMultipleAssets(assetIds) {
         try {
             const batchResults = await Promise.all(promises);
             batchResults.forEach(({ id, result }) => results.set(id, result));
+            log(`Checked ${Math.min(i + CONCURRENT_REQUESTS, assetIds.length)}/${assetIds.length} assets`);
         } catch (error) {
+            log(`Batch failed, retrying individually...`);
             // إعادة محاولة فردية للعناصر الفاشلة
             for (const id of batch) {
                 if (!results.has(id)) {
@@ -113,6 +121,8 @@ async function fetchAllPages(baseUrl, apiName) {
     let cursor = "";
     let pageCount = 0;
     
+    log(`Starting ${apiName}...`);
+    
     while (true) {
         try {
             pageCount++;
@@ -121,6 +131,7 @@ async function fetchAllPages(baseUrl, apiName) {
             
             if (response.data && Array.isArray(response.data)) {
                 items.push(...response.data);
+                log(`${apiName} page ${pageCount}: +${response.data.length} items (total: ${items.length})`);
             }
             
             if (!response.nextPageCursor || response.nextPageCursor.trim() === "") {
@@ -134,6 +145,7 @@ async function fetchAllPages(baseUrl, apiName) {
         }
     }
     
+    log(`${apiName} completed: ${items.length} items`);
     return items;
 }
 
@@ -215,22 +227,32 @@ function saveData(items) {
 
 async function runOnce() {
     const startTime = Date.now();
+    log("Starting EmoteSniper...");
     
     try {
+        log("Loading existing data...");
         const existing = loadExistingData();
+        log(`Found ${existing.items.length} existing items`);
+        
+        log("Checking for removed items...");
         const { validItems, removedCount } = await checkForRemovedItems(existing.items);
+        log(`Removed ${removedCount} blocked items, ${validItems.length} remain`);
+        
         const globalIds = new Set(validItems.map(item => item.id));
         const allValidItems = [...validItems];
         
+        log("Fetching from APIs...");
         const stats = await fetchFromAllAPIs(globalIds, allValidItems);
+        
+        log("Saving data...");
         saveData(allValidItems);
         
         const duration = ((Date.now() - startTime) / 1000).toFixed(2);
-        log(`Complete: ${allValidItems.length} items | +${stats.newValid} | -${removedCount} | ${duration}s`);
+        log(`COMPLETE: ${allValidItems.length} total | +${stats.newValid} new | -${removedCount} removed | ${duration}s`);
         
         process.exit(0);
     } catch (error) {
-        log(`Error: ${error.message}`);
+        log(`FATAL ERROR: ${error.message}`);
         process.exit(1);
     }
 }
