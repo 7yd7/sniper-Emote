@@ -17,8 +17,6 @@ const APIs = [
 const EXISTING_FILE = "EmoteSniper.json";
 const THUMBNAIL_API =
     "https://thumbnails.roblox.com/v1/assets?assetIds={id}&size=420x420&format=Png&isCircular=false";
-const RUN_INTERVAL = 60 * 60 * 1000;
-const INITIAL_DELAY = 5000;
 
 const CONCURRENT_REQUESTS = 10; 
 const BATCH_DELAY = 100;
@@ -299,8 +297,7 @@ async function checkForRemovedItems(existingItems) {
     return { validItems, removedCount };
 }
 
-function saveData(items, isTemp = false) {
-    const filename = isTemp ? "EmoteSniper_temp.json" : EXISTING_FILE;
+function saveData(items) {
     const output = {
         keyword: null,
         totalItems: items.length,
@@ -309,7 +306,7 @@ function saveData(items, isTemp = false) {
     };
 
     try {
-        fs.writeFileSync(filename, JSON.stringify(output, null, 2), "utf8");
+        fs.writeFileSync(EXISTING_FILE, JSON.stringify(output, null, 2), "utf8");
         return true;
     } catch (error) {
         log(`Save error: ${error.message}`);
@@ -317,9 +314,9 @@ function saveData(items, isTemp = false) {
     }
 }
 
-async function updateEmotes() {
+async function runOnce() {
     const startTime = Date.now();
-    log("Starting EmoteSniper update with optimized parallel processing...");
+    log("Starting EmoteSniper one-time update for GitHub Actions...");
 
     try {
         const existing = loadExistingData();
@@ -333,11 +330,7 @@ async function updateEmotes() {
 
         const totalStats = await fetchFromAllAPIs(globalIds, allValidItems);
 
-        const saveSuccess = saveData(allValidItems, false);
-
-        if (fs.existsSync("EmoteSniper_temp.json")) {
-            fs.unlinkSync("EmoteSniper_temp.json");
-        }
+        const saveSuccess = saveData(allValidItems);
 
         const duration = ((Date.now() - startTime) / 1000).toFixed(2);
 
@@ -346,56 +339,13 @@ async function updateEmotes() {
         );
         log(`Performance: ~${(allValidItems.length / parseFloat(duration)).toFixed(1)} items/second`);
 
-        return {
-            success: true,
-            totalItems: allValidItems.length,
-            newItems: totalStats.newValid,
-            removedItems: removedCount,
-            duration: duration,
-        };
+        log("Script completed successfully, exiting...");
+        process.exit(0);
+
     } catch (error) {
         log(`Update error: ${error.message}`);
-        return {
-            success: false,
-            error: error.message,
-        };
+        process.exit(1);
     }
 }
 
-function cleanup(signal) {
-    log(`Stopping scheduler...`);
-    process.exit(0);
-}
-
-process.on("SIGINT", () => cleanup("SIGINT"));
-process.on("SIGTERM", () => cleanup("SIGTERM"));
-process.on("SIGHUP", () => cleanup("SIGHUP"));
-
-process.on("unhandledRejection", (reason, promise) => {
-    log(`Unhandled error: ${reason}`);
-});
-
-process.on("uncaughtException", (error) => {
-    log(`Uncaught exception: ${error.message}`);
-});
-
-async function main() {
-    log(
-        `Starting EmoteSniper with ${CONCURRENT_REQUESTS} concurrent requests - Update every ${RUN_INTERVAL / (60 * 1000)} minutes`,
-    );
-
-    setTimeout(async () => {
-        await updateEmotes();
-
-        setInterval(async () => {
-            await updateEmotes();
-        }, RUN_INTERVAL);
-
-        log(`Scheduler active - Ctrl+C to stop`);
-    }, INITIAL_DELAY);
-}
-
-main().catch((error) => {
-    log(`Scheduler startup error: ${error.message}`);
-    process.exit(1);
-});
+runOnce();
