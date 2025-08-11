@@ -10,19 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: سحب المشروع
+      - name:
         uses: actions/checkout@v4
 
-      - name: تثبيت Node.js
+      - name:
         uses: actions/setup-node@v4
         with:
           node-version: 18
 
-      - name: تثبيت المكتبات (لو عندك package.json)
+      - name: npm
         run: npm install || echo "No dependencies"
 
       - name: تشغيل السكربت
-        run: node script.js # غيّر الاسم لو سكربتك باسم ثاني
+        run: node run.js
 
       - name: حفظ التغييرات
         run: |
