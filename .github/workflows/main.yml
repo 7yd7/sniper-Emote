@@ -1,69 +1,25 @@
-name: Run Emote Sniper
+name: EmoteSniper Scheduled Run
 
 on:
   schedule:
-    - cron: "0 * * * *" 
-  workflow_dispatch: 
+    - cron: '0 * * * *'  
+  workflow_dispatch:    
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
-    timeout-minutes: 30 
-    
-    permissions:
-      contents: write
-      actions: read
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0 
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: '18'
 
-      - name: Install Dependencies
-        run: npm install --no-optional || echo "No dependencies found"
+      - name: Install dependencies (if any)
+        run: npm run.js
 
-      - name: Run Emote Sniper Script
-        run: |
-          echo "Starting EmoteSniper update..."
-          node run.js
-          echo "Script execution completed"
-        timeout-minutes: 25
-
-      - name: Check for Changes
-        id: check-changes
-        run: |
-          if git diff --quiet EmoteSniper.json; then
-            echo "changes=false" >> $GITHUB_OUTPUT
-            echo "No changes detected in EmoteSniper.json"
-          else
-            echo "changes=true" >> $GITHUB_OUTPUT
-            echo "Changes detected in EmoteSniper.json"
-          fi
-
-      - name: Commit and Push Changes
-        if: steps.check-changes.outputs.changes == 'true'
-        run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git add EmoteSniper.json
-          git commit -m "🤖 Auto update EmoteSniper data - $(date '+%Y-%m-%d %H:%M:%S UTC')"
-          git push origin ${{ github.ref_name }}
-
-      - name: Update Summary
-        if: always()
-        run: |
-          echo "## 📊 EmoteSniper Update Summary" >> $GITHUB_STEP_SUMMARY
-          echo "- **Status:** ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
-          echo "- **Timestamp:** $(date)" >> $GITHUB_STEP_SUMMARY
-          if [ "${{ steps.check-changes.outputs.changes }}" == "true" ]; then
-            echo "- **Changes:** ✅ Data updated and committed" >> $GITHUB_STEP_SUMMARY
-          else
-            echo "- **Changes:** ⚪ No changes detected" >> $GITHUB_STEP_SUMMARY
-          fi
+      - name: Run EmoteSniper script
+        run: node path/to/your/script.js
