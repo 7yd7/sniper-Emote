@@ -1,0 +1,33 @@
+name: Run Emote Sniper
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: 
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: سحب المشروع
+        uses: actions/checkout@v4
+
+      - name: تثبيت Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: تثبيت المكتبات (لو عندك package.json)
+        run: npm install || echo "No dependencies"
+
+      - name: تشغيل السكربت
+        run: node script.js # غيّر الاسم لو سكربتك باسم ثاني
+
+      - name: حفظ التغييرات
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add EmoteSniper.json
+          git commit -m "Auto update EmoteSniper data" || echo "No changes to commit"
+          git push
