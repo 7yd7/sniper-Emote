@@ -32,7 +32,7 @@ jobs:
       - name: Run Emote Sniper Script
         run: |
           echo "Starting EmoteSniper update..."
-          node run-once.js
+          node run.js
           echo "Script execution completed"
         timeout-minutes: 25
 
