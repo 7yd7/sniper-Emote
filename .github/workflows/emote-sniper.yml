@@ -1,6 +1,5 @@
 name: EmoteSniper Auto Update
 
-# تشغيل كل ساعة
 on:
   schedule:
     - cron: '0 * * * *'
