@@ -15,11 +15,6 @@ const APIs = [
 ];
 
 const EXISTING_FILE = "EmoteSniper.json";
-const THUMBNAIL_API =
-    "https://thumbnails.roblox.com/v1/assets?assetIds={id}&size=420x420&format=Png&isCircular=false";
-
-const CONCURRENT_REQUESTS = 10; 
-const BATCH_DELAY = 100;
 
 function log(message) {
     const timestamp = new Date().toISOString();
@@ -40,116 +35,11 @@ function loadExistingData() {
     return { items: [], ids: new Set() };
 }
 
-async function checkAssetValidity(assetId, maxRetries = 3) {
-    for (let attempt = 1; attempt <= maxRetries; attempt++) {
-        try {
-            const result = await new Promise((resolve, reject) => {
-                const url = THUMBNAIL_API.replace("{id}", assetId);
-
-                const timeout = setTimeout(() => {
-                    reject(new Error("Request timeout"));
-                }, 8000);
-
-                https
-                    .get(url, (res) => {
-                        clearTimeout(timeout);
-                        let data = "";
-
-                        res.on("data", (chunk) => {
-                            data += chunk;
-                        });
-
-                        res.on("end", () => {
-                            try {
-                                const jsonData = JSON.parse(data);
-                                if (jsonData.data && jsonData.data.length > 0) {
-                                    const state = jsonData.data[0].state;
-                                    if (state === "Blocked") {
-                                        resolve({
-                                            valid: false,
-                                            blocked: true,
-                                        });
-                                    } else if (state === "Completed") {
-                                        resolve({
-                                            valid: true,
-                                            blocked: false,
-                                        });
-                                    } else {
-                                        resolve({
-                                            valid: false,
-                                            blocked: false,
-                                        });
-                                    }
-                                } else {
-                                    resolve({ valid: false, blocked: false });
-                                }
-                            } catch {
-                                resolve({ valid: false, blocked: false });
-                            }
-                        });
-                    })
-                    .on("error", (error) => {
-                        clearTimeout(timeout);
-                        reject(error);
-                    });
-            });
-
-            return result;
-        } catch (error) {
-            if (attempt === maxRetries) {
-                return { valid: false, blocked: false };
-            }
-            await new Promise((resolve) => setTimeout(resolve, 1000 * attempt));
-        }
-    }
-}
-
-async function checkMultipleAssets(assetIds) {
-    const results = new Map();
-    
-    for (let i = 0; i < assetIds.length; i += CONCURRENT_REQUESTS) {
-        const batch = assetIds.slice(i, i + CONCURRENT_REQUESTS);
-        
-        const batchPromises = batch.map(async (assetId) => {
-            const result = await checkAssetValidity(assetId);
-            return { assetId, result };
-        });
-        
-        try {
-            const batchResults = await Promise.all(batchPromises);
-            batchResults.forEach(({ assetId, result }) => {
-                results.set(assetId, result);
-            });
-            
-            if (i + CONCURRENT_REQUESTS < assetIds.length) {
-                await new Promise(resolve => setTimeout(resolve, BATCH_DELAY));
-            }
-            
-            log(`Checked ${Math.min(i + CONCURRENT_REQUESTS, assetIds.length)}/${assetIds.length} assets`);
-        } catch (error) {
-            log(`Error in batch processing: ${error.message}`);
-            for (const assetId of batch) {
-                if (!results.has(assetId)) {
-                    try {
-                        const result = await checkAssetValidity(assetId);
-                        results.set(assetId, result);
-                    } catch (individualError) {
-                        results.set(assetId, { valid: false, blocked: false });
-                    }
-                }
-            }
-        }
-    }
-    
-    return results;
-}
-
 async function fetchData(baseUrl, cursor = "", maxRetries = 3) {
     for (let attempt = 1; attempt <= maxRetries; attempt++) {
         try {
             const data = await new Promise((resolve, reject) => {
                 const url = `${baseUrl}${cursor ? `&Cursor=${cursor}` : ""}`;
-
                 const timeout = setTimeout(() => {
                     reject(new Error("Request timeout"));
                 }, 30000);
@@ -193,9 +83,9 @@ async function fetchData(baseUrl, cursor = "", maxRetries = 3) {
     }
 }
 
-async function fetchFromAllAPIs(globalIds, allValidItems) {
+async function fetchFromAllAPIs(globalIds, allItems) {
     log("Starting parallel API fetching...");
-    
+
     const allApiPromises = APIs.map(async (apiInfo) => {
         const apiItems = [];
         let nextPageCursor = null;
@@ -205,6 +95,7 @@ async function fetchFromAllAPIs(globalIds, allValidItems) {
             do {
                 pageCount++;
                 log(`${apiInfo.name} - Page ${pageCount}`);
+
                 const response = await fetchData(apiInfo.baseUrl, nextPageCursor);
 
                 if (response.data && Array.isArray(response.data)) {
@@ -222,13 +113,13 @@ async function fetchFromAllAPIs(globalIds, allValidItems) {
     });
 
     const allApiResults = await Promise.all(allApiPromises);
-    
     const newItems = [];
     let duplicateCount = 0;
-    
+
     allApiResults.forEach(({ apiName, items }) => {
         log(`${apiName} returned ${items.length} items`);
-        items.forEach(item => {
+
+        items.forEach((item) => {
             if (globalIds.has(item.id)) {
                 duplicateCount++;
             } else {
@@ -238,63 +129,14 @@ async function fetchFromAllAPIs(globalIds, allValidItems) {
         });
     });
 
-    log(`Found ${newItems.length} new items to validate, ${duplicateCount} duplicates`);
-
-    let newValidCount = 0;
-    let invalidCount = 0;
-    let blockedCount = 0;
-
-    if (newItems.length > 0) {
-        const assetIds = newItems.map(item => item.id);
-        const validationResults = await checkMultipleAssets(assetIds);
-
-        newItems.forEach(item => {
-            const result = validationResults.get(item.id);
-            if (result && result.valid) {
-                allValidItems.push({ id: item.id, name: item.name });
-                newValidCount++;
-            } else if (result && result.blocked) {
-                blockedCount++;
-            } else {
-                invalidCount++;
-            }
-        });
-    }
+    allItems.push(
+        ...newItems.map((item) => ({ id: item.id, name: item.name }))
+    );
 
     return {
-        newValid: newValidCount,
+        newItems: newItems.length,
         duplicate: duplicateCount,
-        invalid: invalidCount,
-        blocked: blockedCount,
     };
-}
-
-async function checkForRemovedItems(existingItems) {
-    log(`Checking ${existingItems.length} existing items for removal...`);
-    
-    let removedCount = 0;
-    const validItems = [];
-
-    if (existingItems.length === 0) {
-        return { validItems, removedCount };
-    }
-
-    const assetIds = existingItems.map(item => item.id);
-    
-    const validationResults = await checkMultipleAssets(assetIds);
-
-    existingItems.forEach(item => {
-        const result = validationResults.get(item.id);
-        if (result && result.blocked) {
-            removedCount++;
-            log(`Item removed (blocked): ${item.name} (${item.id})`);
-        } else {
-            validItems.push(item);
-        }
-    });
-
-    log(`Removed ${removedCount} blocked items, ${validItems.length} items remain valid`);
-    return { validItems, removedCount };
 }
 
 function saveData(items) {
@@ -306,7 +148,11 @@ function saveData(items) {
     };
 
     try {
-        fs.writeFileSync(EXISTING_FILE, JSON.stringify(output, null, 2), "utf8");
+        fs.writeFileSync(
+            EXISTING_FILE,
+            JSON.stringify(output, null, 2),
+            "utf8"
+        );
         return true;
     } catch (error) {
         log(`Save error: ${error.message}`);
@@ -314,46 +160,66 @@ function saveData(items) {
     }
 }
 
-async function runOnce() {
+async function updateEmotes() {
     const startTime = Date.now();
     log("Starting EmoteSniper update...");
 
     try {
         const existing = loadExistingData();
+        const globalIds = new Set(existing.items.map((item) => item.id));
+        const allItems = [...existing.items];
 
-        const { validItems, removedCount } = await checkForRemovedItems(
-            existing.items,
-        );
-
-        const globalIds = new Set(validItems.map((item) => item.id));
-        const allValidItems = [...validItems];
-
-        const totalStats = await fetchFromAllAPIs(globalIds, allValidItems);
-
-        const saveSuccess = saveData(allValidItems);
+        const totalStats = await fetchFromAllAPIs(globalIds, allItems);
+        const saveSuccess = saveData(allItems);
 
         const duration = ((Date.now() - startTime) / 1000).toFixed(2);
 
         log(
-            `Update complete - Items: ${allValidItems.length} | New: ${totalStats.newValid} | Removed: ${removedCount} | Time: ${duration}s`,
+            `Update complete - Items: ${allItems.length} | New: ${totalStats.newItems} | Time: ${duration}s`
         );
-        log(`Performance: ~${(allValidItems.length / parseFloat(duration)).toFixed(1)} items/second`);
 
-        log("Script completed successfully.");
-        return;
-
+        return {
+            success: true,
+            totalItems: allItems.length,
+            newItems: totalStats.newItems,
+            duration: duration,
+        };
     } catch (error) {
         log(`Update error: ${error.message}`);
-        return;
+        return {
+            success: false,
+            error: error.message,
+        };
     }
 }
 
-function startScheduler() {
-    runOnce();
-
-    setInterval(() => {
-        runOnce();
-    }, 3600000); // كل ساعة
+async function main() {
+    log("Starting EmoteSniper single run...");
+    
+    try {
+        const result = await updateEmotes();
+        
+        if (result.success) {
+            log("EmoteSniper completed successfully");
+            process.exit(0);
+        } else {
+            log(`EmoteSniper failed: ${result.error}`);
+            process.exit(1);
+        }
+    } catch (error) {
+        log(`EmoteSniper error: ${error.message}`);
+        process.exit(1);
+    }
 }
 
-startScheduler();
+process.on("unhandledRejection", (reason) => {
+    log(`Unhandled error: ${reason}`);
+    process.exit(1);
+});
+
+process.on("uncaughtException", (error) => {
+    log(`Uncaught exception: ${error.message}`);
+    process.exit(1);
+});
+
+main();
