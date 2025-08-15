@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 9989,
-  "lastUpdate": "2025-08-15T18:27:59.531Z",
+  "totalItems": 10012,
+  "lastUpdate": "2025-08-15T19:15:21.261Z",
   "data": [
     {
       "id": 3360689775,
@@ -39958,6 +39958,98 @@
     {
       "id": 130234763298900,
       "name": "Explosion Emote"
+    },
+    {
+      "id": 77285331215228,
+      "name": "Sway Sit "
+    },
+    {
+      "id": 128731707892644,
+      "name": "Grab the wall - Gas pedal"
+    },
+    {
+      "id": 81310744890118,
+      "name": "Cute Pikachu Scene Emote Bunny Ears"
+    },
+    {
+      "id": 136215053750126,
+      "name": "Simulate death"
+    },
+    {
+      "id": 116919706637116,
+      "name": "Dark Souls \"Shrug\""
+    },
+    {
+      "id": 128773830206222,
+      "name": "Black Hole Ring of Fire"
+    },
+    {
+      "id": 116772479127703,
+      "name": "Sisters Style"
+    },
+    {
+      "id": 97721200487133,
+      "name": "/e phase"
+    },
+    {
+      "id": 102077334254005,
+      "name": "Levitating"
+    },
+    {
+      "id": 140402728695134,
+      "name": "Arona Dance Animation"
+    },
+    {
+      "id": 88433836073996,
+      "name": "angelic float"
+    },
+    {
+      "id": 120295607030050,
+      "name": "princess wave"
+    },
+    {
+      "id": 72514056778277,
+      "name": "Kicking Feet Sit"
+    },
+    {
+      "id": 122382244710245,
+      "name": "mwa "
+    },
+    {
+      "id": 125733507459083,
+      "name": "Katy Perry - Firework"
+    },
+    {
+      "id": 90809426198503,
+      "name": "Confess dance"
+    },
+    {
+      "id": 140642590719596,
+      "name": "Small Box (Hide)"
+    },
+    {
+      "id": 86949728528430,
+      "name": "Tactical Groove"
+    },
+    {
+      "id": 91146867536663,
+      "name": "Cute Selfie Pose Emote"
+    },
+    {
+      "id": 93808240353606,
+      "name": "Epic Swing"
+    },
+    {
+      "id": 136654017187200,
+      "name": "PushUp"
+    },
+    {
+      "id": 107676525700298,
+      "name": "♡ cute tired kawaii cat girl sitting shy idle pose"
+    },
+    {
+      "id": 81798360795561,
+      "name": "Basketball Crossover Head Dribble 💥"
     }
   ]
 }
