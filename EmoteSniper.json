@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 9927,
-  "lastUpdate": "2025-08-15T16:23:55.765Z",
+  "totalItems": 9950,
+  "lastUpdate": "2025-08-15T17:17:29.537Z",
   "data": [
     {
       "id": 3360689775,
@@ -39710,6 +39710,98 @@
     {
       "id": 96342954873959,
       "name": "Sword Stance / Idle"
+    },
+    {
+      "id": 115091332905193,
+      "name": "T-Pose Spinning"
+    },
+    {
+      "id": 125071338218683,
+      "name": "Countdown 10"
+    },
+    {
+      "id": 127309923835472,
+      "name": "Astroslide Dance"
+    },
+    {
+      "id": 98845969773514,
+      "name": "APT"
+    },
+    {
+      "id": 95483664857303,
+      "name": "♡ Outfit Check Pose"
+    },
+    {
+      "id": 106955290927065,
+      "name": "Heavy Laugh (TF2)"
+    },
+    {
+      "id": 117824904560527,
+      "name": "dog spin"
+    },
+    {
+      "id": 105390509418711,
+      "name": "Edge Sit"
+    },
+    {
+      "id": 127280345006016,
+      "name": "Cat Dance"
+    },
+    {
+      "id": 106895109120633,
+      "name": "It's a Vibe"
+    },
+    {
+      "id": 77321279601021,
+      "name": "cute confused girl"
+    },
+    {
+      "id": 117017457839463,
+      "name": "Confess your love dance"
+    },
+    {
+      "id": 109977435218453,
+      "name": "Take The L"
+    },
+    {
+      "id": 136737135107143,
+      "name": "[R6] Retro Float"
+    },
+    {
+      "id": 139136031660535,
+      "name": "Breakdance Y2K"
+    },
+    {
+      "id": 103836374932587,
+      "name": "Dance to get +15 Social Credits!"
+    },
+    {
+      "id": 82095249521755,
+      "name": "Invincible Phonk Emote"
+    },
+    {
+      "id": 75561560775727,
+      "name": "/e walk"
+    },
+    {
+      "id": 109051295481157,
+      "name": "Subject 3 Cat Dance"
+    },
+    {
+      "id": 80503806863190,
+      "name": "Be Your Idol - KPOP Demon Hunters"
+    },
+    {
+      "id": 138419799503199,
+      "name": "Caffeinated"
+    },
+    {
+      "id": 138645486924614,
+      "name": "Mega Pooping"
+    },
+    {
+      "id": 114110204497504,
+      "name": "Confess Your / Hips Dance"
     }
   ]
 }
