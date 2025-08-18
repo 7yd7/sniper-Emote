@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 11086,
-  "lastUpdate": "2025-08-18T01:43:25.936Z",
+  "totalItems": 11105,
+  "lastUpdate": "2025-08-18T03:38:25.853Z",
   "data": [
     {
       "id": 3360689775,
@@ -44346,6 +44346,82 @@
     {
       "id": 108301125736720,
       "name": "Xaviersobased Emote"
+    },
+    {
+      "id": 81486121911851,
+      "name": "Couch 🛋️"
+    },
+    {
+      "id": 129861012882037,
+      "name": "Garry's Dance (GMOD)"
+    },
+    {
+      "id": 103949822731191,
+      "name": "Assassin Leap of Faith"
+    },
+    {
+      "id": 82262092137603,
+      "name": "Kitty, Nya!"
+    },
+    {
+      "id": 86253308065819,
+      "name": "become a forklift"
+    },
+    {
+      "id": 87201246746821,
+      "name": "Golden - HUNTR/X"
+    },
+    {
+      "id": 119974742980370,
+      "name": "Begone Flick"
+    },
+    {
+      "id": 111045435055994,
+      "name": "Making Snow Angels"
+    },
+    {
+      "id": 106438226215615,
+      "name": "Drifting [WORKS WITH CARS]"
+    },
+    {
+      "id": 137761345568709,
+      "name": "Michael Myers Dance"
+    },
+    {
+      "id": 109059516927096,
+      "name": "CatPetterz"
+    },
+    {
+      "id": 136116124718153,
+      "name": "Griddy"
+    },
+    {
+      "id": 124273009303847,
+      "name": "Gangnam Style"
+    },
+    {
+      "id": 137962324183536,
+      "name": "Soda Pop"
+    },
+    {
+      "id": 72542859194046,
+      "name": "Miku Playlist Pose"
+    },
+    {
+      "id": 124417712867027,
+      "name": "Boombox Dance"
+    },
+    {
+      "id": 79561543481997,
+      "name": "Superhero flight [Fly]"
+    },
+    {
+      "id": 127052980093330,
+      "name": "Raining Arrows"
+    },
+    {
+      "id": 122839512278594,
+      "name": "Cool Flying Emote"
     }
   ]
 }
