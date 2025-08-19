@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 11472,
-  "lastUpdate": "2025-08-19T06:28:57.512Z",
+  "totalItems": 11488,
+  "lastUpdate": "2025-08-19T07:18:03.693Z",
   "data": [
     {
       "id": 3360689775,
@@ -45890,6 +45890,70 @@
     {
       "id": 119423844086304,
       "name": "Optimus Prime Emote"
+    },
+    {
+      "id": 124619289645222,
+      "name": "Lifting Them (Matching Emote)"
+    },
+    {
+      "id": 100591473795332,
+      "name": "Michael Myers Shake Dance Emote"
+    },
+    {
+      "id": 89779776441258,
+      "name": "Held By Them (Matching Emote)"
+    },
+    {
+      "id": 101180986955199,
+      "name": "Sweet Daydreams"
+    },
+    {
+      "id": 107454152103354,
+      "name": "Body Tea Idle"
+    },
+    {
+      "id": 127535506488548,
+      "name": "♡ kawaii sit back idle pose"
+    },
+    {
+      "id": 115351568864434,
+      "name": "Confess Dance"
+    },
+    {
+      "id": 104068218960247,
+      "name": "Michael Jordan"
+    },
+    {
+      "id": 94267118819480,
+      "name": "[MATCHING] Sitting Hug 2"
+    },
+    {
+      "id": 129126690635825,
+      "name": "biblically accurate goober"
+    },
+    {
+      "id": 125615320422582,
+      "name": "[MATCHING] Sitting Hug 1"
+    },
+    {
+      "id": 76221177410069,
+      "name": "Geometry Dash Ship Fly"
+    },
+    {
+      "id": 78902666230333,
+      "name": "yandere paranoid horror protag idle"
+    },
+    {
+      "id": 104758668926625,
+      "name": "Jojo Hand Signals"
+    },
+    {
+      "id": 112193978929474,
+      "name": "Maximum Aura Farming Dance"
+    },
+    {
+      "id": 136003174286916,
+      "name": "Gangnam Style Dance"
     }
   ]
 }
