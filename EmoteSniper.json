@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 13223,
-  "lastUpdate": "2025-08-27T09:19:34.031Z",
+  "totalItems": 13227,
+  "lastUpdate": "2025-08-27T10:18:38.884Z",
   "data": [
     {
       "id": 3360689775,
@@ -52894,6 +52894,22 @@
     {
       "id": 104283553456626,
       "name": "Jim Carrey dance"
+    },
+    {
+      "id": 82766136023075,
+      "name": "[NEW] Held on shoulder (duo emote)"
+    },
+    {
+      "id": 136271269847411,
+      "name": "Metro Man arm swings"
+    },
+    {
+      "id": 86149170797801,
+      "name": "Invisible"
+    },
+    {
+      "id": 88926148160390,
+      "name": "Icon Mode [Dynamic]"
     }
   ]
 }
