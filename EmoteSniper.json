@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 13232,
-  "lastUpdate": "2025-08-27T12:37:45.758Z",
+  "totalItems": 13235,
+  "lastUpdate": "2025-08-27T13:28:31.552Z",
   "data": [
     {
       "id": 3360689775,
@@ -52930,6 +52930,18 @@
     {
       "id": 74151449532675,
       "name": "cute kneeling emote"
+    },
+    {
+      "id": 73250315597804,
+      "name": "Scared Fetal"
+    },
+    {
+      "id": 83018945846626,
+      "name": "🌟VERY EXCITED GUY🌟"
+    },
+    {
+      "id": 118580624475756,
+      "name": "Hooray Emote"
     }
   ]
 }
