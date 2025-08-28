@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 13366,
-  "lastUpdate": "2025-08-28T09:19:59.482Z",
+  "totalItems": 13370,
+  "lastUpdate": "2025-08-28T10:20:33.668Z",
   "data": [
     {
       "id": 3360689775,
@@ -53466,6 +53466,22 @@
     {
       "id": 106115060143273,
       "name": "Rest"
+    },
+    {
+      "id": 72562031822028,
+      "name": "Baddie Shake"
+    },
+    {
+      "id": 136124349794249,
+      "name": "AURA GLITCH flying emote"
+    },
+    {
+      "id": 96351261888299,
+      "name": "Floating Relax Sit"
+    },
+    {
+      "id": 123098496104613,
+      "name": "Scout Scaredy Cat "
     }
   ]
 }
