@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 13402,
-  "lastUpdate": "2025-08-28T16:23:41.342Z",
+  "totalItems": 13411,
+  "lastUpdate": "2025-08-28T17:17:09.873Z",
   "data": [
     {
       "id": 3360689775,
@@ -53610,6 +53610,42 @@
     {
       "id": 100252728439321,
       "name": "Relaxed Floating Pose"
+    },
+    {
+      "id": 111410692668604,
+      "name": "Kuru kuru Kururin 😵‍💫 emote"
+    },
+    {
+      "id": 108011993598868,
+      "name": "kawaii princess giggle pose ♡"
+    },
+    {
+      "id": 115413821394081,
+      "name": "Animation"
+    },
+    {
+      "id": 99361714808662,
+      "name": "Animation"
+    },
+    {
+      "id": 110123552690005,
+      "name": "Lay Like Boss 😎"
+    },
+    {
+      "id": 122481949256720,
+      "name": "Falling Angel"
+    },
+    {
+      "id": 104670264657235,
+      "name": "Deltarune Win Jump"
+    },
+    {
+      "id": 73363207649090,
+      "name": "Tricksters Victory Pose"
+    },
+    {
+      "id": 126672317545750,
+      "name": "Aura Floating"
     }
   ]
 }
