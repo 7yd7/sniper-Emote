@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 13518,
-  "lastUpdate": "2025-08-29T21:16:32.014Z",
+  "totalItems": 13522,
+  "lastUpdate": "2025-08-29T22:17:27.144Z",
   "data": [
     {
       "id": 3360689775,
@@ -54074,6 +54074,22 @@
     {
       "id": 114756277915549,
       "name": "Locked (Forsaken)"
+    },
+    {
+      "id": 109294647641230,
+      "name": "Cutie Girl Idle Emote"
+    },
+    {
+      "id": 139109930448132,
+      "name": "Smug Dance"
+    },
+    {
+      "id": 100244816525031,
+      "name": "Meow Meow Girl Emote"
+    },
+    {
+      "id": 139750331539521,
+      "name": "Smug Dance"
     }
   ]
 }
