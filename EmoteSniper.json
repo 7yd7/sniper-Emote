@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 13944,
-  "lastUpdate": "2025-09-01T10:21:43.695Z",
+  "totalItems": 13950,
+  "lastUpdate": "2025-09-01T11:16:02.152Z",
   "data": [
     {
       "id": 3360689775,
@@ -55778,6 +55778,30 @@
     {
       "id": 80250369073472,
       "name": "Haunted Floating"
+    },
+    {
+      "id": 107744385512344,
+      "name": "Rafa Polinesio Enhanced Version"
+    },
+    {
+      "id": 123876958541700,
+      "name": "Michael Myers Shake"
+    },
+    {
+      "id": 72696807003339,
+      "name": "Floating Psychic"
+    },
+    {
+      "id": 121972523539302,
+      "name": "Griddy"
+    },
+    {
+      "id": 103687415030735,
+      "name": "Naruto Run"
+    },
+    {
+      "id": 96266183119481,
+      "name": "Lil Uzi Vert - New Patek"
     }
   ]
 }
