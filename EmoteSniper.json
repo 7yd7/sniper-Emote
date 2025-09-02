@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 14324,
-  "lastUpdate": "2025-09-02T12:38:36.219Z",
+  "totalItems": 14330,
+  "lastUpdate": "2025-09-02T13:30:32.435Z",
   "data": [
     {
       "id": 3360689775,
@@ -57298,6 +57298,30 @@
     {
       "id": 73190793702366,
       "name": "chill sitting emote animation pose"
+    },
+    {
+      "id": 120671769379974,
+      "name": "Dare"
+    },
+    {
+      "id": 140421106008717,
+      "name": "Slithering Worm"
+    },
+    {
+      "id": 92168351631727,
+      "name": "Laggy Death Troll"
+    },
+    {
+      "id": 129355695591243,
+      "name": "Floating Aura Vibes"
+    },
+    {
+      "id": 93006178687111,
+      "name": "Floating Aura Pose"
+    },
+    {
+      "id": 87487108478613,
+      "name": "Cute Float"
     }
   ]
 }
