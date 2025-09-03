@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 14483,
-  "lastUpdate": "2025-09-03T02:55:07.353Z",
+  "totalItems": 14490,
+  "lastUpdate": "2025-09-03T03:27:14.641Z",
   "data": [
     {
       "id": 3360689775,
@@ -57934,6 +57934,34 @@
     {
       "id": 97554824275915,
       "name": "Pursuer (Die of Death)"
+    },
+    {
+      "id": 130454346774884,
+      "name": "Lacy Worm"
+    },
+    {
+      "id": 108816644716501,
+      "name": "♡ Kawaii Thinking Idle Pose"
+    },
+    {
+      "id": 87851414540010,
+      "name": "The renegade"
+    },
+    {
+      "id": 75787458497555,
+      "name": "Naruto Pain"
+    },
+    {
+      "id": 113981771784581,
+      "name": "Goku Spirit Bomb"
+    },
+    {
+      "id": 93285667333436,
+      "name": "Eren Salute"
+    },
+    {
+      "id": 95192606294816,
+      "name": "Rock Lee"
     }
   ]
 }
