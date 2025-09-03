@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 14625,
-  "lastUpdate": "2025-09-03T21:16:43.119Z",
+  "totalItems": 14640,
+  "lastUpdate": "2025-09-03T22:16:39.567Z",
   "data": [
     {
       "id": 3360689775,
@@ -58502,6 +58502,66 @@
     {
       "id": 113435510315857,
       "name": "Ninja Samurai Katana Hold"
+    },
+    {
+      "id": 88855705467843,
+      "name": "Character Selection Spin"
+    },
+    {
+      "id": 111210240601613,
+      "name": "♡ mwah"
+    },
+    {
+      "id": 113299657506961,
+      "name": "Show off your shirt"
+    },
+    {
+      "id": 102517470211899,
+      "name": "[NEW] Battle Warm-Up"
+    },
+    {
+      "id": 135645863958424,
+      "name": "Saja Boys - Your Idol"
+    },
+    {
+      "id": 103269094358212,
+      "name": "Fake R15 Catwalk Glam Run Lag"
+    },
+    {
+      "id": 115335830942903,
+      "name": "Fake R15 Wicked Run Lag"
+    },
+    {
+      "id": 124331830064058,
+      "name": "Fake R15 Bold Run Lag"
+    },
+    {
+      "id": 105527855319796,
+      "name": "Jojo Pose"
+    },
+    {
+      "id": 91892322616824,
+      "name": "Fake R15 Ninja Run Lag"
+    },
+    {
+      "id": 83285992830248,
+      "name": "Angry Cross Arms Idle"
+    },
+    {
+      "id": 98559989796919,
+      "name": "Chill Sitting Pose"
+    },
+    {
+      "id": 122264397056104,
+      "name": "Cute Sit Pose"
+    },
+    {
+      "id": 95403451497532,
+      "name": "Sukuna Float"
+    },
+    {
+      "id": 104209069597154,
+      "name": "Hand on Hip Pose"
     }
   ]
 }
