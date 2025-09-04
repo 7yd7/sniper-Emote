@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 14864,
-  "lastUpdate": "2025-09-04T22:17:27.903Z",
+  "totalItems": 14870,
+  "lastUpdate": "2025-09-04T23:17:02.066Z",
   "data": [
     {
       "id": 3360689775,
@@ -59458,6 +59458,30 @@
     {
       "id": 101906052762224,
       "name": "⌛[LIMITED] Macarena Dance Emote "
+    },
+    {
+      "id": 117729142761391,
+      "name": "Start Digging Twin"
+    },
+    {
+      "id": 135809748467578,
+      "name": "michael myers dance"
+    },
+    {
+      "id": 84988907679999,
+      "name": "Samba Stance"
+    },
+    {
+      "id": 125519148857269,
+      "name": "Glitched Entity"
+    },
+    {
+      "id": 109779894589589,
+      "name": "excited spinning dog woof bark woof"
+    },
+    {
+      "id": 98354571031511,
+      "name": "Baby Dance"
     }
   ]
 }
