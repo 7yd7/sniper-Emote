@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 15058,
-  "lastUpdate": "2025-09-06T09:16:36.342Z",
+  "totalItems": 15066,
+  "lastUpdate": "2025-09-06T10:16:51.957Z",
   "data": [
     {
       "id": 3360689775,
@@ -60234,6 +60234,38 @@
     {
       "id": 134429549413830,
       "name": "Surfer (Matching Emote)"
+    },
+    {
+      "id": 79471440514225,
+      "name": "Cute Floating Preppy Pretty Princess Pose"
+    },
+    {
+      "id": 119174886593166,
+      "name": "Cute Sitting Preppy Pretty Princess Pose"
+    },
+    {
+      "id": 83846179178230,
+      "name": "Fake Climb Lag"
+    },
+    {
+      "id": 108923990372020,
+      "name": "Fake Fall Lag"
+    },
+    {
+      "id": 76539865990465,
+      "name": "Aura Sitting Pose Floating"
+    },
+    {
+      "id": 132021135960162,
+      "name": "Cute Profile Stand"
+    },
+    {
+      "id": 71962822199928,
+      "name": "Inosuke pose"
+    },
+    {
+      "id": 89948961270814,
+      "name": "Temper Tantrum"
     }
   ]
 }
