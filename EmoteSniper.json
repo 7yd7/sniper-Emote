@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 15479,
-  "lastUpdate": "2025-09-08T20:20:30.199Z",
+  "totalItems": 15488,
+  "lastUpdate": "2025-09-08T21:17:11.908Z",
   "data": [
     {
       "id": 3360689775,
@@ -61918,6 +61918,42 @@
     {
       "id": 85904895996096,
       "name": "beautiful dance"
+    },
+    {
+      "id": 79253527416566,
+      "name": "Too Slow Idle"
+    },
+    {
+      "id": 84698555284248,
+      "name": "gymnastics trick"
+    },
+    {
+      "id": 95692180804480,
+      "name": "Car drifting(actually drifting)"
+    },
+    {
+      "id": 94181651578847,
+      "name": "Classic Sit"
+    },
+    {
+      "id": 129259402015872,
+      "name": "Relaxed Aura Floating"
+    },
+    {
+      "id": 130880427812581,
+      "name": "Aura Farming Float Emote"
+    },
+    {
+      "id": 86599382047737,
+      "name": "୨ৎ adorable cute kawaii sit pose"
+    },
+    {
+      "id": 118460187064161,
+      "name": "Chill Sit Emote"
+    },
+    {
+      "id": 127690069063400,
+      "name": "Lean Wall Chill Emote"
     }
   ]
 }
