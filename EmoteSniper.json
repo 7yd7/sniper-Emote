@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 15980,
-  "lastUpdate": "2025-09-11T17:15:41.625Z",
+  "totalItems": 15986,
+  "lastUpdate": "2025-09-11T18:22:22.010Z",
   "data": [
     {
       "id": 3360689775,
@@ -63922,6 +63922,30 @@
     {
       "id": 124512336327914,
       "name": "🧹 Floating Witches' Broom / Halloween Idle"
+    },
+    {
+      "id": 131450425385332,
+      "name": "Elegantly Waiting"
+    },
+    {
+      "id": 85114457170112,
+      "name": "Hakari Dance"
+    },
+    {
+      "id": 93577594755110,
+      "name": "Michael Myers Shake"
+    },
+    {
+      "id": 109903146076009,
+      "name": "[IDLE] Vampire Rising"
+    },
+    {
+      "id": 70947821612310,
+      "name": "Oh no it's a rat!"
+    },
+    {
+      "id": 82253296110674,
+      "name": "Hit That Griddy"
     }
   ]
 }
