@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 16009,
-  "lastUpdate": "2025-09-11T22:17:35.821Z",
+  "totalItems": 16016,
+  "lastUpdate": "2025-09-11T23:18:11.589Z",
   "data": [
     {
       "id": 3360689775,
@@ -64038,6 +64038,34 @@
     {
       "id": 113678725560119,
       "name": "Dead"
+    },
+    {
+      "id": 104039491726272,
+      "name": "Wealthy"
+    },
+    {
+      "id": 116830785054323,
+      "name": "Invisible Glitch (under the map)"
+    },
+    {
+      "id": 74547670688811,
+      "name": "Tengen Pose"
+    },
+    {
+      "id": 113232653379180,
+      "name": "♡︎﹕Sitting down - Cute Head Pat (Matching)"
+    },
+    {
+      "id": 129805918340867,
+      "name": "♡︎﹕Lay on - Cute Resting (Matching)"
+    },
+    {
+      "id": 99352274475287,
+      "name": "No Tears"
+    },
+    {
+      "id": 139311735588474,
+      "name": "Popular Vibe"
     }
   ]
 }
