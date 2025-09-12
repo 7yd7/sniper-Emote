@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 16076,
-  "lastUpdate": "2025-09-12T13:25:59.597Z",
+  "totalItems": 16080,
+  "lastUpdate": "2025-09-12T14:17:42.847Z",
   "data": [
     {
       "id": 3360689775,
@@ -64306,6 +64306,22 @@
     {
       "id": 87372709161552,
       "name": "Ankha emote"
+    },
+    {
+      "id": 130113611065605,
+      "name": "Kawaii side angle idle for poses"
+    },
+    {
+      "id": 82349232318377,
+      "name": "Floating fairy cutesy for idles"
+    },
+    {
+      "id": 87657717374881,
+      "name": "Rocking Chair"
+    },
+    {
+      "id": 91991710405629,
+      "name": "Obby Emote"
     }
   ]
 }
