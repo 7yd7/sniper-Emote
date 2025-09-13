@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 16297,
-  "lastUpdate": "2025-09-13T22:15:35.209Z",
+  "totalItems": 16312,
+  "lastUpdate": "2025-09-13T23:15:36.202Z",
   "data": [
     {
       "id": 3360689775,
@@ -65190,6 +65190,66 @@
     {
       "id": 124197063340620,
       "name": "67 (Nonchalant Version)"
+    },
+    {
+      "id": 79739078495573,
+      "name": "Rosetoi emote"
+    },
+    {
+      "id": 70780368660692,
+      "name": "Swinging Sit Idle"
+    },
+    {
+      "id": 93561966813478,
+      "name": "Boohoo"
+    },
+    {
+      "id": 112774079992611,
+      "name": "Sit Hug"
+    },
+    {
+      "id": 118854736299543,
+      "name": "Sit Leg"
+    },
+    {
+      "id": 139882376243416,
+      "name": "grimes - oblivion"
+    },
+    {
+      "id": 118329687900633,
+      "name": "R6 Gangnam Style (Die Of Death)"
+    },
+    {
+      "id": 128959429739498,
+      "name": "Sit"
+    },
+    {
+      "id": 82003749251676,
+      "name": "Kiriko's Headbanging"
+    },
+    {
+      "id": 120970343961976,
+      "name": "Electro Swing"
+    },
+    {
+      "id": 97830406758184,
+      "name": "Two-Time's Ritual"
+    },
+    {
+      "id": 131900540866459,
+      "name": "INVISIBLE + NO NAME (OP HIDE EMOTE)"
+    },
+    {
+      "id": 79580284786292,
+      "name": "Olivia Rodrigo Head Bop"
+    },
+    {
+      "id": 81060765422626,
+      "name": "Nicki Minaj Anaconda"
+    },
+    {
+      "id": 92961540687814,
+      "name": "Kawaii Superstar Posing"
     }
   ]
 }
