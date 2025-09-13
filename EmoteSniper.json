@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 16276,
-  "lastUpdate": "2025-09-13T19:13:03.977Z",
+  "totalItems": 16289,
+  "lastUpdate": "2025-09-13T20:17:38.382Z",
   "data": [
     {
       "id": 3360689775,
@@ -65106,6 +65106,58 @@
     {
       "id": 98329209041199,
       "name": "Crouch Jump"
+    },
+    {
+      "id": 111647497938423,
+      "name": "Fall to Rise"
+    },
+    {
+      "id": 135870293148950,
+      "name": "⏳[LIMITED] Cute Bubbly Sit"
+    },
+    {
+      "id": 138353946782848,
+      "name": "Legs Juggle"
+    },
+    {
+      "id": 105014705566934,
+      "name": "୨୧ || Kawaii Cute Anime Pose"
+    },
+    {
+      "id": 88454719159974,
+      "name": "chilling"
+    },
+    {
+      "id": 73044960271262,
+      "name": "[⌛] Acelerada Dance"
+    },
+    {
+      "id": 133449717101948,
+      "name": "♡ : Cutesy Sitting Heart Emote"
+    },
+    {
+      "id": 96612519171083,
+      "name": "Hide (Invisible) Underground "
+    },
+    {
+      "id": 116580024096022,
+      "name": "Aura Farming Float"
+    },
+    {
+      "id": 107537377308744,
+      "name": "Fling People Troll (Works Ingame)"
+    },
+    {
+      "id": 78250036534439,
+      "name": "Michael Myers bounce"
+    },
+    {
+      "id": 81953993909890,
+      "name": "HAMBURGER EATER"
+    },
+    {
+      "id": 99940469127819,
+      "name": "Chill Lay"
     }
   ]
 }
