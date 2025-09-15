@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 16368,
-  "lastUpdate": "2025-09-15T02:27:18.797Z",
+  "totalItems": 16376,
+  "lastUpdate": "2025-09-15T03:07:27.039Z",
   "data": [
     {
       "id": 3360689775,
@@ -65474,6 +65474,38 @@
     {
       "id": 124525279306515,
       "name": "♡ adorable hug emote "
+    },
+    {
+      "id": 139629314938685,
+      "name": "Cute sit idle"
+    },
+    {
+      "id": 120327489988655,
+      "name": "Catwalk Walk"
+    },
+    {
+      "id": 127633235542889,
+      "name": "Michael Myers Bounce (leaning back)"
+    },
+    {
+      "id": 73933782677848,
+      "name": "Fly/Speed Glitch 100+ Studs"
+    },
+    {
+      "id": 82538063782634,
+      "name": "Traversal emote [BYPASS]"
+    },
+    {
+      "id": 110144763781151,
+      "name": "Flexing (KMB inspired)"
+    },
+    {
+      "id": 81115297108132,
+      "name": "Cute Sit"
+    },
+    {
+      "id": 122197391417033,
+      "name": "cutesy zombie pose"
     }
   ]
 }
