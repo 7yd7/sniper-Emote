@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 16557,
-  "lastUpdate": "2025-09-16T16:23:21.499Z",
+  "totalItems": 16561,
+  "lastUpdate": "2025-09-16T17:17:14.317Z",
   "data": [
     {
       "id": 3360689775,
@@ -66230,6 +66230,22 @@
     {
       "id": 71574925787532,
       "name": "Superhero Floating [New!]"
+    },
+    {
+      "id": 120582119542929,
+      "name": "Cute Bored Idle Emote"
+    },
+    {
+      "id": 82257356859332,
+      "name": "Floating King's Aura Sit"
+    },
+    {
+      "id": 81539399852868,
+      "name": "Metro Man Full Dance {FULL}"
+    },
+    {
+      "id": 129576915310242,
+      "name": "uhpoof's GRIDDY"
     }
   ]
 }
