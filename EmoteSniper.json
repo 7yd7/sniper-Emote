@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 16708,
-  "lastUpdate": "2025-09-17T17:16:37.809Z",
+  "totalItems": 16716,
+  "lastUpdate": "2025-09-17T18:25:55.081Z",
   "data": [
     {
       "id": 3360689775,
@@ -66834,6 +66834,38 @@
     {
       "id": 122240620529815,
       "name": "Laughing It Up Emote"
+    },
+    {
+      "id": 99275551446383,
+      "name": "Cheap Levitation Idle"
+    },
+    {
+      "id": 134273413917555,
+      "name": "Jojo | Pixelated Jotaro Pose"
+    },
+    {
+      "id": 105003458897417,
+      "name": "⏳[LIMITED] Koto Nai Meme Dance"
+    },
+    {
+      "id": 84400771329005,
+      "name": "Obby Slide Head "
+    },
+    {
+      "id": 123740905200956,
+      "name": "Enchanced Rat Dance [LIMITED] ✅"
+    },
+    {
+      "id": 88907045923683,
+      "name": "Jumping Dog Dance"
+    },
+    {
+      "id": 101669594115605,
+      "name": "RIP Emote"
+    },
+    {
+      "id": 137684703823564,
+      "name": "Possessed Doll Spin"
     }
   ]
 }
