@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 16606,
-  "lastUpdate": "2025-09-17T01:19:03.787Z",
+  "totalItems": 16618,
+  "lastUpdate": "2025-09-17T02:55:53.681Z",
   "data": [
     {
       "id": 3360689775,
@@ -66426,6 +66426,54 @@
     {
       "id": 130302664485953,
       "name": "La Resaka dance"
+    },
+    {
+      "id": 129411664452810,
+      "name": "Helicopter"
+    },
+    {
+      "id": 135383528737792,
+      "name": "Soft Cute Step Idle Pose"
+    },
+    {
+      "id": 131807559860115,
+      "name": "Cutesy Idle Pose"
+    },
+    {
+      "id": 134251231550748,
+      "name": "Diva Pose"
+    },
+    {
+      "id": 86334954517541,
+      "name": "Chill Sitting Pose"
+    },
+    {
+      "id": 135011203494288,
+      "name": "cute hugging plushie idle emote"
+    },
+    {
+      "id": 105823188765730,
+      "name": "Floating Galaxy Slow"
+    },
+    {
+      "id": 121196014795736,
+      "name": "Ghost's MomoOxidado"
+    },
+    {
+      "id": 134333109868443,
+      "name": "🔥 ACELERADA Yoonchae Dance Break (KATSEYE)"
+    },
+    {
+      "id": 107687358568323,
+      "name": "♡: Creepy Zombie Cutesy Halloween Pose Idle :♡"
+    },
+    {
+      "id": 99122741477618,
+      "name": "Michael Myers bounce (Don't Hide)"
+    },
+    {
+      "id": 126841464304530,
+      "name": "Deep Handstand"
     }
   ]
 }
