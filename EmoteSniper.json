@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 17017,
-  "lastUpdate": "2025-09-20T03:27:32.425Z",
+  "totalItems": 17022,
+  "lastUpdate": "2025-09-20T04:22:03.169Z",
   "data": [
     {
       "id": 3360689775,
@@ -68070,6 +68070,26 @@
     {
       "id": 110765558217899,
       "name": "Magic Trick"
+    },
+    {
+      "id": 83995690642462,
+      "name": "MWAH! Cute Couple Emote"
+    },
+    {
+      "id": 89185316879638,
+      "name": "Cute Shy Girl Pose"
+    },
+    {
+      "id": 122994932956334,
+      "name": "Cute Kawaii Wave"
+    },
+    {
+      "id": 126037680488253,
+      "name": "Metro dance"
+    },
+    {
+      "id": 75786506907230,
+      "name": "Cat Owl Dance (Meowl)"
     }
   ]
 }
