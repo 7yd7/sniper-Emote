@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 17206,
-  "lastUpdate": "2025-09-21T06:25:54.502Z",
+  "totalItems": 17207,
+  "lastUpdate": "2025-09-21T07:15:42.031Z",
   "data": [
     {
       "id": 3360689775,
@@ -68826,6 +68826,10 @@
     {
       "id": 116197008542581,
       "name": "Aura Fly Standing [Nonchalant]"
+    },
+    {
+      "id": 108510968166434,
+      "name": "Ethereal Angel"
     }
   ]
 }
