@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 17287,
-  "lastUpdate": "2025-09-21T20:19:12.172Z",
+  "totalItems": 17291,
+  "lastUpdate": "2025-09-21T21:15:48.027Z",
   "data": [
     {
       "id": 3360689775,
@@ -69150,6 +69150,22 @@
     {
       "id": 130271775565373,
       "name": "Siren head"
+    },
+    {
+      "id": 72702276165387,
+      "name": "Baddie Sitting Idle Pose Animation Emote"
+    },
+    {
+      "id": 75008435376107,
+      "name": "Baddie Stance Idle Pose Animation Emote"
+    },
+    {
+      "id": 97057690384017,
+      "name": "Baddie Handstand Animation Emote"
+    },
+    {
+      "id": 126916915815399,
+      "name": "ᐢ ҂ ˕ =｡ᐢ cute shy girly leg up idle pose"
     }
   ]
 }
