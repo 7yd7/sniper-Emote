@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 17413,
-  "lastUpdate": "2025-09-22T21:16:11.200Z",
+  "totalItems": 17418,
+  "lastUpdate": "2025-09-22T22:17:37.443Z",
   "data": [
     {
       "id": 3360689775,
@@ -69654,6 +69654,26 @@
     {
       "id": 111241085158765,
       "name": "Xbox 360 emote"
+    },
+    {
+      "id": 133229167889265,
+      "name": "Calma calabreso"
+    },
+    {
+      "id": 128583982600837,
+      "name": "Sans' Jitterbug"
+    },
+    {
+      "id": 138726983666891,
+      "name": "Nonchalant Call"
+    },
+    {
+      "id": 126195435057105,
+      "name": "Rock - Rock Paper Sissors"
+    },
+    {
+      "id": 110112038437501,
+      "name": "Paper - Rock Paper Sissors"
     }
   ]
 }
