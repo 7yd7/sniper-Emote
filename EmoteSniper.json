@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 17379,
-  "lastUpdate": "2025-09-22T09:22:59.622Z",
+  "totalItems": 17385,
+  "lastUpdate": "2025-09-22T10:21:30.302Z",
   "data": [
     {
       "id": 3360689775,
@@ -69518,6 +69518,30 @@
     {
       "id": 98828204626313,
       "name": "Sad / Lonely Sit."
+    },
+    {
+      "id": 138950789064228,
+      "name": "Cuffed"
+    },
+    {
+      "id": 73099343367200,
+      "name": "♡ Headless Zombie Halloween emote"
+    },
+    {
+      "id": 106345408237539,
+      "name": "Sukuna Aura Farming"
+    },
+    {
+      "id": 98394095200007,
+      "name": "put ur paws up"
+    },
+    {
+      "id": 113517074834661,
+      "name": "cutesy sobbing emote"
+    },
+    {
+      "id": 138020152454800,
+      "name": "Arcade snake worm idle emote"
     }
   ]
 }
