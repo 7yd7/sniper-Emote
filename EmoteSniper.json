@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 17450,
-  "lastUpdate": "2025-09-23T05:18:40.356Z",
+  "totalItems": 17455,
+  "lastUpdate": "2025-09-23T06:28:19.043Z",
   "data": [
     {
       "id": 3360689775,
@@ -69802,6 +69802,26 @@
     {
       "id": 119527143552654,
       "name": "Become invisible (block avatars)"
+    },
+    {
+      "id": 86625481724193,
+      "name": "Beat Da Koto Nai"
+    },
+    {
+      "id": 95756354179180,
+      "name": "Apple Store Girl!"
+    },
+    {
+      "id": 120976034288317,
+      "name": "Spider-Man Pointing Meme Emote (3/3)"
+    },
+    {
+      "id": 114119766336824,
+      "name": "Spider-Man Pointing Meme Emote (2/3)"
+    },
+    {
+      "id": 119723143024818,
+      "name": "Spider-Man Pointing Meme Emote (1/3)"
     }
   ]
 }
