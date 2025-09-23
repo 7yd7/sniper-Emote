@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 17446,
-  "lastUpdate": "2025-09-23T02:57:55.764Z",
+  "totalItems": 17448,
+  "lastUpdate": "2025-09-23T03:32:23.860Z",
   "data": [
     {
       "id": 3360689775,
@@ -69786,6 +69786,14 @@
     {
       "id": 87694383267589,
       "name": "Spinning Head Emote"
+    },
+    {
+      "id": 73786232732648,
+      "name": "Aura Idle Farm"
+    },
+    {
+      "id": 130460077575049,
+      "name": "Silly Spider Jumpscare"
     }
   ]
 }
