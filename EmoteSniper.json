@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 18059,
-  "lastUpdate": "2025-09-27T15:16:57.970Z",
+  "totalItems": 18062,
+  "lastUpdate": "2025-09-27T16:20:56.292Z",
   "data": [
     {
       "id": 3360689775,
@@ -72238,6 +72238,18 @@
     {
       "id": 88389731410555,
       "name": "Cutesy Groove"
+    },
+    {
+      "id": 135158627059385,
+      "name": "[NEW] BADDIE SHAKE EMOTE"
+    },
+    {
+      "id": 102018650786163,
+      "name": "[NEW] RAT DANCE MEME"
+    },
+    {
+      "id": 100713745711283,
+      "name": "[⏳LIMITED] Shattered Of Confusion"
     }
   ]
 }
