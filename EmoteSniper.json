@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 18033,
-  "lastUpdate": "2025-09-27T06:24:11.380Z",
+  "totalItems": 18038,
+  "lastUpdate": "2025-09-27T07:15:27.259Z",
   "data": [
     {
       "id": 3360689775,
@@ -72134,6 +72134,26 @@
     {
       "id": 130250395372107,
       "name": "cutesy one leg up idle emote"
+    },
+    {
+      "id": 90299788888194,
+      "name": "Space Levitation ⚠️[Code 201165]"
+    },
+    {
+      "id": 114287742456355,
+      "name": "Evil Whisper Troll [OG]"
+    },
+    {
+      "id": 107913497984774,
+      "name": "Michael Myers Bounce - Come On Don’t Hide"
+    },
+    {
+      "id": 79388485316976,
+      "name": "Floating Sleeping on the Beach"
+    },
+    {
+      "id": 84017198270572,
+      "name": "Come On Don't Hide Bounce - Emote"
     }
   ]
 }
