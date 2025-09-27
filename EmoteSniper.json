@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 18019,
-  "lastUpdate": "2025-09-27T05:17:20.293Z",
+  "totalItems": 18033,
+  "lastUpdate": "2025-09-27T06:24:11.380Z",
   "data": [
     {
       "id": 3360689775,
@@ -72078,6 +72078,62 @@
     {
       "id": 128544253388570,
       "name": "Zombie head spin emote"
+    },
+    {
+      "id": 133699501145897,
+      "name": "Sae Itoshi"
+    },
+    {
+      "id": 98849452351149,
+      "name": "mueveloulou"
+    },
+    {
+      "id": 118125367968741,
+      "name": "Your Pal"
+    },
+    {
+      "id": 135158001472968,
+      "name": "67"
+    },
+    {
+      "id": 81658493500791,
+      "name": "Creepy Crawler Emote (stickbug) 🦗🦗"
+    },
+    {
+      "id": 79922491397488,
+      "name": "ACELERADA Dance"
+    },
+    {
+      "id": 109125181442555,
+      "name": "DARE - Gorillaz"
+    },
+    {
+      "id": 79829917468236,
+      "name": "Six Seven (67)  {High Quality!}"
+    },
+    {
+      "id": 97366012165472,
+      "name": "cute bouncy anime dance"
+    },
+    {
+      "id": 94196882139610,
+      "name": "baddie idle pose"
+    },
+    {
+      "id": 125174005327023,
+      "name": "Silly frog jumping"
+    },
+    {
+      "id": 139248650400252,
+      "name": "hip sway"
+    },
+    {
+      "id": 123729522985261,
+      "name": "The head moves all over the body (glitch)"
+    },
+    {
+      "id": 130250395372107,
+      "name": "cutesy one leg up idle emote"
     }
   ]
 }
