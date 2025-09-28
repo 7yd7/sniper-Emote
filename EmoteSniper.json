@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 18142,
-  "lastUpdate": "2025-09-28T03:08:26.885Z",
+  "totalItems": 18153,
+  "lastUpdate": "2025-09-28T04:21:45.817Z",
   "data": [
     {
       "id": 3360689775,
@@ -72570,6 +72570,50 @@
     {
       "id": 119868755392331,
       "name": "Blushing Shy Pose"
+    },
+    {
+      "id": 110175146094038,
+      "name": "Whammy Wednesday"
+    },
+    {
+      "id": 136485441264987,
+      "name": "Halloween Witch Broomstick"
+    },
+    {
+      "id": 116040353115576,
+      "name": "Sponge Shuffle"
+    },
+    {
+      "id": 72807988556051,
+      "name": "Happy Jump Emote - Looping"
+    },
+    {
+      "id": 118660420692894,
+      "name": "Sleepy Bop (sit)"
+    },
+    {
+      "id": 112474362732247,
+      "name": "I ain't afraid"
+    },
+    {
+      "id": 108444464055999,
+      "name": "Witch Way"
+    },
+    {
+      "id": 71163086643781,
+      "name": "BUST A MOVE! (Maxevasion Dance)"
+    },
+    {
+      "id": 136449313303954,
+      "name": "CPR"
+    },
+    {
+      "id": 92118471015650,
+      "name": " 67 ! Six Seven "
+    },
+    {
+      "id": 138363697508705,
+      "name": "Zombie Shambles"
     }
   ]
 }
