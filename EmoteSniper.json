@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 18168,
-  "lastUpdate": "2025-09-28T08:21:38.130Z",
+  "totalItems": 18174,
+  "lastUpdate": "2025-09-28T09:17:09.431Z",
   "data": [
     {
       "id": 3360689775,
@@ -72674,6 +72674,30 @@
     {
       "id": 82338610404795,
       "name": "Goddess Levitation Stance"
+    },
+    {
+      "id": 114967937334865,
+      "name": "cute sitting"
+    },
+    {
+      "id": 83740179827753,
+      "name": "wave cute"
+    },
+    {
+      "id": 123590128107178,
+      "name": "kawaii idle"
+    },
+    {
+      "id": 140269876098643,
+      "name": "IShowSpeed Bounce Dance"
+    },
+    {
+      "id": 100777484704407,
+      "name": "pargoy"
+    },
+    {
+      "id": 114744811321720,
+      "name": "Annoying Fly [NEW!]"
     }
   ]
 }
