@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 18314,
-  "lastUpdate": "2025-09-29T09:22:12.128Z",
+  "totalItems": 18317,
+  "lastUpdate": "2025-09-29T10:21:27.552Z",
   "data": [
     {
       "id": 3360689775,
@@ -73258,6 +73258,18 @@
     {
       "id": 111347917085811,
       "name": "♡ Cutesy Girl Idle Pose"
+    },
+    {
+      "id": 115518810527253,
+      "name": "daydreaming emote"
+    },
+    {
+      "id": 127793808267418,
+      "name": "Kanaria Dance v1"
+    },
+    {
+      "id": 86844943955688,
+      "name": "Kanaria Dance v2"
     }
   ]
 }
