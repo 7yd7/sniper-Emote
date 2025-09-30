@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 18413,
-  "lastUpdate": "2025-09-30T05:18:50.495Z",
+  "totalItems": 18425,
+  "lastUpdate": "2025-09-30T06:28:49.249Z",
   "data": [
     {
       "id": 3360689775,
@@ -73654,6 +73654,54 @@
     {
       "id": 132665549543389,
       "name": "Michael Myers Shake Dance Emote"
+    },
+    {
+      "id": 139828239585422,
+      "name": "Coffin Dance - Dancing Pallbearers"
+    },
+    {
+      "id": 96233112442926,
+      "name": "Matching emote [person 2]"
+    },
+    {
+      "id": 115549345157594,
+      "name": "Matching emote [person 2]"
+    },
+    {
+      "id": 78738456463833,
+      "name": "Matching emote [person 1]"
+    },
+    {
+      "id": 111387457971595,
+      "name": "Matching emote [person 1]"
+    },
+    {
+      "id": 116967321307906,
+      "name": "Matching emote [person 2]"
+    },
+    {
+      "id": 79857037110086,
+      "name": "Matching emote [person 1]"
+    },
+    {
+      "id": 107545567442471,
+      "name": "Matching emote [person 2]"
+    },
+    {
+      "id": 84877019139168,
+      "name": "Matching emote [person 1]"
+    },
+    {
+      "id": 94156934143793,
+      "name": "Jump Up Super Star!"
+    },
+    {
+      "id": 106872935674554,
+      "name": "Demon Slayer / Douma sitting pose "
+    },
+    {
+      "id": 76531080802977,
+      "name": "Cup Song"
     }
   ]
 }
