@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 18502,
-  "lastUpdate": "2025-09-30T21:16:44.361Z",
+  "totalItems": 18505,
+  "lastUpdate": "2025-09-30T22:17:15.040Z",
   "data": [
     {
       "id": 3360689775,
@@ -74010,6 +74010,18 @@
     {
       "id": 70405099085762,
       "name": "Stylish Head Spin [CHEAP]"
+    },
+    {
+      "id": 106422042491427,
+      "name": "Roaring Knight Idle/Cry - DELTARUNE"
+    },
+    {
+      "id": 125049321575903,
+      "name": "Stretch"
+    },
+    {
+      "id": 107518099935942,
+      "name": "Sway Bounce (Michael Myers)"
     }
   ]
 }
