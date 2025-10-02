@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 18830,
-  "lastUpdate": "2025-10-02T16:22:50.358Z",
+  "totalItems": 18837,
+  "lastUpdate": "2025-10-02T17:14:52.795Z",
   "data": [
     {
       "id": 3360689775,
@@ -75322,6 +75322,34 @@
     {
       "id": 79814319561088,
       "name": "Bored King Sitting"
+    },
+    {
+      "id": 137547235167927,
+      "name": "Cute Halloween Witch Idle Pose"
+    },
+    {
+      "id": 124493826032894,
+      "name": "Flying Ghost Halloween"
+    },
+    {
+      "id": 131140166266066,
+      "name": "Pancake Stretch"
+    },
+    {
+      "id": 105250458665631,
+      "name": "Floating Chill (AFK levitation) Aura Idle"
+    },
+    {
+      "id": 91010633950051,
+      "name": "Floating Aura"
+    },
+    {
+      "id": 84000485829921,
+      "name": "Effortless King Aura"
+    },
+    {
+      "id": 104497607591572,
+      "name": "Where Did My Head Go?? [Halloween Spooky]"
     }
   ]
 }
