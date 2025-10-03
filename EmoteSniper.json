@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 18905,
-  "lastUpdate": "2025-10-03T02:56:40.634Z",
+  "totalItems": 18914,
+  "lastUpdate": "2025-10-03T03:29:05.996Z",
   "data": [
     {
       "id": 3360689775,
@@ -75622,6 +75622,42 @@
     {
       "id": 131441779498816,
       "name": "Aura Fly Idle (RNG)"
+    },
+    {
+      "id": 102398842148820,
+      "name": "Skibidi Toilet Brainrot"
+    },
+    {
+      "id": 94586338136192,
+      "name": "Magical Girly Cute Emote n Pose"
+    },
+    {
+      "id": 98690366480441,
+      "name": "Big stretch"
+    },
+    {
+      "id": 80264611799109,
+      "name": "Mesmerizer (Forsaken)"
+    },
+    {
+      "id": 81405768471116,
+      "name": "Whammy"
+    },
+    {
+      "id": 111847305698269,
+      "name": "Eggman-Taunt-Emote"
+    },
+    {
+      "id": 99125186696251,
+      "name": "I know what you did"
+    },
+    {
+      "id": 73240949558068,
+      "name": "Slow motion backflip"
+    },
+    {
+      "id": 110330338050542,
+      "name": "I just got my hair done"
     }
   ]
 }
