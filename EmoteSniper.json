@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 19094,
-  "lastUpdate": "2025-10-04T18:23:49.234Z",
+  "totalItems": 19105,
+  "lastUpdate": "2025-10-04T19:13:29.441Z",
   "data": [
     {
       "id": 3360689775,
@@ -76378,6 +76378,50 @@
     {
       "id": 125141671971955,
       "name": "I will run away (Eu vou fugir)"
+    },
+    {
+      "id": 94404603907306,
+      "name": "Jack In The Box Emote"
+    },
+    {
+      "id": 91583499354581,
+      "name": "Backflip"
+    },
+    {
+      "id": 135412238221190,
+      "name": "Aura Farming"
+    },
+    {
+      "id": 127976495758566,
+      "name": "SIX SEVENNN"
+    },
+    {
+      "id": 129915213178222,
+      "name": "Robot Bowing"
+    },
+    {
+      "id": 87579941730104,
+      "name": "🕺Reggae"
+    },
+    {
+      "id": 79513838123805,
+      "name": "hula hoop"
+    },
+    {
+      "id": 90197033929099,
+      "name": "Side Sleeping (shaking)"
+    },
+    {
+      "id": 97373275916492,
+      "name": "Dança do refrigerante"
+    },
+    {
+      "id": 70980613355074,
+      "name": "Defeated"
+    },
+    {
+      "id": 76180408431550,
+      "name": "Apple Store Girl (do you want me)"
     }
   ]
 }
