@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 19089,
-  "lastUpdate": "2025-10-04T17:14:32.697Z",
+  "totalItems": 19094,
+  "lastUpdate": "2025-10-04T18:23:49.234Z",
   "data": [
     {
       "id": 3360689775,
@@ -76358,6 +76358,26 @@
     {
       "id": 71912141865439,
       "name": "Resurrect"
+    },
+    {
+      "id": 110516425464392,
+      "name": "SRedd baddies car pose"
+    },
+    {
+      "id": 114005149278930,
+      "name": "Halloween cracking"
+    },
+    {
+      "id": 103384681690951,
+      "name": "Halloween Holding Head"
+    },
+    {
+      "id": 130290956982104,
+      "name": "Fake Dead Troll"
+    },
+    {
+      "id": 125141671971955,
+      "name": "I will run away (Eu vou fugir)"
     }
   ]
 }
