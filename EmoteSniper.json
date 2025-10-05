@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 19193,
-  "lastUpdate": "2025-10-05T06:24:57.281Z",
+  "totalItems": 19197,
+  "lastUpdate": "2025-10-05T07:16:32.194Z",
   "data": [
     {
       "id": 3360689775,
@@ -76774,6 +76774,22 @@
     {
       "id": 119567061957208,
       "name": "haunted scary emote"
+    },
+    {
+      "id": 99635697936954,
+      "name": "Hmm Cute idle"
+    },
+    {
+      "id": 139263977562561,
+      "name": "🕺 Muricoca"
+    },
+    {
+      "id": 136230681840213,
+      "name": "🕺 Caminhar do elemento"
+    },
+    {
+      "id": 134950037973337,
+      "name": "🕺 Maldito Talento"
     }
   ]
 }
