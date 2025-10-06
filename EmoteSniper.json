@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 19365,
-  "lastUpdate": "2025-10-06T07:19:18.740Z",
+  "totalItems": 19371,
+  "lastUpdate": "2025-10-06T08:25:05.429Z",
   "data": [
     {
       "id": 3360689775,
@@ -77462,6 +77462,30 @@
     {
       "id": 86291853366100,
       "name": "DIA DELÍCIA Dance Trend"
+    },
+    {
+      "id": 127268065755841,
+      "name": "Shake it in a circle! (Goofy Silly Version)"
+    },
+    {
+      "id": 111650323448133,
+      "name": "mau mimi susu"
+    },
+    {
+      "id": 106143375511892,
+      "name": "zesty geek/sturdy"
+    },
+    {
+      "id": 104882840795348,
+      "name": "Jailbreak Emote"
+    },
+    {
+      "id": 79479292869174,
+      "name": "♡ cute halloween floating witch idle"
+    },
+    {
+      "id": 119563813492890,
+      "name": "Throw It In a Circle"
     }
   ]
 }
