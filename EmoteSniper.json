@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 20838,
-  "lastUpdate": "2025-10-17T03:01:55.155Z",
+  "totalItems": 20850,
+  "lastUpdate": "2025-10-17T04:22:50.938Z",
   "data": [
     {
       "id": 3360689775,
@@ -83354,6 +83354,54 @@
     {
       "id": 115901771916279,
       "name": "Jumping Starfish"
+    },
+    {
+      "id": 115301563723678,
+      "name": "Rakai's Emote"
+    },
+    {
+      "id": 83769242516068,
+      "name": "Chama Dance"
+    },
+    {
+      "id": 73964098895786,
+      "name": "hip sway"
+    },
+    {
+      "id": 126649751611687,
+      "name": "so what pose (why?)"
+    },
+    {
+      "id": 72233887202122,
+      "name": "Fashion Idle Pose"
+    },
+    {
+      "id": 83843237442884,
+      "name": "Falling Head"
+    },
+    {
+      "id": 73739070097590,
+      "name": "Scene Claws Pose"
+    },
+    {
+      "id": 129305271852558,
+      "name": "Da' Dip"
+    },
+    {
+      "id": 101866136038039,
+      "name": "[BEST ⭐] Ting Needy Dance"
+    },
+    {
+      "id": 99025899950101,
+      "name": "Windy Sway Shake"
+    },
+    {
+      "id": 127836723492628,
+      "name": "Rakai Studio Dance"
+    },
+    {
+      "id": 138681721450818,
+      "name": "Happy sway"
     }
   ]
 }
