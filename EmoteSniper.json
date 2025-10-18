@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21034,
-  "lastUpdate": "2025-10-18T20:19:11.716Z",
+  "totalItems": 21036,
+  "lastUpdate": "2025-10-18T21:15:37.130Z",
   "data": [
     {
       "id": 3360689775,
@@ -84138,6 +84138,14 @@
     {
       "id": 99776003570706,
       "name": "🔥 The Worm (Macro emote)"
+    },
+    {
+      "id": 99105603260564,
+      "name": "Green Jumbix"
+    },
+    {
+      "id": 137681449996355,
+      "name": "Nono"
     }
   ]
 }
