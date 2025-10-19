@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21093,
-  "lastUpdate": "2025-10-19T04:23:08.099Z",
+  "totalItems": 21099,
+  "lastUpdate": "2025-10-19T05:18:28.682Z",
   "data": [
     {
       "id": 3360689775,
@@ -84374,6 +84374,30 @@
     {
       "id": 112553673721047,
       "name": "(🎃) Scary Halloween Zombie Floating Head "
+    },
+    {
+      "id": 100634362442872,
+      "name": "Emote 3 Die of Death"
+    },
+    {
+      "id": 89184545783474,
+      "name": "🎃 Headless Cheerleader"
+    },
+    {
+      "id": 86776996148894,
+      "name": "*aura* floating in the air"
+    },
+    {
+      "id": 88200224494385,
+      "name": "Zombie Stand Pose Halloween"
+    },
+    {
+      "id": 87038937784029,
+      "name": "Jump & Shake a Lot"
+    },
+    {
+      "id": 111649305427294,
+      "name": "[BEST] Speed Mirage"
     }
   ]
 }
