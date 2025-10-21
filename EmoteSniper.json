@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21389,
-  "lastUpdate": "2025-10-21T14:18:33.611Z",
+  "totalItems": 21391,
+  "lastUpdate": "2025-10-21T15:19:56.219Z",
   "data": [
     {
       "id": 3360689775,
@@ -85558,6 +85558,14 @@
     {
       "id": 86442685179118,
       "name": "cutesy standing pose"
+    },
+    {
+      "id": 93191470832679,
+      "name": "Floating Aura"
+    },
+    {
+      "id": 110913434326461,
+      "name": "Retro happy jump"
     }
   ]
 }
