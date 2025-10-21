@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21368,
-  "lastUpdate": "2025-10-21T06:28:52.993Z",
+  "totalItems": 21372,
+  "lastUpdate": "2025-10-21T07:20:09.113Z",
   "data": [
     {
       "id": 3360689775,
@@ -85474,6 +85474,22 @@
     {
       "id": 130322378224620,
       "name": "Springtrap creepy emote"
+    },
+    {
+      "id": 127568676077130,
+      "name": "Aura Stance"
+    },
+    {
+      "id": 90181977129307,
+      "name": "Michael Myers Goofy Shake Dance"
+    },
+    {
+      "id": 111854063848768,
+      "name": "Nonchalant Aura Pose [⭐UPDATED NOT GLITCHY⭐]"
+    },
+    {
+      "id": 91373164809950,
+      "name": "Mark Viltrumite Pose (Invincible)"
     }
   ]
 }
