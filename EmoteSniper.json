@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21402,
-  "lastUpdate": "2025-10-21T17:18:16.025Z",
+  "totalItems": 21405,
+  "lastUpdate": "2025-10-21T18:27:17.396Z",
   "data": [
     {
       "id": 3360689775,
@@ -85610,6 +85610,18 @@
     {
       "id": 138558816218868,
       "name": "Void Swimmer Floating"
+    },
+    {
+      "id": 114111403620958,
+      "name": "[🎃 HALLOWEEN 🎃] Trickstar Emote "
+    },
+    {
+      "id": 114717614022124,
+      "name": "Fell"
+    },
+    {
+      "id": 110099987599630,
+      "name": "Fidget Spinner"
     }
   ]
 }
