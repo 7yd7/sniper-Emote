@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21529,
-  "lastUpdate": "2025-10-22T20:23:29.781Z",
+  "totalItems": 21531,
+  "lastUpdate": "2025-10-22T21:15:01.680Z",
   "data": [
     {
       "id": 3360689775,
@@ -86118,6 +86118,14 @@
     {
       "id": 111395886489667,
       "name": "Take The L"
+    },
+    {
+      "id": 122434468431672,
+      "name": "Head Scratching"
+    },
+    {
+      "id": 77629602099423,
+      "name": "FWU emote"
     }
   ]
 }
