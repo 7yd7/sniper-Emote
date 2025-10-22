@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21496,
-  "lastUpdate": "2025-10-22T13:33:28.742Z",
+  "totalItems": 21503,
+  "lastUpdate": "2025-10-22T14:21:06.857Z",
   "data": [
     {
       "id": 3360689775,
@@ -85986,6 +85986,34 @@
     {
       "id": 129995497177406,
       "name": "Floating AURA"
+    },
+    {
+      "id": 102479678073609,
+      "name": "Kawaii Happy Groove"
+    },
+    {
+      "id": 131986420469205,
+      "name": "Jabba Switchway"
+    },
+    {
+      "id": 94492242346590,
+      "name": "Seizure"
+    },
+    {
+      "id": 133631804120790,
+      "name": "dab"
+    },
+    {
+      "id": 136592350639895,
+      "name": "Jumping spider emote"
+    },
+    {
+      "id": 114991833910666,
+      "name": "Fling"
+    },
+    {
+      "id": 88133179731349,
+      "name": "Floating"
     }
   ]
 }
