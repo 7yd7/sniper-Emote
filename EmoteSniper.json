@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21524,
-  "lastUpdate": "2025-10-22T19:15:11.268Z",
+  "totalItems": 21529,
+  "lastUpdate": "2025-10-22T20:23:29.781Z",
   "data": [
     {
       "id": 3360689775,
@@ -86098,6 +86098,26 @@
     {
       "id": 94880181382919,
       "name": "Crybaby"
+    },
+    {
+      "id": 77819916652123,
+      "name": "Crazy Cat"
+    },
+    {
+      "id": 113081905226405,
+      "name": "(Halloween) Aura Floating"
+    },
+    {
+      "id": 97520800534587,
+      "name": "headless floating holding head 🎃"
+    },
+    {
+      "id": 76107971264235,
+      "name": "Bored Float [Aura Farming]"
+    },
+    {
+      "id": 111395886489667,
+      "name": "Take The L"
     }
   ]
 }
