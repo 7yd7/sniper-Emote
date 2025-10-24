@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21581,
-  "lastUpdate": "2025-10-24T18:26:30.709Z",
+  "totalItems": 21592,
+  "lastUpdate": "2025-10-24T19:15:45.344Z",
   "data": [
     {
       "id": 3360689775,
@@ -86326,6 +86326,50 @@
     {
       "id": 125923452654764,
       "name": "Attraction Dance [best]"
+    },
+    {
+      "id": 90301134142347,
+      "name": "Sturdy Dance - Ice Spice"
+    },
+    {
+      "id": 138443112653476,
+      "name": "Ice Spice Jersey Bounce"
+    },
+    {
+      "id": 74941409284905,
+      "name": "feelin myself sway"
+    },
+    {
+      "id": 70806270682591,
+      "name": "Zombie Walk Lag"
+    },
+    {
+      "id": 83225562869064,
+      "name": "midnight sun dance"
+    },
+    {
+      "id": 71030475836153,
+      "name": "Spider Crawl"
+    },
+    {
+      "id": 109863706874774,
+      "name": "Rakai Studio Emote"
+    },
+    {
+      "id": 108937255787052,
+      "name": "Turbulence "
+    },
+    {
+      "id": 119991506811430,
+      "name": "Sitting Aurafarming [LOOP]"
+    },
+    {
+      "id": 131759342789288,
+      "name": "Zesty Sturdy [Dark Triad]"
+    },
+    {
+      "id": 135686271244127,
+      "name": "Rakai Emote"
     }
   ]
 }
