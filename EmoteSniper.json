@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21592,
-  "lastUpdate": "2025-10-24T19:15:45.344Z",
+  "totalItems": 21596,
+  "lastUpdate": "2025-10-24T20:21:26.796Z",
   "data": [
     {
       "id": 3360689775,
@@ -86370,6 +86370,22 @@
     {
       "id": 135686271244127,
       "name": "Rakai Emote"
+    },
+    {
+      "id": 77355828619090,
+      "name": "[🤪] 61 emote"
+    },
+    {
+      "id": 110197817245975,
+      "name": "Nerverous Shy Worried Scared Sit"
+    },
+    {
+      "id": 70826942903422,
+      "name": "Vampire Bat"
+    },
+    {
+      "id": 103802416615134,
+      "name": "🌠Aura Farm Pose"
     }
   ]
 }
