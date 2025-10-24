@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21573,
-  "lastUpdate": "2025-10-24T17:17:21.806Z",
+  "totalItems": 21581,
+  "lastUpdate": "2025-10-24T18:26:30.709Z",
   "data": [
     {
       "id": 3360689775,
@@ -86294,6 +86294,38 @@
     {
       "id": 108231735673637,
       "name": "Shake that"
+    },
+    {
+      "id": 115701078718612,
+      "name": "Wave"
+    },
+    {
+      "id": 98873457696965,
+      "name": "Floating Head Idle"
+    },
+    {
+      "id": 133247466751218,
+      "name": "cutesy pose"
+    },
+    {
+      "id": 111713777474496,
+      "name": "Lost my head"
+    },
+    {
+      "id": 81547356178298,
+      "name": "Cutesy Cosy Girl Sit Pose"
+    },
+    {
+      "id": 77622492648999,
+      "name": "Dark Arts Dance [best]"
+    },
+    {
+      "id": 124680838461065,
+      "name": "Cutesy Girly Idle Profile Pose"
+    },
+    {
+      "id": 125923452654764,
+      "name": "Attraction Dance [best]"
     }
   ]
 }
