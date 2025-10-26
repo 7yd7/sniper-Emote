@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21823,
-  "lastUpdate": "2025-10-26T10:18:23.271Z",
+  "totalItems": 21842,
+  "lastUpdate": "2025-10-26T11:14:24.760Z",
   "data": [
     {
       "id": 3360689775,
@@ -87294,6 +87294,82 @@
     {
       "id": 95487576526202,
       "name": "Confess Emote"
+    },
+    {
+      "id": 117939480281682,
+      "name": "♡ ꒰ Sassy Diva Pose"
+    },
+    {
+      "id": 73671836364179,
+      "name": "♡ ꒰ Aww Pose"
+    },
+    {
+      "id": 122720205292462,
+      "name": "Find me if you can ( e/ hide )"
+    },
+    {
+      "id": 136960527733199,
+      "name": "♡ ꒰ Cute Oh Em Gee Pose"
+    },
+    {
+      "id": 134225061855795,
+      "name": "♡ ꒰ Cute Bent Shocked Pose"
+    },
+    {
+      "id": 89551904780362,
+      "name": "♡ ꒰ Cute Diva Waving Pose"
+    },
+    {
+      "id": 75488980389781,
+      "name": "♡ ꒰ Cute Excited Sitting Down Pose"
+    },
+    {
+      "id": 94006648293528,
+      "name": "♡ ꒰ Cute Happy Shy Sitting Pose"
+    },
+    {
+      "id": 72295835936485,
+      "name": "♡ ꒰ Cute Confused Sitting Pose"
+    },
+    {
+      "id": 96862588314005,
+      "name": "♡ ꒰ Cute Shy Sitting Down Pose"
+    },
+    {
+      "id": 122628174600529,
+      "name": "♡ ꒰ Kneeled Down Thinking Pose"
+    },
+    {
+      "id": 70768513623808,
+      "name": "♡ ꒰ Cute Sitting on Ledge Cat Pose"
+    },
+    {
+      "id": 71050891524835,
+      "name": "♡ ꒰ Cute Sitting on Ledge Arm up Pose"
+    },
+    {
+      "id": 82322933549736,
+      "name": "♡ ꒰ Cute Sitting on Ledge Thinking Pose"
+    },
+    {
+      "id": 85896688315351,
+      "name": "♡ ꒰ Silly Floating Dangaling Pose"
+    },
+    {
+      "id": 104242456723906,
+      "name": "♡ ꒰ Anime Falling Down Pose v2"
+    },
+    {
+      "id": 117273342398478,
+      "name": "♡ ꒰ Anime Falling Down Pose v1"
+    },
+    {
+      "id": 120663749098001,
+      "name": "♡ ꒰ Cute Laying Down Floating Pose"
+    },
+    {
+      "id": 92202014518468,
+      "name": "Floor Rock"
     }
   ]
 }
