@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 21861,
-  "lastUpdate": "2025-10-26T12:35:17.587Z",
+  "totalItems": 21864,
+  "lastUpdate": "2025-10-26T13:24:03.022Z",
   "data": [
     {
       "id": 3360689775,
@@ -87446,6 +87446,18 @@
     {
       "id": 122543367652931,
       "name": "Coin Flip"
+    },
+    {
+      "id": 97996923544346,
+      "name": "Tailflipped emote"
+    },
+    {
+      "id": 128350762567011,
+      "name": "Shedletsky Sword Slash"
+    },
+    {
+      "id": 98223001525979,
+      "name": "[BEST] Rakai Dance"
     }
   ]
 }
