@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 22025,
-  "lastUpdate": "2025-10-27T22:17:55.712Z",
+  "totalItems": 22035,
+  "lastUpdate": "2025-10-27T23:17:24.505Z",
   "data": [
     {
       "id": 3360689775,
@@ -88102,6 +88102,46 @@
     {
       "id": 82907385847875,
       "name": "Head Spin Emote"
+    },
+    {
+      "id": 116884398374771,
+      "name": "⚽ Jude Bellingham Real Madrid Celebration Football"
+    },
+    {
+      "id": 140676797552124,
+      "name": "Daydreaming ☆"
+    },
+    {
+      "id": 96000089668734,
+      "name": "GG Clap"
+    },
+    {
+      "id": 94601583610207,
+      "name": "💜 /e Heart"
+    },
+    {
+      "id": 111281858194185,
+      "name": "Cute Kick Emote"
+    },
+    {
+      "id": 132091433208147,
+      "name": "Skydive Fail"
+    },
+    {
+      "id": 90870222042789,
+      "name": "UZI Gun Morph [RAPID FIRE]"
+    },
+    {
+      "id": 112408124816668,
+      "name": "Sleeping Soundly [Float]"
+    },
+    {
+      "id": 108558194090274,
+      "name": "hip sway speed"
+    },
+    {
+      "id": 122841635755340,
+      "name": "Jason Voorhees Dont Hide"
     }
   ]
 }
