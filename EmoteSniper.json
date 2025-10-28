@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 22154,
-  "lastUpdate": "2025-10-28T22:18:56.274Z",
+  "totalItems": 22161,
+  "lastUpdate": "2025-10-28T23:18:02.556Z",
   "data": [
     {
       "id": 3360689775,
@@ -88618,6 +88618,34 @@
     {
       "id": 102494530723409,
       "name": "Caramelldansen (R6)"
+    },
+    {
+      "id": 94638558518896,
+      "name": "Shoot Sword"
+    },
+    {
+      "id": 126377858841390,
+      "name": "Adamn Killa Arrest Me Dance"
+    },
+    {
+      "id": 82971581471216,
+      "name": "Miku KAIJU Dance"
+    },
+    {
+      "id": 135571016404440,
+      "name": "The Bird Emote"
+    },
+    {
+      "id": 97343306203982,
+      "name": "SHY"
+    },
+    {
+      "id": 107556526548344,
+      "name": "Needy Dance"
+    },
+    {
+      "id": 130834095074560,
+      "name": "♡ ꒰ Sitting on All 4's Back Duo [ MATCHING ]"
     }
   ]
 }
