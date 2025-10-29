@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 22215,
-  "lastUpdate": "2025-10-29T13:33:05.203Z",
+  "totalItems": 22216,
+  "lastUpdate": "2025-10-29T14:20:23.318Z",
   "data": [
     {
       "id": 3360689775,
@@ -88862,6 +88862,10 @@
     {
       "id": 125352555187499,
       "name": "Needy Balance V2"
+    },
+    {
+      "id": 108438713561440,
+      "name": "Upside Down Halloween Aura Floating"
     }
   ]
 }
