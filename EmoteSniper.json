@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 22372,
-  "lastUpdate": "2025-10-31T07:18:14.083Z",
+  "totalItems": 22374,
+  "lastUpdate": "2025-10-31T08:25:08.378Z",
   "data": [
     {
       "id": 3360689775,
@@ -89490,6 +89490,14 @@
     {
       "id": 131978045081299,
       "name": "Needy shake"
+    },
+    {
+      "id": 93528016840998,
+      "name": "Tall Monster Emote"
+    },
+    {
+      "id": 83826837796518,
+      "name": "Jojo's Aura Farming Emote [OBlockCafe]"
     }
   ]
 }
