@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 22526,
-  "lastUpdate": "2025-11-02T16:20:59.122Z",
+  "totalItems": 22545,
+  "lastUpdate": "2025-11-02T17:15:45.179Z",
   "data": [
     {
       "id": 3360689775,
@@ -90106,6 +90106,82 @@
     {
       "id": 112176869446914,
       "name": "Fake Death"
+    },
+    {
+      "id": 123590816327126,
+      "name": "The Tylil Dance"
+    },
+    {
+      "id": 115257168348469,
+      "name": "💀Take The L"
+    },
+    {
+      "id": 139468552924646,
+      "name": "Nyan Dance!"
+    },
+    {
+      "id": 129392651497346,
+      "name": "Flapper Emote"
+    },
+    {
+      "id": 120605439830304,
+      "name": "Chinese Dance"
+    },
+    {
+      "id": 137029476743912,
+      "name": "Acelerada"
+    },
+    {
+      "id": 73659281629470,
+      "name": "Tyla Dance"
+    },
+    {
+      "id": 108694649915493,
+      "name": "ZAAAMN😍😍😍"
+    },
+    {
+      "id": 113691850988157,
+      "name": "Ninja Dance"
+    },
+    {
+      "id": 137439386054157,
+      "name": "Monster Mash Dance"
+    },
+    {
+      "id": 139764989647231,
+      "name": "Levitating Head Pose"
+    },
+    {
+      "id": 107983532813335,
+      "name": "Jelly Dance!"
+    },
+    {
+      "id": 106545201438468,
+      "name": "Jamal Dance"
+    },
+    {
+      "id": 121330691640643,
+      "name": "IShowSpeed Dance"
+    },
+    {
+      "id": 72859795001831,
+      "name": "Heart Emote"
+    },
+    {
+      "id": 107043997829425,
+      "name": "Frog Emote"
+    },
+    {
+      "id": 92370687938440,
+      "name": "Flappy Bird"
+    },
+    {
+      "id": 114865683866302,
+      "name": "Caramelldansen"
+    },
+    {
+      "id": 85179512247227,
+      "name": "Bounce Dance"
     }
   ]
 }
