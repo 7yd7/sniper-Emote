@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 22787,
-  "lastUpdate": "2025-11-04T17:16:03.342Z",
+  "totalItems": 22792,
+  "lastUpdate": "2025-11-04T18:28:33.072Z",
   "data": [
     {
       "id": 3360689775,
@@ -91150,6 +91150,26 @@
     {
       "id": 123178942770914,
       "name": "[NEW] Crazy Shake Dance!"
+    },
+    {
+      "id": 90478898798548,
+      "name": "Cool Laying Emote"
+    },
+    {
+      "id": 98450203257402,
+      "name": "it's AURA time "
+    },
+    {
+      "id": 128307490168791,
+      "name": "Rakai Dance"
+    },
+    {
+      "id": 82122542802567,
+      "name": "Weird Zesty Sturdy"
+    },
+    {
+      "id": 73853093753369,
+      "name": "Windy Balance"
     }
   ]
 }
