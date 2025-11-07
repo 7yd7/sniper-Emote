@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 23091,
-  "lastUpdate": "2025-11-06T23:18:09.838Z",
+  "totalItems": 23098,
+  "lastUpdate": "2025-11-07T01:25:59.988Z",
   "data": [
     {
       "id": 3360689775,
@@ -92366,6 +92366,34 @@
     {
       "id": 137787596946011,
       "name": "Michael Myers Bounce V2 [BEST]"
+    },
+    {
+      "id": 98047692063407,
+      "name": "Cute Reading Pose"
+    },
+    {
+      "id": 98267562216122,
+      "name": "Cozy Emote"
+    },
+    {
+      "id": 129972261606360,
+      "name": "SHAKE IT"
+    },
+    {
+      "id": 103249068056405,
+      "name": "Ice Spice Bounce"
+    },
+    {
+      "id": 99762213583967,
+      "name": "Snow Angels Christmas"
+    },
+    {
+      "id": 94967219000889,
+      "name": "Elegant Princess Sit Animation"
+    },
+    {
+      "id": 129082272720050,
+      "name": "Crazy Jester Laugh"
     }
   ]
 }
