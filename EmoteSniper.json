@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 23151,
-  "lastUpdate": "2025-11-07T12:38:59.621Z",
+  "totalItems": 23152,
+  "lastUpdate": "2025-11-07T13:28:41.117Z",
   "data": [
     {
       "id": 3360689775,
@@ -92606,6 +92606,10 @@
     {
       "id": 98125423064599,
       "name": "Effortless Aura Pose Emote"
+    },
+    {
+      "id": 106509900778607,
+      "name": "♡ Shy Sweetheart cute doll pose"
     }
   ]
 }
