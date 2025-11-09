@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 23403,
-  "lastUpdate": "2025-11-09T09:17:43.137Z",
+  "totalItems": 23410,
+  "lastUpdate": "2025-11-09T10:18:19.761Z",
   "data": [
     {
       "id": 3360689775,
@@ -93614,6 +93614,34 @@
     {
       "id": 81364408096834,
       "name": "Flying Fan Emote"
+    },
+    {
+      "id": 127699027570723,
+      "name": "Kicking Feet Float"
+    },
+    {
+      "id": 139227469717483,
+      "name": "Hip Sway"
+    },
+    {
+      "id": 122651528338475,
+      "name": "jumping starfish"
+    },
+    {
+      "id": 132967722246461,
+      "name": "Heart Transformation"
+    },
+    {
+      "id": 83745409150205,
+      "name": "Crazy Jumping Spider - Emote"
+    },
+    {
+      "id": 91581647870086,
+      "name": ";fling me (works in every game)"
+    },
+    {
+      "id": 125529499519758,
+      "name": "Shake Bounce Dance"
     }
   ]
 }
