@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 23532,
-  "lastUpdate": "2025-11-10T08:28:34.939Z",
+  "totalItems": 23538,
+  "lastUpdate": "2025-11-10T09:23:47.813Z",
   "data": [
     {
       "id": 3360689775,
@@ -94130,6 +94130,30 @@
     {
       "id": 73141613761090,
       "name": "bendy dance"
+    },
+    {
+      "id": 128335011019635,
+      "name": "☆ Anime sword stance "
+    },
+    {
+      "id": 120402732092695,
+      "name": "Cute Kicking Feet Sit"
+    },
+    {
+      "id": 121206748527423,
+      "name": "Floating Sit Emote – Hover & Relax Animation"
+    },
+    {
+      "id": 97034226534306,
+      "name": "cute jumping kawaii girl pose idle"
+    },
+    {
+      "id": 132615653702959,
+      "name": "Jumping Joy"
+    },
+    {
+      "id": 137080431878792,
+      "name": "Rakai Dance Emote"
     }
   ]
 }
