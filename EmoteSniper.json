@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 23918,
-  "lastUpdate": "2025-11-14T08:26:39.696Z",
+  "totalItems": 23919,
+  "lastUpdate": "2025-11-14T09:21:34.369Z",
   "data": [
     {
       "id": 3360689775,
@@ -95674,6 +95674,10 @@
     {
       "id": 134442175720292,
       "name": "Floating gojo"
+    },
+    {
+      "id": 118893717382971,
+      "name": "Sukuna Aura Farming"
     }
   ]
 }
