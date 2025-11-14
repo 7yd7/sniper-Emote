@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 23912,
-  "lastUpdate": "2025-11-14T07:19:33.769Z",
+  "totalItems": 23918,
+  "lastUpdate": "2025-11-14T08:26:39.696Z",
   "data": [
     {
       "id": 3360689775,
@@ -95650,6 +95650,30 @@
     {
       "id": 96099493683085,
       "name": "Stuck Like Glue"
+    },
+    {
+      "id": 73007950149745,
+      "name": "Rakai Emote"
+    },
+    {
+      "id": 132735113302777,
+      "name": "♡ Cute Akimbo Pose (3.0)"
+    },
+    {
+      "id": 115522509055380,
+      "name": "🐛 Wigglepillar.exe"
+    },
+    {
+      "id": 92970357822036,
+      "name": "😂 Jason/Michael Vorhees Goofy Dance "
+    },
+    {
+      "id": 76975319108109,
+      "name": "Green Alien Dance"
+    },
+    {
+      "id": 134442175720292,
+      "name": "Floating gojo"
     }
   ]
 }
