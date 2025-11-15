@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 24068,
-  "lastUpdate": "2025-11-15T12:35:33.045Z",
+  "totalItems": 24075,
+  "lastUpdate": "2025-11-15T13:24:24.446Z",
   "data": [
     {
       "id": 3360689775,
@@ -96274,6 +96274,34 @@
     {
       "id": 85636872110453,
       "name": "Default Emote"
+    },
+    {
+      "id": 126536966592337,
+      "name": "[🎄] All I want For Christmas is You"
+    },
+    {
+      "id": 128438116622646,
+      "name": "Vem Ca Nénem Shake"
+    },
+    {
+      "id": 90469857895535,
+      "name": "Jason | Goofy Dance 🤣"
+    },
+    {
+      "id": 139406058905291,
+      "name": "cute shy girl anime pose"
+    },
+    {
+      "id": 75338781460777,
+      "name": "Hip Sway"
+    },
+    {
+      "id": 84575393819509,
+      "name": "Needy Shake Dance"
+    },
+    {
+      "id": 123882061750163,
+      "name": "Do The Griddy!"
     }
   ]
 }
