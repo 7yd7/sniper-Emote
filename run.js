@@ -108,7 +108,34 @@ async function fetchFromAPI(apiInfo, existingData) {
                     if (existingData.ids.has(item.id)) {
                         duplicateCount++;
                     } else {
-                        apiItems.push({ id: item.id, name: item.name });
+                        const itemData = {
+                            id: item.id,
+                            name: item.name
+                        };
+
+                        if (item.bundledItems) {
+                            if (Array.isArray(item.bundledItems)) {
+                                // New API format: Array of objects. Convert to object of arrays.
+                                const bundledAssets = {};
+                                item.bundledItems.forEach(bundledItem => {
+                                    if (bundledItem.type === "Asset" && bundledItem.assetType && bundledItem.id) {
+                                        const assetType = bundledItem.assetType.toString();
+                                        if (!bundledAssets[assetType]) {
+                                            bundledAssets[assetType] = [];
+                                        }
+                                        bundledAssets[assetType].push(bundledItem.id);
+                                    }
+                                });
+                                if (Object.keys(bundledAssets).length > 0) {
+                                    itemData.bundledItems = bundledAssets;
+                                }
+                            } else if (typeof item.bundledItems === 'object' && item.bundledItems !== null) {
+                                // Old API format: Object of arrays. Already in the desired format.
+                                itemData.bundledItems = item.bundledItems;
+                            }
+                        }
+
+                        apiItems.push(itemData);
                         existingData.ids.add(item.id);
                         newItemsCount++;
                     }
@@ -150,7 +177,6 @@ async function processAPIsByFile() {
     const startTime = Date.now();
     log("Starting combined update...");
     
-    // Group APIs by output file
     const apisByFile = {};
     APIs.forEach(api => {
         if (!apisByFile[api.outputFile]) {
@@ -161,7 +187,6 @@ async function processAPIsByFile() {
 
     const results = {};
 
-    // Process each file group
     for (const [filename, apis] of Object.entries(apisByFile)) {
         log(`Processing ${filename}...`);
         
@@ -170,7 +195,6 @@ async function processAPIsByFile() {
         let totalNewItems = 0;
         let totalDuplicates = 0;
 
-        // Process all APIs for this file
         for (const api of apis) {
             const result = await fetchFromAPI(api, existingData);
             allItems.push(...result.items);
@@ -180,7 +204,7 @@ async function processAPIsByFile() {
             log(`${api.name} - New: ${result.newItems}, Duplicates: ${result.duplicates}`);
         }
 
-        // Save the combined data
+
         const saveSuccess = saveData(allItems, filename);
         
         results[filename] = {
