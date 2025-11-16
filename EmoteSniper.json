@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 24221,
-  "lastUpdate": "2025-11-16T15:17:47.890Z",
+  "totalItems": 24233,
+  "lastUpdate": "2025-11-16T16:21:47.918Z",
   "data": [
     {
       "id": 3360689775,
@@ -96886,6 +96886,54 @@
     {
       "id": 112212209153767,
       "name": "Michael Myers Bounce ENHANCED [Emote]"
+    },
+    {
+      "id": 129419694542069,
+      "name": "Relaxed Float"
+    },
+    {
+      "id": 106023873285588,
+      "name": "Animation2"
+    },
+    {
+      "id": 89733408276858,
+      "name": "Baddie Idle Pose Animation Emote"
+    },
+    {
+      "id": 75373055001174,
+      "name": "Baddie Diva Ramp Walk Animation Emote"
+    },
+    {
+      "id": 132372558058436,
+      "name": "Baddie Diva Cross Leg Idle Pose Animation Emote"
+    },
+    {
+      "id": 105610269844432,
+      "name": "Baddie Latina Slay Dance Trend Animation "
+    },
+    {
+      "id": 112587267162260,
+      "name": "Baddie Gata Only Dance Trend Animation"
+    },
+    {
+      "id": 89945879726046,
+      "name": "Baddie Love The Way You Trend Dance Animation "
+    },
+    {
+      "id": 136331230699065,
+      "name": "Baddie Heel Up Idle Pose Emote"
+    },
+    {
+      "id": 88633646807436,
+      "name": "Baddie Queen Crown Diva Idle Pose Emote"
+    },
+    {
+      "id": 99770379181720,
+      "name": "Baddie Duo BBF Dance Emote (Left)"
+    },
+    {
+      "id": 70936739627294,
+      "name": "Baddie Duo BBF Dance Emote (Right)"
     }
   ]
 }
