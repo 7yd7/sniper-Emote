@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 24216,
-  "lastUpdate": "2025-11-16T14:16:44.505Z",
+  "totalItems": 24221,
+  "lastUpdate": "2025-11-16T15:17:47.890Z",
   "data": [
     {
       "id": 3360689775,
@@ -96866,6 +96866,26 @@
     {
       "id": 116059484362998,
       "name": "[PROFILE] Hero 1"
+    },
+    {
+      "id": 133941981493532,
+      "name": "Baddie Wall Lean Idle Animation Pose Emote"
+    },
+    {
+      "id": 130205097535299,
+      "name": "Baddie Blabla Mocking Idle Pose Emote"
+    },
+    {
+      "id": 91859447546478,
+      "name": "Forsaken Noli Pose"
+    },
+    {
+      "id": 110181952229905,
+      "name": "Basketball Zero Awakening Part 1"
+    },
+    {
+      "id": 112212209153767,
+      "name": "Michael Myers Bounce ENHANCED [Emote]"
     }
   ]
 }
