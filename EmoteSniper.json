@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 24332,
-  "lastUpdate": "2025-11-17T09:25:05.677Z",
+  "totalItems": 24339,
+  "lastUpdate": "2025-11-17T10:22:59.856Z",
   "data": [
     {
       "id": 3360689775,
@@ -97330,6 +97330,34 @@
     {
       "id": 130655282482425,
       "name": "MSP Classic Model Pose Emote Profile"
+    },
+    {
+      "id": 82520416756193,
+      "name": "Angel Aura"
+    },
+    {
+      "id": 95476720602900,
+      "name": "Simple Cute Idle"
+    },
+    {
+      "id": 99714452217111,
+      "name": "Kick Idle Pose"
+    },
+    {
+      "id": 72580723784180,
+      "name": "♡ [LOOPED]Cute n shy Idle Emote Profile Pose "
+    },
+    {
+      "id": 70928485033840,
+      "name": "Slow Dreamer Emote"
+    },
+    {
+      "id": 130459758222546,
+      "name": "Crouch"
+    },
+    {
+      "id": 113389434660281,
+      "name": "Jellyfish"
     }
   ]
 }
