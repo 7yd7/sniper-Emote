@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 24816,
-  "lastUpdate": "2025-11-21T14:19:38.714Z",
+  "totalItems": 24817,
+  "lastUpdate": "2025-11-21T15:18:38.530Z",
   "data": [
     {
       "id": 3360689775,
@@ -99266,6 +99266,10 @@
     {
       "id": 107658433094754,
       "name": "Relaxed Floating"
+    },
+    {
+      "id": 75981039646929,
+      "name": "BAT SWING"
     }
   ]
 }
