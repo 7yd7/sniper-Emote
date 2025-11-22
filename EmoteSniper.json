@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 24917,
-  "lastUpdate": "2025-11-22T17:16:13.535Z",
+  "totalItems": 24928,
+  "lastUpdate": "2025-11-22T18:26:05.372Z",
   "data": [
     {
       "id": 3360689775,
@@ -99670,6 +99670,50 @@
     {
       "id": 94011396957205,
       "name": "Hype Boy  NewJeans"
+    },
+    {
+      "id": 84315016101688,
+      "name": "🎀 cute hugging emote (matches with duo emote)"
+    },
+    {
+      "id": 76959607800800,
+      "name": "Takaba *DUO DANCE*"
+    },
+    {
+      "id": 110013885130856,
+      "name": "Kenjaku *DUO DANCE*"
+    },
+    {
+      "id": 134872404382541,
+      "name": "GlowSwing"
+    },
+    {
+      "id": 114241690601430,
+      "name": "HeadWobble"
+    },
+    {
+      "id": 95866865865101,
+      "name": "Aura Floating Farm Idle"
+    },
+    {
+      "id": 101097266076679,
+      "name": "Fake Lag Jump Animation"
+    },
+    {
+      "id": 99301667743171,
+      "name": "Michael Myers Bounce Trip Out Emote"
+    },
+    {
+      "id": 99459452508399,
+      "name": "Peacemaker Sway"
+    },
+    {
+      "id": 112819653616515,
+      "name": "New Jeans - Hype Boy"
+    },
+    {
+      "id": 85076403065102,
+      "name": "Ice Spice Jersey Bounce"
     }
   ]
 }
