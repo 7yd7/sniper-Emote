@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 25068,
-  "lastUpdate": "2025-11-23T15:18:10.441Z",
+  "totalItems": 25074,
+  "lastUpdate": "2025-11-23T16:22:27.998Z",
   "data": [
     {
       "id": 3360689775,
@@ -100274,6 +100274,30 @@
     {
       "id": 130496086742419,
       "name": "[🔲]Nostalgia Emote"
+    },
+    {
+      "id": 107393652159767,
+      "name": "Let's Be Besties"
+    },
+    {
+      "id": 115071209555497,
+      "name": "Chilly Winter Morning"
+    },
+    {
+      "id": 118450967152674,
+      "name": "AI baby tuf meme (Best)"
+    },
+    {
+      "id": 74177195018609,
+      "name": "Dribbling [2 player emote]"
+    },
+    {
+      "id": 131121991874660,
+      "name": "67? 89!"
+    },
+    {
+      "id": 111988253810382,
+      "name": "Cute Sit"
     }
   ]
 }
