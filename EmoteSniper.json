@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 25059,
-  "lastUpdate": "2025-11-23T13:23:56.233Z",
+  "totalItems": 25063,
+  "lastUpdate": "2025-11-23T14:17:05.611Z",
   "data": [
     {
       "id": 3360689775,
@@ -100238,6 +100238,22 @@
     {
       "id": 120265517452884,
       "name": "Twizzy Spin - Yeat"
+    },
+    {
+      "id": 110403846386813,
+      "name": "DJ Setup"
+    },
+    {
+      "id": 73126126731268,
+      "name": "Duo Romantic Being Held Emote"
+    },
+    {
+      "id": 128783603781394,
+      "name": "Duo Romantic Holding Emote"
+    },
+    {
+      "id": 114896599198832,
+      "name": "Chibi Walk — Adorable Stroll"
     }
   ]
 }
