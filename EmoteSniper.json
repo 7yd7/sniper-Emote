@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 25057,
-  "lastUpdate": "2025-11-23T12:34:23.552Z",
+  "totalItems": 25059,
+  "lastUpdate": "2025-11-23T13:23:56.233Z",
   "data": [
     {
       "id": 3360689775,
@@ -100230,6 +100230,14 @@
     {
       "id": 73837890957731,
       "name": "Tornado"
+    },
+    {
+      "id": 70964136265867,
+      "name": "[NEW] Rakai Emote⭐️"
+    },
+    {
+      "id": 120265517452884,
+      "name": "Twizzy Spin - Yeat"
     }
   ]
 }
