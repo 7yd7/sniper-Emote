@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 25273,
-  "lastUpdate": "2025-11-25T06:31:27.799Z",
+  "totalItems": 25277,
+  "lastUpdate": "2025-11-25T07:20:22.068Z",
   "data": [
     {
       "id": 3360689775,
@@ -101094,6 +101094,22 @@
     {
       "id": 140304103890844,
       "name": "Mad Sway"
+    },
+    {
+      "id": 73599623109487,
+      "name": "Angry"
+    },
+    {
+      "id": 74752583834600,
+      "name": "♡ cute scene lean in idle pose"
+    },
+    {
+      "id": 84179358061828,
+      "name": "Cute shy girly standing idle emote Profile pose"
+    },
+    {
+      "id": 72643649593770,
+      "name": "Kawaii cute girly idle emote profile pose"
     }
   ]
 }
