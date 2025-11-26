@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 25418,
-  "lastUpdate": "2025-11-26T16:26:05.897Z",
+  "totalItems": 25420,
+  "lastUpdate": "2025-11-26T17:18:35.989Z",
   "data": [
     {
       "id": 3360689775,
@@ -101674,6 +101674,14 @@
     {
       "id": 105254397892460,
       "name": "Nya~ Pose"
+    },
+    {
+      "id": 108696124125602,
+      "name": "Crybaby"
+    },
+    {
+      "id": 98285670026445,
+      "name": "Dreamy Drop emote"
     }
   ]
 }
