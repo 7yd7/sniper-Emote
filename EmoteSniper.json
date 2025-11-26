@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 25454,
-  "lastUpdate": "2025-11-26T20:22:18.996Z",
+  "totalItems": 25457,
+  "lastUpdate": "2025-11-26T21:18:05.444Z",
   "data": [
     {
       "id": 3360689775,
@@ -101818,6 +101818,18 @@
     {
       "id": 94961485960950,
       "name": "Cute Sit"
+    },
+    {
+      "id": 136203821177298,
+      "name": "Jason Vorhees Meme Emote"
+    },
+    {
+      "id": 140049863056677,
+      "name": "Aura Fly Emote"
+    },
+    {
+      "id": 135075515898838,
+      "name": "Heat Sway [BEST]"
     }
   ]
 }
