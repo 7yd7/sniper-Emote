@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 25495,
-  "lastUpdate": "2025-11-27T07:20:59.156Z",
+  "totalItems": 25503,
+  "lastUpdate": "2025-11-27T08:28:33.373Z",
   "data": [
     {
       "id": 3360689775,
@@ -101982,6 +101982,38 @@
     {
       "id": 95794111597071,
       "name": "Vecna Fly Animation Emote Bone"
+    },
+    {
+      "id": 84208929708216,
+      "name": "Rakai Emote"
+    },
+    {
+      "id": 104278650550369,
+      "name": "w zesty sturdy"
+    },
+    {
+      "id": 138572658318349,
+      "name": "ai baby meme"
+    },
+    {
+      "id": 122176685365967,
+      "name": "transform eiffel tower"
+    },
+    {
+      "id": 77068769856000,
+      "name": "Road Runner"
+    },
+    {
+      "id": 106914915176884,
+      "name": "Jason Vorhees Bounce 2.0 (NEW!)"
+    },
+    {
+      "id": 91511048282536,
+      "name": "(Forsaken) Dusekkar-Idle-Pose-Animation"
+    },
+    {
+      "id": 105149499239010,
+      "name": "Dance If You Are The Best"
     }
   ]
 }
