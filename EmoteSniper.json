@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 25550,
-  "lastUpdate": "2025-11-27T20:20:22.225Z",
+  "totalItems": 25555,
+  "lastUpdate": "2025-11-27T21:18:07.801Z",
   "data": [
     {
       "id": 3360689775,
@@ -102202,6 +102202,26 @@
     {
       "id": 87356175421172,
       "name": "Cutesy Ballerina Idle!"
+    },
+    {
+      "id": 90560936239203,
+      "name": "67"
+    },
+    {
+      "id": 111433253349295,
+      "name": "float in air"
+    },
+    {
+      "id": 110726780191870,
+      "name": "Leg Break Bounce"
+    },
+    {
+      "id": 87314667071554,
+      "name": "Aura Float [BEST]"
+    },
+    {
+      "id": 84473198530506,
+      "name": "Spice Keep Bouncing [CHEAP]"
     }
   ]
 }
