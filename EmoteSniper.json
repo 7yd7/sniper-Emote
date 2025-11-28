@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 25687,
-  "lastUpdate": "2025-11-28T22:18:37.166Z",
+  "totalItems": 25695,
+  "lastUpdate": "2025-11-28T23:18:11.548Z",
   "data": [
     {
       "id": 3360689775,
@@ -102750,6 +102750,38 @@
     {
       "id": 116107350479666,
       "name": "Cute Heart Emote (High)"
+    },
+    {
+      "id": 90030439963893,
+      "name": "Rat Dance"
+    },
+    {
+      "id": 119951260660193,
+      "name": "Gabriela Dance - KATSEYE"
+    },
+    {
+      "id": 85632465171166,
+      "name": "Twist rotate"
+    },
+    {
+      "id": 80477598382230,
+      "name": "Cutely Looking Back"
+    },
+    {
+      "id": 118368157788590,
+      "name": "Aura Floating"
+    },
+    {
+      "id": 117673307071633,
+      "name": "I WANNA RUN AWAY"
+    },
+    {
+      "id": 90528521033383,
+      "name": "♡ Yandere shy embarassed face hold v2"
+    },
+    {
+      "id": 92273013825570,
+      "name": "Hear Me Now"
     }
   ]
 }
