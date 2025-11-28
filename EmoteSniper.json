@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 25685,
-  "lastUpdate": "2025-11-28T21:17:28.914Z",
+  "totalItems": 25687,
+  "lastUpdate": "2025-11-28T22:18:37.166Z",
   "data": [
     {
       "id": 3360689775,
@@ -102742,6 +102742,14 @@
     {
       "id": 103018838812782,
       "name": "67 Emote"
+    },
+    {
+      "id": 109939785865212,
+      "name": "🍃cute sit and relaxing 🍃"
+    },
+    {
+      "id": 116107350479666,
+      "name": "Cute Heart Emote (High)"
     }
   ]
 }
