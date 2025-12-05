@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 26420,
-  "lastUpdate": "2025-12-04T23:19:57.553Z",
+  "totalItems": 26424,
+  "lastUpdate": "2025-12-05T01:28:35.504Z",
   "data": [
     {
       "id": 3360689775,
@@ -105682,6 +105682,22 @@
     {
       "id": 96367430698387,
       "name": "Bubbly Fashion Pose Emote"
+    },
+    {
+      "id": 128895207773425,
+      "name": "Shy Kawaii Idle Pose"
+    },
+    {
+      "id": 88015320657984,
+      "name": "no no"
+    },
+    {
+      "id": 114470350814663,
+      "name": "Hey There! Kawaii Pose"
+    },
+    {
+      "id": 76149949855558,
+      "name": "Sitting ✨"
     }
   ]
 }
