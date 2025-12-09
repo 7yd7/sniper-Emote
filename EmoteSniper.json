@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 27043,
-  "lastUpdate": "2025-12-09T22:20:32.711Z",
+  "totalItems": 27049,
+  "lastUpdate": "2025-12-09T23:19:59.875Z",
   "data": [
     {
       "id": 3360689775,
@@ -108174,6 +108174,30 @@
     {
       "id": 90819978246431,
       "name": "Circle Shake"
+    },
+    {
+      "id": 91625448307902,
+      "name": "geeked"
+    },
+    {
+      "id": 106706025137830,
+      "name": "Ice Skating Christmas"
+    },
+    {
+      "id": 139166629280659,
+      "name": "All I Want For Christmas Is You"
+    },
+    {
+      "id": 108615518250918,
+      "name": "🔥 [BEST] 2Hollis Gold Emote"
+    },
+    {
+      "id": 81825337040303,
+      "name": "Nonchalant Sit"
+    },
+    {
+      "id": 106571992259929,
+      "name": "Cute Sit"
     }
   ]
 }
