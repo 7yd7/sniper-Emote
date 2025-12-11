@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 27208,
-  "lastUpdate": "2025-12-11T17:25:41.514Z",
+  "totalItems": 27209,
+  "lastUpdate": "2025-12-11T18:29:56.051Z",
   "data": [
     {
       "id": 3360689775,
@@ -108834,6 +108834,10 @@
     {
       "id": 83589342661017,
       "name": "Kid Tantrum "
+    },
+    {
+      "id": 96389661805809,
+      "name": "silly confused emote"
     }
   ]
 }
