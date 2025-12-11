@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 27150,
-  "lastUpdate": "2025-12-11T05:22:42.150Z",
+  "totalItems": 27152,
+  "lastUpdate": "2025-12-11T06:33:31.175Z",
   "data": [
     {
       "id": 3360689775,
@@ -108602,6 +108602,14 @@
     {
       "id": 123929740439299,
       "name": "Fling emote V2"
+    },
+    {
+      "id": 122746082551610,
+      "name": "Rakai emote"
+    },
+    {
+      "id": 117699781428279,
+      "name": "Floating Aura Pose 🔥"
     }
   ]
 }
