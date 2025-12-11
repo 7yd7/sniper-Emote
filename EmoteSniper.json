@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 27209,
-  "lastUpdate": "2025-12-11T19:20:04.167Z",
+  "totalItems": 27212,
+  "lastUpdate": "2025-12-11T20:23:36.384Z",
   "data": [
     {
       "id": 3360689775,
@@ -108838,6 +108838,18 @@
     {
       "id": 96389661805809,
       "name": "silly confused emote"
+    },
+    {
+      "id": 79649930639024,
+      "name": "😱Sammy Snap (Admin abuse)"
+    },
+    {
+      "id": 108635168958388,
+      "name": "cute bouncy anime dance"
+    },
+    {
+      "id": 117391859202019,
+      "name": "Heart"
     }
   ]
 }
