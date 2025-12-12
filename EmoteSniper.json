@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 27274,
-  "lastUpdate": "2025-12-12T21:18:57.906Z",
+  "totalItems": 27276,
+  "lastUpdate": "2025-12-12T22:20:20.867Z",
   "data": [
     {
       "id": 3360689775,
@@ -109098,6 +109098,14 @@
     {
       "id": 75269306242351,
       "name": "Roaring Knight Flourish (BUNDLE)"
+    },
+    {
+      "id": 98834794414769,
+      "name": "Roaring Knight - Roar v2 (BUNDLE)"
+    },
+    {
+      "id": 132298638818964,
+      "name": "Roaring Knight - Slashes (BUNDLE)"
     }
   ]
 }
