@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 27046,
-  "lastUpdate": "2025-12-15T04:40:36.883Z",
+  "totalItems": 27053,
+  "lastUpdate": "2025-12-15T05:25:37.094Z",
   "data": [
     {
       "id": 3360689775,
@@ -108186,6 +108186,34 @@
     {
       "id": 90428713389136,
       "name": "Ice Spice - Emote"
+    },
+    {
+      "id": 103090621248306,
+      "name": "sad kawaii emote"
+    },
+    {
+      "id": 119369731590505,
+      "name": "Ballet Leg Up"
+    },
+    {
+      "id": 76744964041444,
+      "name": "Chaos King - Idle (BUNDLE)"
+    },
+    {
+      "id": 97899449911776,
+      "name": "Reze"
+    },
+    {
+      "id": 127035057749203,
+      "name": "Cute Feet Kicking"
+    },
+    {
+      "id": 84267633518192,
+      "name": "now do it dance"
+    },
+    {
+      "id": 78828305615722,
+      "name": "beckon call"
     }
   ]
 }
