@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 27399,
-  "lastUpdate": "2025-12-17T23:20:12.424Z",
+  "totalItems": 27412,
+  "lastUpdate": "2025-12-18T01:27:22.540Z",
   "data": [
     {
       "id": 3360689775,
@@ -109598,6 +109598,58 @@
     {
       "id": 86239315532180,
       "name": "Pet Emote"
+    },
+    {
+      "id": 135924559660324,
+      "name": "[BEST] Chill Levitate"
+    },
+    {
+      "id": 89198573930777,
+      "name": "Honor Knight Kneel Dark Souls"
+    },
+    {
+      "id": 118273785425104,
+      "name": "Red Carpet Walk  (Fortnite)"
+    },
+    {
+      "id": 97048147713398,
+      "name": "Yelan Signature Pose Genshin"
+    },
+    {
+      "id": 93688362416921,
+      "name": "*BEST* Needy Balance"
+    },
+    {
+      "id": 116409421241559,
+      "name": "Chinese Dance Emote"
+    },
+    {
+      "id": 70434485915160,
+      "name": "Cute Bouncy Needy Shake Dance"
+    },
+    {
+      "id": 73924207661501,
+      "name": "Nova's Maria Vibe"
+    },
+    {
+      "id": 90988542415832,
+      "name": "Cute Shuffle"
+    },
+    {
+      "id": 92420642322352,
+      "name": "Chinese Dance"
+    },
+    {
+      "id": 132448394391960,
+      "name": "Hide"
+    },
+    {
+      "id": 82211963190836,
+      "name": "head hold"
+    },
+    {
+      "id": 110378204966428,
+      "name": "Ya Ya Ying Dance⭐"
     }
   ]
 }
