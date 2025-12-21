@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 27787,
-  "lastUpdate": "2025-12-21T06:30:09.038Z",
+  "totalItems": 27798,
+  "lastUpdate": "2025-12-21T07:20:06.952Z",
   "data": [
     {
       "id": 3360689775,
@@ -111150,6 +111150,50 @@
     {
       "id": 98455881560567,
       "name": "R6 Idle Pose | Lookout"
+    },
+    {
+      "id": 86901746260095,
+      "name": "R6 Idle Pose | Cute/Shy"
+    },
+    {
+      "id": 85116004655341,
+      "name": "Tired Slouch"
+    },
+    {
+      "id": 107022073942133,
+      "name": "Reze dance (IRIS OUT) [R6 style]"
+    },
+    {
+      "id": 82257940307349,
+      "name": "Hand Hold Shake [BEST]"
+    },
+    {
+      "id": 114985859090480,
+      "name": "Floating Sit"
+    },
+    {
+      "id": 93419615721791,
+      "name": "Pennywise Strut (Emote V2)"
+    },
+    {
+      "id": 131894162836183,
+      "name": "Destroy (2holis)"
+    },
+    {
+      "id": 132512453772934,
+      "name": "[NEW] SpongeBob Ethan Slater Dance"
+    },
+    {
+      "id": 79987061386640,
+      "name": "Ninja Girl Pose"
+    },
+    {
+      "id": 121766304924982,
+      "name": "(duo dance) the old year is leaving us 🗣️"
+    },
+    {
+      "id": 88032185476754,
+      "name": "Spongebob Dance (Musical)"
     }
   ]
 }
