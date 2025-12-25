@@ -113,25 +113,25 @@ async function fetchFromAPI(apiInfo, existingData) {
                             name: item.name
                         };
 
-                        if (item.bundledItems) {
-                            if (Array.isArray(item.bundledItems)) {
-                                // New API format: Array of objects. Convert to object of arrays.
-                                const bundledAssets = {};
-                                item.bundledItems.forEach(bundledItem => {
-                                    if (bundledItem.type === "Asset" && bundledItem.assetType && bundledItem.id) {
-                                        const assetType = bundledItem.assetType.toString();
-                                        if (!bundledAssets[assetType]) {
-                                            bundledAssets[assetType] = [];
-                                        }
-                                        bundledAssets[assetType].push(bundledItem.id);
+                        if (item.bundledItems && Array.isArray(item.bundledItems)) {
+                            const bundledAssets = {};
+                            let animCounter = 1;
+
+                            item.bundledItems.forEach(bundledItem => {
+                                if (bundledItem.type === "UserOutfit") return;
+
+                                const typeKey = (animCounter++).toString();
+
+                                if (bundledItem.id) {
+                                    if (!bundledAssets[typeKey]) {
+                                        bundledAssets[typeKey] = [];
                                     }
-                                });
-                                if (Object.keys(bundledAssets).length > 0) {
-                                    itemData.bundledItems = bundledAssets;
+                                    bundledAssets[typeKey].push(bundledItem.id);
                                 }
-                            } else if (typeof item.bundledItems === 'object' && item.bundledItems !== null) {
-                                // Old API format: Object of arrays. Already in the desired format.
-                                itemData.bundledItems = item.bundledItems;
+                            });
+
+                            if (Object.keys(bundledAssets).length > 0) {
+                                itemData.bundledItems = bundledAssets;
                             }
                         }
 
@@ -176,7 +176,7 @@ function saveData(items, filename) {
 async function processAPIsByFile() {
     const startTime = Date.now();
     log("Starting combined update...");
-    
+
     const apisByFile = {};
     APIs.forEach(api => {
         if (!apisByFile[api.outputFile]) {
@@ -189,7 +189,7 @@ async function processAPIsByFile() {
 
     for (const [filename, apis] of Object.entries(apisByFile)) {
         log(`Processing ${filename}...`);
-        
+
         const existingData = loadExistingData(filename);
         const allItems = [...existingData.items];
         let totalNewItems = 0;
@@ -200,13 +200,13 @@ async function processAPIsByFile() {
             allItems.push(...result.items);
             totalNewItems += result.newItems;
             totalDuplicates += result.duplicates;
-            
+
             log(`${api.name} - New: ${result.newItems}, Duplicates: ${result.duplicates}`);
         }
 
 
         const saveSuccess = saveData(allItems, filename);
-        
+
         results[filename] = {
             success: saveSuccess,
             totalItems: allItems.length,
@@ -225,10 +225,10 @@ async function processAPIsByFile() {
 
 async function main() {
     log("Starting Enhanced EmoteSniper with Animation support...");
-    
+
     try {
         const { results, duration } = await processAPIsByFile();
-        
+
         let allSuccess = true;
         for (const [filename, result] of Object.entries(results)) {
             if (!result.success) {
@@ -238,7 +238,7 @@ async function main() {
                 log(`✓ ${filename}: ${result.totalItems} items (${result.newItems} new)`);
             }
         }
-        
+
         if (allSuccess) {
             log("Enhanced EmoteSniper completed successfully");
             process.exit(0);
