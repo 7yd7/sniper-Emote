@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 28287,
-  "lastUpdate": "2025-12-26T10:21:51.007Z",
+  "totalItems": 28289,
+  "lastUpdate": "2025-12-26T11:19:12.720Z",
   "data": [
     {
       "id": 3360689775,
@@ -113150,6 +113150,14 @@
     {
       "id": 97391855782250,
       "name": "Geometry Dash Cube Jump"
+    },
+    {
+      "id": 102519438979332,
+      "name": "King’s Aura"
+    },
+    {
+      "id": 77941836432515,
+      "name": "Stranger Things Vecna Twist"
     }
   ]
 }
