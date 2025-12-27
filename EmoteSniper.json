@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 28407,
-  "lastUpdate": "2025-12-27T09:20:38.169Z",
+  "totalItems": 28415,
+  "lastUpdate": "2025-12-27T10:20:27.144Z",
   "data": [
     {
       "id": 3360689775,
@@ -113630,6 +113630,38 @@
     {
       "id": 82530500953350,
       "name": "Nonchalant Aura Yawning Floating Idle"
+    },
+    {
+      "id": 77536672823839,
+      "name": "Aura Farming Relaxing (Floating Emote)"
+    },
+    {
+      "id": 111655017294098,
+      "name": "Godly Headless Aura Fly Effortless idle"
+    },
+    {
+      "id": 71279495202689,
+      "name": "Cute Sitting Idle"
+    },
+    {
+      "id": 134692032255588,
+      "name": "Sitting [Unlimited]"
+    },
+    {
+      "id": 92933701149673,
+      "name": "Hitagi Dance"
+    },
+    {
+      "id": 114874867725204,
+      "name": "TYLA CHANEL - DANCE TREND"
+    },
+    {
+      "id": 123588553576463,
+      "name": "Needy Stretch"
+    },
+    {
+      "id": 102600449145919,
+      "name": "Effortless Aura Floating"
     }
   ]
 }
