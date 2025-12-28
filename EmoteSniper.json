@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 28594,
-  "lastUpdate": "2025-12-28T16:24:56.481Z",
+  "totalItems": 28600,
+  "lastUpdate": "2025-12-28T17:18:09.499Z",
   "data": [
     {
       "id": 3360689775,
@@ -114378,6 +114378,30 @@
     {
       "id": 116649814297657,
       "name": "67 Emote [OG]"
+    },
+    {
+      "id": 125434935996121,
+      "name": "kawaii nonchalant wave idle"
+    },
+    {
+      "id": 134745780381424,
+      "name": "It's sad to sit"
+    },
+    {
+      "id": 127262504058465,
+      "name": "[BEST] Aura Wall Lean Idle"
+    },
+    {
+      "id": 112707607414207,
+      "name": "Gameboy - KATSEYE"
+    },
+    {
+      "id": 136756064621221,
+      "name": "LIAR DANCER!"
+    },
+    {
+      "id": 133506030129722,
+      "name": "[BEST] CEREMONY - Stray Kids"
     }
   ]
 }
