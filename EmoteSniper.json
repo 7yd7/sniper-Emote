@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 28697,
-  "lastUpdate": "2025-12-29T06:34:48.812Z",
+  "totalItems": 28701,
+  "lastUpdate": "2025-12-29T07:26:16.429Z",
   "data": [
     {
       "id": 3360689775,
@@ -114790,6 +114790,22 @@
     {
       "id": 104526851355028,
       "name": "EMOTE (LEAN ON)"
+    },
+    {
+      "id": 74455966209912,
+      "name": "Cute Shy Needy Shake Dance"
+    },
+    {
+      "id": 84004250941288,
+      "name": "Damaged Aura Pose"
+    },
+    {
+      "id": 78058991862910,
+      "name": "Needy Circle Shake"
+    },
+    {
+      "id": 114630503451087,
+      "name": "Helicopter"
     }
   ]
 }
