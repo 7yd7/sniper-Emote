@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 29461,
-  "lastUpdate": "2026-01-04T10:21:00.106Z",
+  "totalItems": 29467,
+  "lastUpdate": "2026-01-04T11:17:22.624Z",
   "data": [
     {
       "id": 3360689775,
@@ -117846,6 +117846,30 @@
     {
       "id": 83814355544731,
       "name": "Criss Cross Apple Sauce (R15)"
+    },
+    {
+      "id": 125801766274553,
+      "name": "Levitating emote"
+    },
+    {
+      "id": 97249858869265,
+      "name": "R6 Aura Float Idle"
+    },
+    {
+      "id": 95041042142564,
+      "name": "Jester dance"
+    },
+    {
+      "id": 88036901608623,
+      "name": "Asi We asi despacito"
+    },
+    {
+      "id": 97890117883081,
+      "name": "shukusei - ui shigure dance"
+    },
+    {
+      "id": 99241593969862,
+      "name": "Jabba Switchway"
     }
   ]
 }
