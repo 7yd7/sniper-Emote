@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 29707,
-  "lastUpdate": "2026-01-06T08:30:48.773Z",
+  "totalItems": 29713,
+  "lastUpdate": "2026-01-06T09:26:50.895Z",
   "data": [
     {
       "id": 3360689775,
@@ -118830,6 +118830,30 @@
     {
       "id": 135935306207274,
       "name": "Blaze"
+    },
+    {
+      "id": 82059514228008,
+      "name": "Aura Emote Levitating"
+    },
+    {
+      "id": 130791749439397,
+      "name": "Silly Float"
+    },
+    {
+      "id": 92553799277288,
+      "name": "Cute Sit"
+    },
+    {
+      "id": 131383190957979,
+      "name": "Cute Sit Idle"
+    },
+    {
+      "id": 124816177560975,
+      "name": "Float"
+    },
+    {
+      "id": 98193487057348,
+      "name": "sit"
     }
   ]
 }
