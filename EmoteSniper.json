@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 29870,
-  "lastUpdate": "2026-01-07T09:28:37.246Z",
+  "totalItems": 29879,
+  "lastUpdate": "2026-01-07T10:24:43.581Z",
   "data": [
     {
       "id": 3360689775,
@@ -119482,6 +119482,42 @@
     {
       "id": 120809776485269,
       "name": "Hear Me Now 2016 Dance"
+    },
+    {
+      "id": 119194715041019,
+      "name": "Cute Spiderman Hang"
+    },
+    {
+      "id": 104928857415134,
+      "name": "Aura Fly Idle"
+    },
+    {
+      "id": 140269241705857,
+      "name": "Masada-sensei [Yume Nikki]"
+    },
+    {
+      "id": 118688737936920,
+      "name": "Godly Float Idle"
+    },
+    {
+      "id": 129409482367071,
+      "name": "Floating Sit Idle"
+    },
+    {
+      "id": 137589172925342,
+      "name": "CRY FOR ME (WA WA WA)"
+    },
+    {
+      "id": 88070533024929,
+      "name": "KATSEYE - Internet Girl (Eat Zucchini) "
+    },
+    {
+      "id": 137081428245177,
+      "name": "Feeling Cute"
+    },
+    {
+      "id": 81975236240819,
+      "name": "Endless Hovering Emote"
     }
   ]
 }
