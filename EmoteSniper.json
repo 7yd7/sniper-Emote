@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 29898,
-  "lastUpdate": "2026-01-07T14:24:02.470Z",
+  "totalItems": 29903,
+  "lastUpdate": "2026-01-07T15:25:43.612Z",
   "data": [
     {
       "id": 3360689775,
@@ -119594,6 +119594,26 @@
     {
       "id": 111728352334862,
       "name": "Cute seat [Emotes]"
+    },
+    {
+      "id": 80902743046694,
+      "name": "Anime levitation"
+    },
+    {
+      "id": 137850812284184,
+      "name": "Lazy floating sitting chilling idle"
+    },
+    {
+      "id": 126478014844945,
+      "name": "God Idle Headless Aura"
+    },
+    {
+      "id": 106088526326408,
+      "name": "[ CODE M3TR0 ] Metroman Arm Swings"
+    },
+    {
+      "id": 138203891521299,
+      "name": "CR7 x Marcelo"
     }
   ]
 }
