@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 29960,
-  "lastUpdate": "2026-01-08T01:43:01.247Z",
+  "totalItems": 29970,
+  "lastUpdate": "2026-01-08T03:39:23.101Z",
   "data": [
     {
       "id": 3360689775,
@@ -119842,6 +119842,46 @@
     {
       "id": 82155785789543,
       "name": "cute one foot standing profile pose"
+    },
+    {
+      "id": 93926827064803,
+      "name": "U&ME Dance Emote "
+    },
+    {
+      "id": 129850521517715,
+      "name": "Sonic the Hedgehog Super Smash Bro Profile Pose"
+    },
+    {
+      "id": 87244596443337,
+      "name": "Headless EMOTE KING AURA"
+    },
+    {
+      "id": 95084709726440,
+      "name": "Whale Bounce"
+    },
+    {
+      "id": 136583647112078,
+      "name": "SHAKE THAT THANG"
+    },
+    {
+      "id": 70694287254355,
+      "name": "Slick Criss-Cross Dance"
+    },
+    {
+      "id": 99296309078892,
+      "name": "Tonight Dance"
+    },
+    {
+      "id": 81902320393083,
+      "name": "Floating Sit Idle"
+    },
+    {
+      "id": 132168499158092,
+      "name": "Floating Hero Pose"
+    },
+    {
+      "id": 104612504371741,
+      "name": "cute sway animation"
     }
   ]
 }
