@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 30078,
-  "lastUpdate": "2026-01-08T22:21:47.541Z",
+  "totalItems": 30083,
+  "lastUpdate": "2026-01-08T23:19:00.381Z",
   "data": [
     {
       "id": 3360689775,
@@ -120314,6 +120314,26 @@
     {
       "id": 124516967935933,
       "name": "What Is Love - Twice Kpop Dance Emote"
+    },
+    {
+      "id": 115283961962087,
+      "name": "Happy Dance"
+    },
+    {
+      "id": 83816130109361,
+      "name": "Spaghetti Dance"
+    },
+    {
+      "id": 108210952021772,
+      "name": "Riding Horse"
+    },
+    {
+      "id": 138764793755071,
+      "name": "[BEST] Chinese Military Dance Pose Emote"
+    },
+    {
+      "id": 75025375282380,
+      "name": "Cute Kawaii Pose"
     }
   ]
 }
