@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 30492,
-  "lastUpdate": "2026-01-11T20:23:13.194Z",
+  "totalItems": 30500,
+  "lastUpdate": "2026-01-11T21:19:12.521Z",
   "data": [
     {
       "id": 3360689775,
@@ -121970,6 +121970,38 @@
     {
       "id": 140375872747814,
       "name": "P.Y.T. Pretty Young Thing"
+    },
+    {
+      "id": 128946784078055,
+      "name": "Shimmy Wiggle"
+    },
+    {
+      "id": 134262520582553,
+      "name": "Shimmer And Shine"
+    },
+    {
+      "id": 128789790528624,
+      "name": "Shift"
+    },
+    {
+      "id": 79953848392268,
+      "name": "Shakin'"
+    },
+    {
+      "id": 130211433474928,
+      "name": "Shake It To The Max"
+    },
+    {
+      "id": 79310771070797,
+      "name": "Shake It Off"
+    },
+    {
+      "id": 135816836946931,
+      "name": "[TRENDING] I Got Like Hella Money "
+    },
+    {
+      "id": 122125773874273,
+      "name": "[BEST] French Confidence Emote"
     }
   ]
 }
