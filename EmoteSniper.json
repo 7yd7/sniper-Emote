@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 30457,
-  "lastUpdate": "2026-01-11T14:19:35.116Z",
+  "totalItems": 30462,
+  "lastUpdate": "2026-01-11T15:20:33.575Z",
   "data": [
     {
       "id": 3360689775,
@@ -121830,6 +121830,26 @@
     {
       "id": 77147532000113,
       "name": "Chinese Dance"
+    },
+    {
+      "id": 71306199618274,
+      "name": "♡ Cute idle"
+    },
+    {
+      "id": 114133856366543,
+      "name": "Rakai Dance Emote"
+    },
+    {
+      "id": 87208303796121,
+      "name": "Slow Windy Balance"
+    },
+    {
+      "id": 121541451157123,
+      "name": "Kickboxer idle"
+    },
+    {
+      "id": 111902633459877,
+      "name": "Chinese dance"
     }
   ]
 }
