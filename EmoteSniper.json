@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 30041,
-  "lastUpdate": "2026-01-13T10:24:40.400Z",
+  "totalItems": 30047,
+  "lastUpdate": "2026-01-13T11:21:07.071Z",
   "data": [
     {
       "id": 3360689775,
@@ -120166,6 +120166,30 @@
     {
       "id": 75268600415311,
       "name": "hop like fluffy bunny emote"
+    },
+    {
+      "id": 98056038677097,
+      "name": "Cesus Phasing (Phase 3) [The Battle Bricks]"
+    },
+    {
+      "id": 74733552065876,
+      "name": "cute hand on hip wave bubbly - profile pose idle"
+    },
+    {
+      "id": 87536402154273,
+      "name": "cute needy dance"
+    },
+    {
+      "id": 98180004102300,
+      "name": "⭐Swings"
+    },
+    {
+      "id": 99696450011060,
+      "name": "Chinese Military Dance Pose Emote"
+    },
+    {
+      "id": 129328452085428,
+      "name": "Peaceful Bounce!"
     }
   ]
 }
