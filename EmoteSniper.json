@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 30458,
-  "lastUpdate": "2026-01-16T17:24:39.005Z",
+  "totalItems": 30461,
+  "lastUpdate": "2026-01-16T18:33:07.878Z",
   "data": [
     {
       "id": 3360689775,
@@ -121834,6 +121834,18 @@
     {
       "id": 112450444000616,
       "name": "FORSAKEN C00lkidd Intro cutscene"
+    },
+    {
+      "id": 70449117981194,
+      "name": "basketball head dribble emote"
+    },
+    {
+      "id": 134291932668454,
+      "name": "Like Jennie JENNIE KPOP Dance"
+    },
+    {
+      "id": 116212300703867,
+      "name": "soo bitter"
     }
   ]
 }
