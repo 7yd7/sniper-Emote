@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 30544,
-  "lastUpdate": "2026-01-17T09:20:42.061Z",
+  "totalItems": 30548,
+  "lastUpdate": "2026-01-17T10:21:02.767Z",
   "data": [
     {
       "id": 3360689775,
@@ -122178,6 +122178,22 @@
     {
       "id": 81780579440529,
       "name": "Kicking Flavors Emote"
+    },
+    {
+      "id": 120832896749465,
+      "name": "Stretching vibes"
+    },
+    {
+      "id": 96458564805967,
+      "name": "Throw That Circle Needy Dance"
+    },
+    {
+      "id": 127611736899951,
+      "name": "Needy Hip Circle Bounce"
+    },
+    {
+      "id": 84439178682643,
+      "name": "JumpAnim LAG"
     }
   ]
 }
