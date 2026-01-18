@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 30699,
-  "lastUpdate": "2026-01-18T11:17:24.466Z",
+  "totalItems": 30709,
+  "lastUpdate": "2026-01-18T12:39:19.211Z",
   "data": [
     {
       "id": 3360689775,
@@ -122798,6 +122798,46 @@
     {
       "id": 127966110718365,
       "name": "Naoya Zenin Hair Flip Emote"
+    },
+    {
+      "id": 82028989852059,
+      "name": "Bounce [OG]"
+    },
+    {
+      "id": 112572607608396,
+      "name": "That Style"
+    },
+    {
+      "id": 74538052355818,
+      "name": "That's So True"
+    },
+    {
+      "id": 127859275879821,
+      "name": "The Chase"
+    },
+    {
+      "id": 136891840921923,
+      "name": "The Largest"
+    },
+    {
+      "id": 98425835749768,
+      "name": "The Lazy Song"
+    },
+    {
+      "id": 127950850450710,
+      "name": "The Quick Style"
+    },
+    {
+      "id": 139664611374031,
+      "name": "Blue Face Baby Dance"
+    },
+    {
+      "id": 97897938413166,
+      "name": "The Squabble"
+    },
+    {
+      "id": 106656554144065,
+      "name": "cute n shy pose"
     }
   ]
 }
