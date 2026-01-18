@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 30697,
-  "lastUpdate": "2026-01-18T10:21:29.109Z",
+  "totalItems": 30699,
+  "lastUpdate": "2026-01-18T11:17:24.466Z",
   "data": [
     {
       "id": 3360689775,
@@ -122790,6 +122790,14 @@
     {
       "id": 94411163033533,
       "name": "Super Hero Float [AURA]"
+    },
+    {
+      "id": 111311491113774,
+      "name": "Cuffed Tight Arrested Criminal "
+    },
+    {
+      "id": 127966110718365,
+      "name": "Naoya Zenin Hair Flip Emote"
     }
   ]
 }
