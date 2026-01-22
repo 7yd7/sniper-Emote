@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 31205,
-  "lastUpdate": "2026-01-22T19:25:17.110Z",
+  "totalItems": 31211,
+  "lastUpdate": "2026-01-22T20:27:57.857Z",
   "data": [
     {
       "id": 3360689775,
@@ -124822,6 +124822,30 @@
     {
       "id": 131182751101758,
       "name": "Ishowspeed dance"
+    },
+    {
+      "id": 127496601790579,
+      "name": "⏳[LIMITED] Electro Swing"
+    },
+    {
+      "id": 114752292861221,
+      "name": "Jabba Switchway"
+    },
+    {
+      "id": 80481299805707,
+      "name": "Cleared dance"
+    },
+    {
+      "id": 71538203903279,
+      "name": "Sitting"
+    },
+    {
+      "id": 129637635639570,
+      "name": "One Hand Jam"
+    },
+    {
+      "id": 96387757875276,
+      "name": "Cute Kawaii Timid Idle Pose"
     }
   ]
 }
