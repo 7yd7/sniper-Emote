@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 31102,
-  "lastUpdate": "2026-01-22T07:28:00.954Z",
+  "totalItems": 31110,
+  "lastUpdate": "2026-01-22T08:32:37.050Z",
   "data": [
     {
       "id": 3360689775,
@@ -124410,6 +124410,38 @@
     {
       "id": 119330891805599,
       "name": "Nya San"
+    },
+    {
+      "id": 94235018527275,
+      "name": "Resurrection [AURA]"
+    },
+    {
+      "id": 120937805529903,
+      "name": "Walk inna circle (Baddie)"
+    },
+    {
+      "id": 126714822224651,
+      "name": "360 Headless Relax Aura float"
+    },
+    {
+      "id": 139083001013301,
+      "name": "Legendary Aura floating Emote"
+    },
+    {
+      "id": 131016199627901,
+      "name": "No Hands"
+    },
+    {
+      "id": 128671647750141,
+      "name": "Hitting yourself in the chest (David McCall)"
+    },
+    {
+      "id": 104257456939631,
+      "name": "Dolly Emote"
+    },
+    {
+      "id": 98819227060258,
+      "name": "Needy Hip"
     }
   ]
 }
