@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 31356,
-  "lastUpdate": "2026-01-23T22:19:05.047Z",
+  "totalItems": 31361,
+  "lastUpdate": "2026-01-23T23:21:52.019Z",
   "data": [
     {
       "id": 3360689775,
@@ -125426,6 +125426,26 @@
     {
       "id": 91359956007128,
       "name": "Life Is a Party Dance"
+    },
+    {
+      "id": 99981612108493,
+      "name": "Anime Aura Float"
+    },
+    {
+      "id": 89226066017009,
+      "name": "Springtrap Walk"
+    },
+    {
+      "id": 119828657408493,
+      "name": "Barbie Diva Pose"
+    },
+    {
+      "id": 71994484281587,
+      "name": "[NEW] Funny thinking emote"
+    },
+    {
+      "id": 76674634581549,
+      "name": "cute kitty pose"
     }
   ]
 }
