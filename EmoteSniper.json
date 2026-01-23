@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 31354,
-  "lastUpdate": "2026-01-23T21:21:39.537Z",
+  "totalItems": 31356,
+  "lastUpdate": "2026-01-23T22:19:05.047Z",
   "data": [
     {
       "id": 3360689775,
@@ -125418,6 +125418,14 @@
     {
       "id": 96587621559733,
       "name": "♡: hands on knees idle"
+    },
+    {
+      "id": 107227025869765,
+      "name": "♡ Cute Idle Sit Emote"
+    },
+    {
+      "id": 91359956007128,
+      "name": "Life Is a Party Dance"
     }
   ]
 }
