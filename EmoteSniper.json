@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 31495,
-  "lastUpdate": "2026-01-24T18:30:10.764Z",
+  "totalItems": 31499,
+  "lastUpdate": "2026-01-24T19:17:27.172Z",
   "data": [
     {
       "id": 3360689775,
@@ -125982,6 +125982,22 @@
     {
       "id": 128514052780680,
       "name": "curious cute pose"
+    },
+    {
+      "id": 85788845413715,
+      "name": "Do a Little Dance Emote"
+    },
+    {
+      "id": 130431106974681,
+      "name": "67 Emote Idle"
+    },
+    {
+      "id": 111939398832851,
+      "name": "Endless Aura Farming Floating Idlea"
+    },
+    {
+      "id": 125807488126240,
+      "name": "Godly Aura Endless Fly Pose Idle"
     }
   ]
 }
