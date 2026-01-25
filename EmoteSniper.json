@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 31593,
-  "lastUpdate": "2026-01-25T08:28:04.490Z",
+  "totalItems": 31597,
+  "lastUpdate": "2026-01-25T09:22:01.437Z",
   "data": [
     {
       "id": 3360689775,
@@ -126374,6 +126374,22 @@
     {
       "id": 140074140600353,
       "name": "Play Dead ☠️"
+    },
+    {
+      "id": 129766474905009,
+      "name": "Tail Wag "
+    },
+    {
+      "id": 139503413564419,
+      "name": "Nonchalant Aura Farming"
+    },
+    {
+      "id": 123078715104073,
+      "name": "Magical Moe Sit"
+    },
+    {
+      "id": 104102162410276,
+      "name": "[PROJECT SEKAI] Dreaming Chuchu"
     }
   ]
 }
