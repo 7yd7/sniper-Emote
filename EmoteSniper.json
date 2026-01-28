@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 31903,
-  "lastUpdate": "2026-01-28T01:46:07.960Z",
+  "totalItems": 31923,
+  "lastUpdate": "2026-01-28T03:45:43.630Z",
   "data": [
     {
       "id": 3360689775,
@@ -127614,6 +127614,86 @@
     {
       "id": 120325742812514,
       "name": "Confess Emote"
+    },
+    {
+      "id": 101254368314405,
+      "name": "Effortless Aura Pose"
+    },
+    {
+      "id": 97059921628710,
+      "name": "Cute Scene Idle Profile"
+    },
+    {
+      "id": 92995696237546,
+      "name": "Zen Hover"
+    },
+    {
+      "id": 96124271072516,
+      "name": "cutesy shy girl idle pose"
+    },
+    {
+      "id": 122119623803276,
+      "name": "Spicy Sassy Bouncy Dance "
+    },
+    {
+      "id": 73367673088763,
+      "name": "Bouncy Diva Jiggly Dance"
+    },
+    {
+      "id": 123881827126865,
+      "name": "Party Rocker"
+    },
+    {
+      "id": 130370224090628,
+      "name": "⚡ Raiden Punching Armstrong Loop"
+    },
+    {
+      "id": 130568953382104,
+      "name": "♡ cute kawaii floating "
+    },
+    {
+      "id": 137705345921183,
+      "name": "Cute shy pose"
+    },
+    {
+      "id": 132621697860996,
+      "name": "La anguila hip (MEME)"
+    },
+    {
+      "id": 134113797909796,
+      "name": "Naoya's Hair Flick [Jujutsu Kaisen]"
+    },
+    {
+      "id": 73687209744478,
+      "name": "Blue Top Rock"
+    },
+    {
+      "id": 79778968468514,
+      "name": "cute head hold pose"
+    },
+    {
+      "id": 127837049730074,
+      "name": "My Life is a Party!"
+    },
+    {
+      "id": 126721634418192,
+      "name": "Sem cabeça headless"
+    },
+    {
+      "id": 77668770610069,
+      "name": "Karatê Dance"
+    },
+    {
+      "id": 103019906532810,
+      "name": "Dodge the bullet"
+    },
+    {
+      "id": 109817600750565,
+      "name": "Lovely Day Stretch"
+    },
+    {
+      "id": 88879398552571,
+      "name": "The perfect aura fly pose idle"
     }
   ]
 }
