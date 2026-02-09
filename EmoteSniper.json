@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 33009,
-  "lastUpdate": "2026-02-09T13:08:07.774Z",
+  "totalItems": 33019,
+  "lastUpdate": "2026-02-09T14:52:19.568Z",
   "data": [
     {
       "id": 3360689775,
@@ -132038,6 +132038,46 @@
     {
       "id": 119092393474600,
       "name": "Mai Stance (SF6)"
+    },
+    {
+      "id": 76711112145396,
+      "name": "Raiden Punch Loop"
+    },
+    {
+      "id": 115590173273126,
+      "name": "Hakari Move X"
+    },
+    {
+      "id": 99983871469234,
+      "name": "Prime Time Move"
+    },
+    {
+      "id": 83075835043201,
+      "name": "A Bit More Like Myself Idle"
+    },
+    {
+      "id": 83000659297068,
+      "name": "Katseye Internet Girl - (Eat Zucchini)"
+    },
+    {
+      "id": 134831861277026,
+      "name": "Shorekeeper Float Idle | Wuthering WuWa"
+    },
+    {
+      "id": 137888492479460,
+      "name": "TWICE - What Is Love Dance"
+    },
+    {
+      "id": 94107377522677,
+      "name": "TWICE - What Is Love"
+    },
+    {
+      "id": 122667442136037,
+      "name": "♡ shy tilt pose"
+    },
+    {
+      "id": 108463981539766,
+      "name": "Caramelldansen"
     }
   ]
 }
