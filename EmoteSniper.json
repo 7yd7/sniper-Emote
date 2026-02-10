@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 33138,
-  "lastUpdate": "2026-02-10T10:01:13.544Z",
+  "totalItems": 33143,
+  "lastUpdate": "2026-02-10T11:05:34.405Z",
   "data": [
     {
       "id": 3360689775,
@@ -132554,6 +132554,26 @@
     {
       "id": 140319683224647,
       "name": "Needy Sway"
+    },
+    {
+      "id": 114337986293965,
+      "name": "cutesy bubbly jump emote "
+    },
+    {
+      "id": 119302569901619,
+      "name": "Tail Wag Cute Idle"
+    },
+    {
+      "id": 124286840605603,
+      "name": "ULTRAMAN POSE"
+    },
+    {
+      "id": 137188896261753,
+      "name": "Stocking Miku Pose Idle [Bundle]"
+    },
+    {
+      "id": 74345989110500,
+      "name": "Fingers Touching"
     }
   ]
 }
