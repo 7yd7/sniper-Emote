@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 34049,
-  "lastUpdate": "2026-02-17T02:03:36.187Z",
+  "totalItems": 34052,
+  "lastUpdate": "2026-02-17T04:52:01.343Z",
   "data": [
     {
       "id": 3360689775,
@@ -136198,6 +136198,18 @@
     {
       "id": 105976077714697,
       "name": "Aura Levitation Pose"
+    },
+    {
+      "id": 126757061236585,
+      "name": "Shake A lot"
+    },
+    {
+      "id": 129879857204823,
+      "name": "Cute Heart Emote"
+    },
+    {
+      "id": 102370067371893,
+      "name": "Kawaii Profile Pose"
     }
   ]
 }
