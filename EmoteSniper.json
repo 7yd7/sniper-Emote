@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 34291,
-  "lastUpdate": "2026-02-18T18:54:50.740Z",
+  "totalItems": 34297,
+  "lastUpdate": "2026-02-18T19:48:42.824Z",
   "data": [
     {
       "id": 3360689775,
@@ -137166,6 +137166,30 @@
     {
       "id": 129766782506938,
       "name": "[GLITCH] Aura Floating"
+    },
+    {
+      "id": 101005782101775,
+      "name": "Solta o beat DJ #dance"
+    },
+    {
+      "id": 94923430373394,
+      "name": "SPIN THAT THANG"
+    },
+    {
+      "id": 120927939671085,
+      "name": "No Hands Emote"
+    },
+    {
+      "id": 112060472071439,
+      "name": "♡ : nervous idle pose"
+    },
+    {
+      "id": 104725995185565,
+      "name": "♡ : cute one leg stand idle pose"
+    },
+    {
+      "id": 127709613392265,
+      "name": "Bouncy Shake Dance"
     }
   ]
 }
