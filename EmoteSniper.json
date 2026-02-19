@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 34435,
-  "lastUpdate": "2026-02-19T16:53:05.353Z",
+  "totalItems": 34441,
+  "lastUpdate": "2026-02-19T17:51:04.459Z",
   "data": [
     {
       "id": 3360689775,
@@ -137742,6 +137742,30 @@
     {
       "id": 104791700941330,
       "name": "Relax Fairy sit floating anime girl emote"
+    },
+    {
+      "id": 139010389792767,
+      "name": "Aura Float"
+    },
+    {
+      "id": 89497450327658,
+      "name": "DARE - Gorillaz ( ⭐ )"
+    },
+    {
+      "id": 101440341525435,
+      "name": "Grizzly [Deepwoken]"
+    },
+    {
+      "id": 94608694781316,
+      "name": "Fairy floating sit anime girl pose"
+    },
+    {
+      "id": 78751027776403,
+      "name": "Fairy Floating ♡"
+    },
+    {
+      "id": 71247632561389,
+      "name": "The Final Boss Walk"
     }
   ]
 }
