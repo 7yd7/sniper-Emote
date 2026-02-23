@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 31812,
-  "lastUpdate": "2026-02-23T14:46:08.225Z",
+  "totalItems": 31819,
+  "lastUpdate": "2026-02-23T15:45:29.529Z",
   "data": [
     {
       "id": 3360689775,
@@ -127250,6 +127250,34 @@
     {
       "id": 139515128069470,
       "name": "Free feets"
+    },
+    {
+      "id": 131157532927432,
+      "name": "Floating Chill Pose Emote"
+    },
+    {
+      "id": 115683366764779,
+      "name": "Cute Kawaii Sit Emote 🍓"
+    },
+    {
+      "id": 88060189472373,
+      "name": "Relaxed Vibe Sit"
+    },
+    {
+      "id": 78253405539185,
+      "name": "No hands (Shake)"
+    },
+    {
+      "id": 95801181414110,
+      "name": "MJ - P.Y.T. Pretty Young Thing Dance"
+    },
+    {
+      "id": 117058672425674,
+      "name": "Blue Top Rock [BEST]"
+    },
+    {
+      "id": 109447550413572,
+      "name": "Hip Sway"
     }
   ]
 }
