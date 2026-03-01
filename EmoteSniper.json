@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 32477,
-  "lastUpdate": "2026-03-01T08:31:49.257Z",
+  "totalItems": 32483,
+  "lastUpdate": "2026-03-01T09:29:57.274Z",
   "data": [
     {
       "id": 3360689775,
@@ -129910,6 +129910,30 @@
     {
       "id": 96685211544948,
       "name": "Head Arm Ball Cool emote"
+    },
+    {
+      "id": 87697947808872,
+      "name": "Cute Selfie Pose <3"
+    },
+    {
+      "id": 85648209118935,
+      "name": "Just standing still makes him look incredibly cool"
+    },
+    {
+      "id": 104132940188333,
+      "name": "Shuffle Style"
+    },
+    {
+      "id": 121644855433565,
+      "name": "One Hand Push Ups 💪 "
+    },
+    {
+      "id": 70551157165345,
+      "name": "Drip God Dribble 🏀 "
+    },
+    {
+      "id": 104327153552406,
+      "name": "Custom PFP, Profile Idle Emote"
     }
   ]
 }
