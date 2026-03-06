@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 33234,
-  "lastUpdate": "2026-03-06T17:35:31.706Z",
+  "totalItems": 33243,
+  "lastUpdate": "2026-03-06T18:44:27.258Z",
   "data": [
     {
       "id": 3360689775,
@@ -132938,6 +132938,42 @@
     {
       "id": 83863834541454,
       "name": "Diving Board"
+    },
+    {
+      "id": 94054477940900,
+      "name": "Chill Godly Aura Floating Emote"
+    },
+    {
+      "id": 133450063003356,
+      "name": "Ochame Kinou"
+    },
+    {
+      "id": 89210517446344,
+      "name": "Low Cortisol Emote"
+    },
+    {
+      "id": 90919224391726,
+      "name": "🍰SpeedBoost Aura"
+    },
+    {
+      "id": 73428238339075,
+      "name": "Shuffle Hands Emote"
+    },
+    {
+      "id": 75094543103625,
+      "name": "cry for me boo boo"
+    },
+    {
+      "id": 112573863100823,
+      "name": "Gulungan Dunia"
+    },
+    {
+      "id": 122838925834750,
+      "name": "Jamal's Passinho (TikTok dance)"
+    },
+    {
+      "id": 84583752142393,
+      "name": "♡ cute bossy sassy girl idle pose"
     }
   ]
 }
