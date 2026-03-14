@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 33608,
-  "lastUpdate": "2026-03-14T06:45:20.081Z",
+  "totalItems": 33615,
+  "lastUpdate": "2026-03-14T07:35:14.544Z",
   "data": [
     {
       "id": 3360689775,
@@ -134434,6 +134434,34 @@
     {
       "id": 109612277529309,
       "name": "Dança Sem Mãos"
+    },
+    {
+      "id": 138626049083729,
+      "name": "Reese Roll Groove"
+    },
+    {
+      "id": 83779912710784,
+      "name": "Godly Aura Floating Emote - #2"
+    },
+    {
+      "id": 112475061735642,
+      "name": "Cute Bouncy Hip Shake Dance"
+    },
+    {
+      "id": 135981364471720,
+      "name": "Cute Bouncy Needy Shake Dance"
+    },
+    {
+      "id": 104203403782589,
+      "name": "Cute Feet Kicking "
+    },
+    {
+      "id": 74583421267117,
+      "name": "Cute Sit "
+    },
+    {
+      "id": 89859669064732,
+      "name": "Cute In Love Pose [Idle]"
     }
   ]
 }
