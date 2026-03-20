@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 34434,
-  "lastUpdate": "2026-03-20T11:32:09.586Z",
+  "totalItems": 34440,
+  "lastUpdate": "2026-03-20T12:59:24.640Z",
   "data": [
     {
       "id": 3360689775,
@@ -137738,6 +137738,30 @@
     {
       "id": 73936150453352,
       "name": "Cute girly kissy emote"
+    },
+    {
+      "id": 75666025892003,
+      "name": "Fake Lag/Disconnect (TROLL)"
+    },
+    {
+      "id": 81609061128241,
+      "name": "Low Cortisol"
+    },
+    {
+      "id": 115312677213574,
+      "name": "Yuzuha Teasing Umbrella Idle | Zenless Zone ZZZ"
+    },
+    {
+      "id": 91638655250015,
+      "name": "Relaxed Sakuna Pose"
+    },
+    {
+      "id": 75017795366595,
+      "name": "Head And Leg Less"
+    },
+    {
+      "id": 100520536432570,
+      "name": "Fake Lag / Fake Disconnect "
     }
   ]
 }
