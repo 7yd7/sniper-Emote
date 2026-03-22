@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 34701,
-  "lastUpdate": "2026-03-22T20:28:48.878Z",
+  "totalItems": 34703,
+  "lastUpdate": "2026-03-22T21:26:44.186Z",
   "data": [
     {
       "id": 3360689775,
@@ -138806,6 +138806,14 @@
     {
       "id": 126378689739001,
       "name": "Default Emote"
+    },
+    {
+      "id": 114481111663363,
+      "name": "There She Goes"
+    },
+    {
+      "id": 97524328817804,
+      "name": "🦊 Furry Bath"
     }
   ]
 }
