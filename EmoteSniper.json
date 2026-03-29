@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 35554,
-  "lastUpdate": "2026-03-29T17:30:22.466Z",
+  "totalItems": 35566,
+  "lastUpdate": "2026-03-29T18:42:39.137Z",
   "data": [
     {
       "id": 3360689775,
@@ -142218,6 +142218,54 @@
     {
       "id": 92368121552189,
       "name": "Floating Head Sit"
+    },
+    {
+      "id": 100940694852178,
+      "name": "stretch that way"
+    },
+    {
+      "id": 111185136375468,
+      "name": "Scuba Dance"
+    },
+    {
+      "id": 140647570519764,
+      "name": "Avatar Airplane"
+    },
+    {
+      "id": 137483510302857,
+      "name": "Relaxed Idle Pose"
+    },
+    {
+      "id": 112906351927583,
+      "name": "Jersey Joe Pop Dat dance"
+    },
+    {
+      "id": 125214686528089,
+      "name": "Hip Groove"
+    },
+    {
+      "id": 82403043835517,
+      "name": "Cute Bouncy Groove"
+    },
+    {
+      "id": 110614921871084,
+      "name": "Snoop's Walk Emote"
+    },
+    {
+      "id": 136969202917136,
+      "name": "Griddy"
+    },
+    {
+      "id": 130373195204051,
+      "name": "🕷️Jumping Spider Emote"
+    },
+    {
+      "id": 86909155823918,
+      "name": "I see kaream [Ice Cream]"
+    },
+    {
+      "id": 93294025174703,
+      "name": "Needy Hip Circle Shake/Stretch"
     }
   ]
 }
