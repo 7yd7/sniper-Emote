@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 35751,
-  "lastUpdate": "2026-03-30T22:35:58.918Z",
+  "totalItems": 35758,
+  "lastUpdate": "2026-03-30T23:35:23.033Z",
   "data": [
     {
       "id": 3360689775,
@@ -143006,6 +143006,34 @@
     {
       "id": 109524150707801,
       "name": "Fake Dead"
+    },
+    {
+      "id": 133386864847745,
+      "name": "aura floating"
+    },
+    {
+      "id": 85717283943447,
+      "name": "Sad Look [Face expression]"
+    },
+    {
+      "id": 130502487465070,
+      "name": "Triple T Dance"
+    },
+    {
+      "id": 76401820925164,
+      "name": "Madara chill sit"
+    },
+    {
+      "id": 114709100995160,
+      "name": "♡ Cute fit check pose"
+    },
+    {
+      "id": 96270105515669,
+      "name": "Super Levitate"
+    },
+    {
+      "id": 78365126573507,
+      "name": "nonchalant floating idle animation"
     }
   ]
 }
