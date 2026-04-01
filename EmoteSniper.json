@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 35956,
-  "lastUpdate": "2026-04-01T09:04:33.311Z",
+  "totalItems": 35968,
+  "lastUpdate": "2026-04-01T10:56:12.766Z",
   "data": [
     {
       "id": 3360689775,
@@ -143826,6 +143826,54 @@
     {
       "id": 74473258746555,
       "name": "Phibz Swing Emote [NEW!]"
+    },
+    {
+      "id": 106882013937902,
+      "name": "Zesty Sturdy"
+    },
+    {
+      "id": 140719487473763,
+      "name": "Upside Down Floating Aura"
+    },
+    {
+      "id": 123394242248502,
+      "name": "Take The L"
+    },
+    {
+      "id": 126218117513707,
+      "name": "Stateside Intro!"
+    },
+    {
+      "id": 77449042584551,
+      "name": "Rakai Emote"
+    },
+    {
+      "id": 99159724172782,
+      "name": "The Look"
+    },
+    {
+      "id": 117237021085497,
+      "name": "Might Guy 8 Gates"
+    },
+    {
+      "id": 115277928202118,
+      "name": "Agnes Tachyon Low Cortisol Dance"
+    },
+    {
+      "id": 116846184287474,
+      "name": "Agnes Tachyon Low Cortisol Dance"
+    },
+    {
+      "id": 110831901154234,
+      "name": "✅67 hand emote (best)✅"
+    },
+    {
+      "id": 119386568711840,
+      "name": "Michael Myers Bounce"
+    },
+    {
+      "id": 74618427301702,
+      "name": "Baddie siting idle pose "
     }
   ]
 }
