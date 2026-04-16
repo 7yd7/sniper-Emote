@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 37386,
-  "lastUpdate": "2026-04-16T13:29:56.259Z",
+  "totalItems": 37402,
+  "lastUpdate": "2026-04-16T15:26:12.320Z",
   "data": [
     {
       "id": 3360689775,
@@ -149546,6 +149546,70 @@
     {
       "id": 136021375119320,
       "name": "Fight Me Taunt"
+    },
+    {
+      "id": 71103253349145,
+      "name": "Brazil Dance"
+    },
+    {
+      "id": 112910347435348,
+      "name": "Flying Floating Aura Emote"
+    },
+    {
+      "id": 80044657810108,
+      "name": "Headless Aura Emote"
+    },
+    {
+      "id": 132317608165046,
+      "name": "Chill Flying Emote"
+    },
+    {
+      "id": 139129904940539,
+      "name": "Yuji Jump Emote"
+    },
+    {
+      "id": 75079986136182,
+      "name": "MOM CALL THE TAXI"
+    },
+    {
+      "id": 126528517345649,
+      "name": "Morphing"
+    },
+    {
+      "id": 79292766931774,
+      "name": "Scuba Trend"
+    },
+    {
+      "id": 96087250226335,
+      "name": "🔥Big Guy - Ice Spice/Spongebob Emote"
+    },
+    {
+      "id": 102102272255753,
+      "name": "[CUTE] Floating Idle (Kawaii Lovesick Sway)"
+    },
+    {
+      "id": 93630612973036,
+      "name": "sharp's Partition"
+    },
+    {
+      "id": 132035590094106,
+      "name": "Hype dance [Best]"
+    },
+    {
+      "id": 127477608372245,
+      "name": "Arrested E Girl"
+    },
+    {
+      "id": 74706574055837,
+      "name": "I Was Looking For a Job [MEME BEST]"
+    },
+    {
+      "id": 130165158979259,
+      "name": "🔥 tiago you can dance (FULL) 🔥"
+    },
+    {
+      "id": 105915838319353,
+      "name": "BACKFLIP OF A WALL"
     }
   ]
 }
