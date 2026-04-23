@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 38280,
-  "lastUpdate": "2026-04-23T09:28:26.187Z",
+  "totalItems": 38286,
+  "lastUpdate": "2026-04-23T11:08:26.188Z",
   "data": [
     {
       "id": 3360689775,
@@ -153122,6 +153122,30 @@
     {
       "id": 102499009586412,
       "name": "GOOBA"
+    },
+    {
+      "id": 94424405048771,
+      "name": "Phainon Archangel Float | Honkai HSR"
+    },
+    {
+      "id": 98074497797170,
+      "name": "cutesy kawaii wiggling dance emote"
+    },
+    {
+      "id": 89710567862893,
+      "name": "Passinho de Goiás eletrofunk "
+    },
+    {
+      "id": 121272514700848,
+      "name": "Yuji jump"
+    },
+    {
+      "id": 103309103138545,
+      "name": "Kazakh Eagle Dance"
+    },
+    {
+      "id": 89898230522975,
+      "name": "🥋 Flow Master Emote 🍃 Kung Fu Style"
     }
   ]
 }
