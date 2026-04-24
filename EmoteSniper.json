@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 38416,
-  "lastUpdate": "2026-04-24T19:52:54.523Z",
+  "totalItems": 38418,
+  "lastUpdate": "2026-04-24T20:48:21.183Z",
   "data": [
     {
       "id": 3360689775,
@@ -153666,6 +153666,14 @@
     {
       "id": 117678131359158,
       "name": "🍵 PINKY UP (2) - KATSEYE"
+    },
+    {
+      "id": 124423975335481,
+      "name": "Floating Aura emote"
+    },
+    {
+      "id": 112306107601264,
+      "name": "Tung Tung Sahur Flow"
     }
   ]
 }
