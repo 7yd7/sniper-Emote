@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 38477,
-  "lastUpdate": "2026-04-25T23:38:25.819Z",
+  "totalItems": 38485,
+  "lastUpdate": "2026-04-26T02:40:27.811Z",
   "data": [
     {
       "id": 3360689775,
@@ -153910,6 +153910,38 @@
     {
       "id": 94188569084823,
       "name": "Animation"
+    },
+    {
+      "id": 90454342343526,
+      "name": "Rakai Emote [NEW]"
+    },
+    {
+      "id": 95993241660435,
+      "name": "Flying Aura Pose"
+    },
+    {
+      "id": 112136012078020,
+      "name": "KATSEYE PINKY UP EMOTE (SHAKING)"
+    },
+    {
+      "id": 128848930087274,
+      "name": "HEADBANG !"
+    },
+    {
+      "id": 93226543441701,
+      "name": "Adorabele fall Idle Emote"
+    },
+    {
+      "id": 108748030864009,
+      "name": "♡ cutesy heart hand pose "
+    },
+    {
+      "id": 91661912677718,
+      "name": "Blue Shirt Sturdy [OG] 👑"
+    },
+    {
+      "id": 124278491393369,
+      "name": "Show and Tell - Melanie Martinez"
     }
   ]
 }
