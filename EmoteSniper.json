@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 38505,
-  "lastUpdate": "2026-04-26T10:02:45.020Z",
+  "totalItems": 38507,
+  "lastUpdate": "2026-04-26T11:39:40.877Z",
   "data": [
     {
       "id": 3360689775,
@@ -154022,6 +154022,14 @@
     {
       "id": 118787056634343,
       "name": "(BEST) Thragg's Aura Idle Pose (Invincible)"
+    },
+    {
+      "id": 122750506536406,
+      "name": "Peach Bomb"
+    },
+    {
+      "id": 78065078921889,
+      "name": "launcher crew"
     }
   ]
 }
