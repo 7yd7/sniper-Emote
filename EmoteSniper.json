@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 38512,
-  "lastUpdate": "2026-04-26T17:38:51.516Z",
+  "totalItems": 38517,
+  "lastUpdate": "2026-04-26T18:54:39.263Z",
   "data": [
     {
       "id": 3360689775,
@@ -154050,6 +154050,26 @@
     {
       "id": 128669447776375,
       "name": "MM2 Fake Death"
+    },
+    {
+      "id": 77078664810750,
+      "name": "Jamal Brazil Groove"
+    },
+    {
+      "id": 104343294651141,
+      "name": "Yuji Jumping Emote"
+    },
+    {
+      "id": 79502683232736,
+      "name": "Endless Aura Floating Emote"
+    },
+    {
+      "id": 114510006996949,
+      "name": "Godly Aura fly idle pose"
+    },
+    {
+      "id": 78975342178896,
+      "name": "Blue Shirt Sturdy Emote"
     }
   ]
 }
