@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 38612,
-  "lastUpdate": "2026-04-27T17:22:25.096Z",
+  "totalItems": 38614,
+  "lastUpdate": "2026-04-27T19:21:05.996Z",
   "data": [
     {
       "id": 3360689775,
@@ -154450,6 +154450,14 @@
     {
       "id": 133221315300735,
       "name": "Raiden Fighting Armstrong Emote"
+    },
+    {
+      "id": 118062459167502,
+      "name": "Soft Shy"
+    },
+    {
+      "id": 105880178949328,
+      "name": "Cute Girly Dance"
     }
   ]
 }
