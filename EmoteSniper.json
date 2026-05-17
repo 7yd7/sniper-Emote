@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 41001,
-  "lastUpdate": "2026-05-17T21:55:19.075Z",
+  "totalItems": 41003,
+  "lastUpdate": "2026-05-17T22:54:20.396Z",
   "data": [
     {
       "id": 3360689775,
@@ -164006,6 +164006,14 @@
     {
       "id": 124348149961518,
       "name": "Avgn Dance Trend ⏳"
+    },
+    {
+      "id": 124608339410852,
+      "name": "Goofy Flapping Emote"
+    },
+    {
+      "id": 114561444185051,
+      "name": "Backfold"
     }
   ]
 }
