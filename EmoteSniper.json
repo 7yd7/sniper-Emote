@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 40995,
-  "lastUpdate": "2026-05-17T19:08:26.524Z",
+  "totalItems": 41001,
+  "lastUpdate": "2026-05-17T20:51:21.531Z",
   "data": [
     {
       "id": 3360689775,
@@ -163982,6 +163982,30 @@
     {
       "id": 90183428366017,
       "name": "Goofy Fly Flap"
+    },
+    {
+      "id": 109746101763234,
+      "name": "Dog Jump "
+    },
+    {
+      "id": 97370466287537,
+      "name": "Cute Holding Matching Emote [Left] ♡︎"
+    },
+    {
+      "id": 88766089810838,
+      "name": "Cute Side Looking Matching Emote [Right] ♡︎"
+    },
+    {
+      "id": 131481289833552,
+      "name": "yuta domain expansion"
+    },
+    {
+      "id": 126471623317394,
+      "name": "(Relaxed) Pressure-Free Seasoning"
+    },
+    {
+      "id": 124348149961518,
+      "name": "Avgn Dance Trend ⏳"
     }
   ]
 }
