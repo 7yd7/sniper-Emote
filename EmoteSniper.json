@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 41537,
-  "lastUpdate": "2026-05-22T16:25:51.024Z",
+  "totalItems": 41552,
+  "lastUpdate": "2026-05-22T18:54:34.339Z",
   "data": [
     {
       "id": 3360689775,
@@ -166150,6 +166150,66 @@
     {
       "id": 115398556802599,
       "name": "AVGN Dance"
+    },
+    {
+      "id": 112576097719407,
+      "name": "E85 "
+    },
+    {
+      "id": 126669954597472,
+      "name": "/e sit"
+    },
+    {
+      "id": 78206424145585,
+      "name": "Sit"
+    },
+    {
+      "id": 73788643306528,
+      "name": "Nonchalant Sit"
+    },
+    {
+      "id": 128928434146577,
+      "name": "⏳[LIMITED] Chill Floating Pose"
+    },
+    {
+      "id": 77751886351645,
+      "name": "꒰ ˚﹒Cutesy leg up wave pose ˚﹒ ꒱ "
+    },
+    {
+      "id": 130429474698206,
+      "name": "Yuji jump style"
+    },
+    {
+      "id": 117292101165704,
+      "name": "Hoshira Shuffle Dance"
+    },
+    {
+      "id": 82461250244582,
+      "name": "ready to fight"
+    },
+    {
+      "id": 83616934940871,
+      "name": "Relaxed Sit"
+    },
+    {
+      "id": 79897279950289,
+      "name": "Batman Pose"
+    },
+    {
+      "id": 109348738137551,
+      "name": "I Just Get So Nervy Emote"
+    },
+    {
+      "id": 126071851398889,
+      "name": "Very Low Cortisol Emote"
+    },
+    {
+      "id": 115344615095212,
+      "name": "Angry Rage Emote"
+    },
+    {
+      "id": 106263555506136,
+      "name": "Very Relax Chill Pose"
     }
   ]
 }
