@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 42040,
-  "lastUpdate": "2026-05-30T17:03:42.737Z",
+  "totalItems": 42041,
+  "lastUpdate": "2026-05-30T19:14:16.057Z",
   "data": [
     {
       "id": 3360689775,
@@ -168162,6 +168162,10 @@
     {
       "id": 115565093989443,
       "name": "flying bird"
+    },
+    {
+      "id": 77516444294456,
+      "name": "Yuji Divergent Fists"
     }
   ]
 }
