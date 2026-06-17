@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 44392,
-  "lastUpdate": "2026-06-17T15:27:21.165Z",
+  "totalItems": 44394,
+  "lastUpdate": "2026-06-17T18:15:27.305Z",
   "data": [
     {
       "id": 3360689775,
@@ -177570,6 +177570,14 @@
     {
       "id": 91247634233827,
       "name": "Diva Float Aura"
+    },
+    {
+      "id": 109328268103620,
+      "name": "Spinner"
+    },
+    {
+      "id": 97466586255961,
+      "name": "Wall Phase (Glitch)"
     }
   ]
 }
