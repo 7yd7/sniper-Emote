@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 44748,
-  "lastUpdate": "2026-06-28T20:13:29.208Z",
+  "totalItems": 44760,
+  "lastUpdate": "2026-06-28T22:02:27.986Z",
   "data": [
     {
       "id": 3360689775,
@@ -178994,6 +178994,54 @@
     {
       "id": 135025569392923,
       "name": "Hide Invisible Small Pose"
+    },
+    {
+      "id": 134302355666236,
+      "name": "Cute Sad Sit"
+    },
+    {
+      "id": 117073917891475,
+      "name": "[BEST] Thragg Floating Aura"
+    },
+    {
+      "id": 129414566197147,
+      "name": "Ozan Dance"
+    },
+    {
+      "id": 122243370061637,
+      "name": "Brazil Groove"
+    },
+    {
+      "id": 74071323724284,
+      "name": "Renai Circulation Kawaii (BEST)"
+    },
+    {
+      "id": 75712787699395,
+      "name": "Cutesy Dance"
+    },
+    {
+      "id": 82979009489461,
+      "name": "Vampire Floating Aura"
+    },
+    {
+      "id": 73891470885736,
+      "name": "Blowing Kiss"
+    },
+    {
+      "id": 113315652181678,
+      "name": "Chinese Yao Yi Yao Dance"
+    },
+    {
+      "id": 137721701145609,
+      "name": "Nino Nakano"
+    },
+    {
+      "id": 110665557615450,
+      "name": "Cowboy Holding Hat Pose Idle"
+    },
+    {
+      "id": 137685521979826,
+      "name": "Yagami Light Floating Idle"
     }
   ]
 }
