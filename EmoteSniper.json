@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 46287,
-  "lastUpdate": "2026-07-11T23:55:00.295Z",
+  "totalItems": 46304,
+  "lastUpdate": "2026-07-12T02:39:27.793Z",
   "data": [
     {
       "id": 3360689775,
@@ -185150,6 +185150,74 @@
     {
       "id": 120264488886587,
       "name": "꒰ Cute Wondering Pose"
+    },
+    {
+      "id": 120680019416503,
+      "name": "Entity idle"
+    },
+    {
+      "id": 129935407043747,
+      "name": "Vietnamese Squat"
+    },
+    {
+      "id": 90794626083467,
+      "name": "Cute Idle Emote"
+    },
+    {
+      "id": 100194019413804,
+      "name": "MM2 Death Pose #11"
+    },
+    {
+      "id": 83346530707661,
+      "name": "Lag Disconnect R15 Run"
+    },
+    {
+      "id": 79909990899669,
+      "name": "Turbo Nasir Groove"
+    },
+    {
+      "id": 122660651264618,
+      "name": "Crying Curled Ball"
+    },
+    {
+      "id": 139742803955877,
+      "name": "Curious Cutie Sit"
+    },
+    {
+      "id": 106643050616511,
+      "name": "Shy Crying (Sitting)"
+    },
+    {
+      "id": 80378643174689,
+      "name": "Cutely Crying 💙"
+    },
+    {
+      "id": 90142009060448,
+      "name": "Detained"
+    },
+    {
+      "id": 126237700377149,
+      "name": "MM2 Death Pose #13th"
+    },
+    {
+      "id": 71690130561307,
+      "name": "[OG] Ride a Bike Spin Cycling Meme Emote 🔥"
+    },
+    {
+      "id": 118077286556410,
+      "name": "[R6] Metroman (Die of Death)"
+    },
+    {
+      "id": 92341897066107,
+      "name": "[R6] Boogie Down (Die Of Death)"
+    },
+    {
+      "id": 80252281651230,
+      "name": "Dance of The Summer Setalcix"
+    },
+    {
+      "id": 130756974907062,
+      "name": "Cute Style Idle Emote"
     }
   ]
 }
