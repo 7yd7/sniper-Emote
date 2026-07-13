@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 46457,
-  "lastUpdate": "2026-07-13T21:56:46.768Z",
+  "totalItems": 46461,
+  "lastUpdate": "2026-07-13T22:56:38.788Z",
   "data": [
     {
       "id": 3360689775,
@@ -185830,6 +185830,22 @@
     {
       "id": 103607546817586,
       "name": "Hands Up!"
+    },
+    {
+      "id": 95319890762405,
+      "name": "⏳[LIMITED] Cute Daydream Kicking Feet 🩷"
+    },
+    {
+      "id": 84016108366822,
+      "name": "Hello, I'm Verity (Emote)"
+    },
+    {
+      "id": 114150294030572,
+      "name": "twitch"
+    },
+    {
+      "id": 89492243071834,
+      "name": "Misery Shuffle"
     }
   ]
 }
