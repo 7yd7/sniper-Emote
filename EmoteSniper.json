@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 47036,
-  "lastUpdate": "2026-07-19T20:07:56.484Z",
+  "totalItems": 47048,
+  "lastUpdate": "2026-07-19T21:52:48.547Z",
   "data": [
     {
       "id": 3360689775,
@@ -188146,6 +188146,54 @@
     {
       "id": 102742558719048,
       "name": "Verity Jumpscare Attack"
+    },
+    {
+      "id": 79901038955707,
+      "name": "[LIMITED] Exaggerated Anime Bow"
+    },
+    {
+      "id": 90246202710862,
+      "name": "Stand Ready Endless Aura Float"
+    },
+    {
+      "id": 93521501307360,
+      "name": "Behind you!"
+    },
+    {
+      "id": 99954530449621,
+      "name": "Cute kawaii pose girly profile idle "
+    },
+    {
+      "id": 99380627805032,
+      "name": "Vibe Sway"
+    },
+    {
+      "id": 88809375436188,
+      "name": "Singing Taps #4: Standing Heel Tap"
+    },
+    {
+      "id": 114379137350604,
+      "name": "Singing Taps #3: Tapping Hair Flip"
+    },
+    {
+      "id": 98317449988616,
+      "name": "Singing Taps #2: Twisting Heel Tap"
+    },
+    {
+      "id": 78114811941643,
+      "name": "Singing Taps #1: Twisting Hair Flip"
+    },
+    {
+      "id": 91220393137109,
+      "name": "Hulk Pose"
+    },
+    {
+      "id": 92886245821408,
+      "name": "Fanatical Praise"
+    },
+    {
+      "id": 140102988622802,
+      "name": "Show Your Moves"
     }
   ]
 }
