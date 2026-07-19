@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 47049,
-  "lastUpdate": "2026-07-19T22:52:05.958Z",
+  "totalItems": 47050,
+  "lastUpdate": "2026-07-19T23:57:07.945Z",
   "data": [
     {
       "id": 3360689775,
@@ -188198,6 +188198,10 @@
     {
       "id": 109938123643115,
       "name": "Aura Farm Conquest [R6]"
+    },
+    {
+      "id": 78328365543580,
+      "name": "Spider's Brand New Day Emote"
     }
   ]
 }
