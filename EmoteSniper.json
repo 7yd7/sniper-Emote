@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 47443,
-  "lastUpdate": "2026-07-23T11:09:34.629Z",
+  "totalItems": 47453,
+  "lastUpdate": "2026-07-23T13:55:40.364Z",
   "data": [
     {
       "id": 3360689775,
@@ -189774,6 +189774,46 @@
     {
       "id": 102907253859300,
       "name": "Worm Floating emote"
+    },
+    {
+      "id": 81262927672382,
+      "name": "Cute Doll Profile Pose"
+    },
+    {
+      "id": 96122938928311,
+      "name": "Cutesy Stand"
+    },
+    {
+      "id": 82315879043974,
+      "name": "Oppa Gangnam Style 🕺🏻"
+    },
+    {
+      "id": 89139181428450,
+      "name": "cute dizzy sitting emote ♡"
+    },
+    {
+      "id": 92581951150615,
+      "name": "Jotaro Kujo Point"
+    },
+    {
+      "id": 106152554999634,
+      "name": "mm2 fake die #2"
+    },
+    {
+      "id": 73459761766799,
+      "name": "I Got That Feeling Dance"
+    },
+    {
+      "id": 125268397084187,
+      "name": "🕷️ Spider-Man Hanging Pose"
+    },
+    {
+      "id": 131581555359829,
+      "name": "Dio Timestop "
+    },
+    {
+      "id": 86679820933883,
+      "name": "Get Sturdy 2"
     }
   ]
 }
