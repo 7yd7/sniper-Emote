@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 49553,
-  "lastUpdate": "2026-08-09T22:30:51.620Z",
+  "totalItems": 49564,
+  "lastUpdate": "2026-08-09T23:30:54.939Z",
   "data": [
     {
       "id": 3360689775,
@@ -198214,6 +198214,50 @@
     {
       "id": 135378678804950,
       "name": "Montagem OMG Dauntless"
+    },
+    {
+      "id": 112171869333004,
+      "name": "Sentado Flutuante"
+    },
+    {
+      "id": 118365273801530,
+      "name": "Keep Following - Odetari "
+    },
+    {
+      "id": 86137295967824,
+      "name": "Disco Dance"
+    },
+    {
+      "id": 134016803431256,
+      "name": "SODA SODA - TWS "
+    },
+    {
+      "id": 108829368143744,
+      "name": "Pixel Break Emote"
+    },
+    {
+      "id": 86280856602258,
+      "name": "Micheal Jackson"
+    },
+    {
+      "id": 77533922015432,
+      "name": "Orange Justice "
+    },
+    {
+      "id": 80486021270378,
+      "name": "Baddie PERIOD Emote "
+    },
+    {
+      "id": 79361191457694,
+      "name": "Fecha o Tambor Dance"
+    },
+    {
+      "id": 131870227049350,
+      "name": "[NEW] Side Flip Emote"
+    },
+    {
+      "id": 77540199011897,
+      "name": "floating smooth loop"
     }
   ]
 }
