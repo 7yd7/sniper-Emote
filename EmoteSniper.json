@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 49833,
-  "lastUpdate": "2026-08-12T10:03:44.282Z",
+  "totalItems": 49836,
+  "lastUpdate": "2026-08-12T11:45:10.569Z",
   "data": [
     {
       "id": 3360689775,
@@ -199334,6 +199334,18 @@
     {
       "id": 99254281101022,
       "name": "I really appreciate it Classic Animation"
+    },
+    {
+      "id": 74941152478449,
+      "name": "[OG] Dai Dai Dai Kirai Emote"
+    },
+    {
+      "id": 109313987573956,
+      "name": "Dai Dai Dai Kirai"
+    },
+    {
+      "id": 123174457742254,
+      "name": "Alter Ego"
     }
   ]
 }
