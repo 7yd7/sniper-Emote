@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 50669,
-  "lastUpdate": "2026-08-19T01:09:39.486Z",
+  "totalItems": 50676,
+  "lastUpdate": "2026-08-19T02:56:57.383Z",
   "data": [
     {
       "id": 3360689775,
@@ -202678,6 +202678,34 @@
     {
       "id": 114180250725473,
       "name": "R6 Running Emote"
+    },
+    {
+      "id": 132001379728213,
+      "name": "Peteco Brazilian Dance"
+    },
+    {
+      "id": 70895659118198,
+      "name": "Agitation Jump"
+    },
+    {
+      "id": 139586459618563,
+      "name": "⏳[LIMITED] Cutesy Floating Idle ♡"
+    },
+    {
+      "id": 103497710285005,
+      "name": "⏳[LIMITED] Cute Floating Idle"
+    },
+    {
+      "id": 70803543010960,
+      "name": "Bloody Paradise - ENHYPEN [The Sin : Bliss]"
+    },
+    {
+      "id": 96715054915891,
+      "name": "⏳[LIMITED] Relaxed Nonchalant Sit [AFK, Idle]"
+    },
+    {
+      "id": 72400612816313,
+      "name": "Pikiran ku [ODGJ]"
     }
   ]
 }
