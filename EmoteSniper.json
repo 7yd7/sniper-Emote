@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 52328,
-  "lastUpdate": "2026-09-02T22:24:12.051Z",
+  "totalItems": 52332,
+  "lastUpdate": "2026-09-03T00:58:46.224Z",
   "data": [
     {
       "id": 3360689775,
@@ -209314,6 +209314,22 @@
     {
       "id": 102635218763061,
       "name": "❤︎ Cute Kawaii Kneeling Profile Idle Pose"
+    },
+    {
+      "id": 103333565203623,
+      "name": "Thinking Emote"
+    },
+    {
+      "id": 113484045935574,
+      "name": "Jumping Crab [🦀]"
+    },
+    {
+      "id": 84273796851917,
+      "name": "Dramatic Crying Emote"
+    },
+    {
+      "id": 104345800718609,
+      "name": "Mark Casual Looping Idle Float Aura (Invincible)"
     }
   ]
 }
