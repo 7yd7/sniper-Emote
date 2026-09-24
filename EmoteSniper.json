@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 54576,
-  "lastUpdate": "2026-09-24T18:13:41.672Z",
+  "totalItems": 54601,
+  "lastUpdate": "2026-09-24T21:59:54.918Z",
   "data": [
     {
       "id": 3360689775,
@@ -218306,6 +218306,106 @@
     {
       "id": 122740406985544,
       "name": "Fly Aura pose"
+    },
+    {
+      "id": 88773081358464,
+      "name": "Savage Warrior Idle Emote"
+    },
+    {
+      "id": 115562407653971,
+      "name": "Spider (Creepy)"
+    },
+    {
+      "id": 70881780848370,
+      "name": "Cursed Spider"
+    },
+    {
+      "id": 115152670770137,
+      "name": "Wobbly (Side to Side)"
+    },
+    {
+      "id": 125951819777512,
+      "name": "1x1x1x1 Hacker"
+    },
+    {
+      "id": 112960793106118,
+      "name": "MM2 LOL"
+    },
+    {
+      "id": 84195196348848,
+      "name": "Angel Drifter Aura Emote"
+    },
+    {
+      "id": 139473508625121,
+      "name": "Float"
+    },
+    {
+      "id": 118646421056563,
+      "name": "Effortless Cutie Aura Farming Emote 💕"
+    },
+    {
+      "id": 78633101484165,
+      "name": "Seated Angel 😇 (Cupid)"
+    },
+    {
+      "id": 115710846564060,
+      "name": "Kawaii Profile Pose ♡ (˶˃ ᴗ ˂˶)𑣲"
+    },
+    {
+      "id": 99654587088847,
+      "name": "Emo Sad Boy"
+    },
+    {
+      "id": 120914011254646,
+      "name": "Going CRAY CRAY"
+    },
+    {
+      "id": 139875362536125,
+      "name": "Kawaii Jump Up Superstar"
+    },
+    {
+      "id": 134621287602497,
+      "name": "♡ cutesy standing idle pose"
+    },
+    {
+      "id": 134700470189350,
+      "name": "Or nah - Dance"
+    },
+    {
+      "id": 108987353911121,
+      "name": "[⭐MM2] Wall Glitch!"
+    },
+    {
+      "id": 90965536159784,
+      "name": "Headless Mini Ghost - Halloween"
+    },
+    {
+      "id": 86996146387471,
+      "name": "rectangle box"
+    },
+    {
+      "id": 81069497904752,
+      "name": "halloween headless floating sit "
+    },
+    {
+      "id": 87383302660458,
+      "name": "Jeyke Funk [V2🔥]"
+    },
+    {
+      "id": 90999422679674,
+      "name": "Just like a Cowboy"
+    },
+    {
+      "id": 99076153392470,
+      "name": "😋 Default Dance"
+    },
+    {
+      "id": 100696289945400,
+      "name": "☠️Ragdoll Shove"
+    },
+    {
+      "id": 139297129338877,
+      "name": "🔥 Master Lord Verity"
     }
   ]
 }
