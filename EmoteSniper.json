@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 54670,
-  "lastUpdate": "2026-09-25T23:51:41.287Z",
+  "totalItems": 54676,
+  "lastUpdate": "2026-09-26T03:39:28.851Z",
   "data": [
     {
       "id": 3360689775,
@@ -218682,6 +218682,30 @@
     {
       "id": 112252923868657,
       "name": "Psycho Teddy [+]"
+    },
+    {
+      "id": 74076243796048,
+      "name": "Dodge Roll Emote"
+    },
+    {
+      "id": 111442676847043,
+      "name": "♡ catch catch my heart dance"
+    },
+    {
+      "id": 122145218089157,
+      "name": "♡ cute shy hand idle pose"
+    },
+    {
+      "id": 102865389130322,
+      "name": "♡ kawaii leaning idle pose"
+    },
+    {
+      "id": 74824196030021,
+      "name": "♡ kawaii cute leg up idle pose"
+    },
+    {
+      "id": 101240429910658,
+      "name": "Cute Waya Waya Wa Dance"
     }
   ]
 }
