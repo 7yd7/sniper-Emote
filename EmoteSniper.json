@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 60314,
-  "lastUpdate": "2026-11-09T01:27:34.948Z",
+  "totalItems": 60330,
+  "lastUpdate": "2026-11-09T09:09:48.803Z",
   "data": [
     {
       "id": 3360689775,
@@ -241258,6 +241258,70 @@
     {
       "id": 105211569473644,
       "name": "Tornado"
+    },
+    {
+      "id": 116380250678729,
+      "name": "Laffy Taffy Groove"
+    },
+    {
+      "id": 72374155649265,
+      "name": "Get New Sturdy Emote"
+    },
+    {
+      "id": 123658261579283,
+      "name": "Halloween Float Emote"
+    },
+    {
+      "id": 100762189834607,
+      "name": "Cat Bath Emote"
+    },
+    {
+      "id": 129740385831059,
+      "name": "Mei Mei Snow Leopard Stance"
+    },
+    {
+      "id": 136188611265380,
+      "name": "😡Angry Cute"
+    },
+    {
+      "id": 101848366305213,
+      "name": "Vodyanitsa Idle Animation"
+    },
+    {
+      "id": 140087149691500,
+      "name": "⏳[LIMITED] ♡ Cute Fashionista Idle Profile Pose ♡"
+    },
+    {
+      "id": 107514216740188,
+      "name": "♡ fashionista baddie pose"
+    },
+    {
+      "id": 113522471487946,
+      "name": "⏳[LIMITED] ♡ Sad Rocking Sitting Idle Pose ♡"
+    },
+    {
+      "id": 131165402417746,
+      "name": "♡ sad rocking sit pose"
+    },
+    {
+      "id": 74263384589821,
+      "name": "⏳[LIMITED] ♡ Cute Kawaii Adoring (Idle, Pose) ♡"
+    },
+    {
+      "id": 134796712815008,
+      "name": "♡ TOO CUTE adoring pose"
+    },
+    {
+      "id": 95047165257926,
+      "name": "Exploding"
+    },
+    {
+      "id": 107908598373325,
+      "name": "Punching non-stop"
+    },
+    {
+      "id": 111006340252466,
+      "name": "The walking dead"
     }
   ]
 }
