@@ -1,7 +1,7 @@
 {
   "keyword": null,
-  "totalItems": 61407,
-  "lastUpdate": "2026-11-14T18:40:27.440Z",
+  "totalItems": 61424,
+  "lastUpdate": "2026-11-14T22:53:45.116Z",
   "data": [
     {
       "id": 3360689775,
@@ -245630,6 +245630,74 @@
     {
       "id": 140175991667344,
       "name": "Gentleman Dance - Left"
+    },
+    {
+      "id": 115102353589095,
+      "name": "confused sitting idle profile pose"
+    },
+    {
+      "id": 97544307785347,
+      "name": "Cute Sway (Talk To Me Doja)"
+    },
+    {
+      "id": 112920942220276,
+      "name": "cute doll idle profile pose"
+    },
+    {
+      "id": 94821601984976,
+      "name": "[LIMITED] Rat Dance"
+    },
+    {
+      "id": 135351480639357,
+      "name": "[LIMITED] Default Dance Emote"
+    },
+    {
+      "id": 121236715076676,
+      "name": "Miku Miku ni Ageru - HATSUNE MIKU"
+    },
+    {
+      "id": 104280029009739,
+      "name": "[LIMITED] The Worm"
+    },
+    {
+      "id": 81275497959823,
+      "name": "💢 Tsundere Stomp"
+    },
+    {
+      "id": 128034433397933,
+      "name": "Cashy twist bop🔥"
+    },
+    {
+      "id": 122044895079268,
+      "name": "[LIMITED] Tornado Body"
+    },
+    {
+      "id": 127730070684811,
+      "name": "Fast Spin Emote"
+    },
+    {
+      "id": 97446989344455,
+      "name": "Ballerina Spin 🧑🏻‍🩰"
+    },
+    {
+      "id": 121267491958212,
+      "name": "Agudo Magico 3 Baile"
+    },
+    {
+      "id": 70404642577098,
+      "name": "Stargaze"
+    },
+    {
+      "id": 134549066534305,
+      "name": "Rhythm Groove"
+    },
+    {
+      "id": 89571190048358,
+      "name": "L Dance [💔]"
+    },
+    {
+      "id": 72935290359981,
+      "name": "Pick it up Make it jump Dance"
     }
   ]
 }
